@@ -1,0 +1,34 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="",Adult Swim (East)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/slate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="",TBS (East)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="",TNT (East)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="" group-title="",TruTV (East)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2018/12/cbsn.png" group-title="",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2018/12/cbs-sports-hq.png" group-title="",CBS Sports HQ
+https://bakery.cbsi.video/propeller/cbsshg09/cbss54g2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2019/04/et-live-stacked-transparent.png" group-title="",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="",Yo! MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2019/04/et-live-stacked-transparent.png https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2018/12/cbsn.png https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2018/12/cbs-sports-hq.png
