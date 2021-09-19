@@ -1,0 +1,88 @@
+#EXTINF:-1,History
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-1,Food Network
+http://stream.tvtap.live:8081/live/us-food-network.stream/playlist.m3u8
+#EXTINF:-1,USA Network
+http://stream.tvtap.live:8081/live/us-usanet.stream/playlist.m3u8
+#EXTINF:-1,VH1
+http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8
+#EXTINF:-1,A&E
+http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8
+#EXTINF:-1,Comedy Central
+http://stream.tvtap.live:8081/live/us-comedy.stream/playlist.m3u8
+#EXTINF:-1,FX
+http://stream.tvtap.live:8081/live/us-fx.stream/chunks.m3u8
+#EXTINF:-1,FXX
+http://stream.tvtap.live:8081/live/us-fxx.stream/chunks.m3u8
+#EXTINF:-1,TBS
+http://stream.tvtap.live:8081/live/us-tbs.stream/playlist.m3u8
+#EXTINF:-1,TNT
+http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
+#EXTINF:-1,CINEMAX
+http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1,CINEMAX ACTION
+http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1,Hallmark
+http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF:-1,HBO
+http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1,HBO FAMILY
+http://stream.tvtap.live:8081/live/us-hbofamily.stream/playlist.m3u8
+#EXTINF:-1,HBO ZONE
+http://stream.tvtap.live:8081/live/us-hbozone.stream/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://stream.tvtap.live:8081/live/us-lifetime.stream/playlist.m3u8
+#EXTINF:-1,Paramount
+http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8
+#EXTINF:-1,SHOWTIME
+http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
+#EXTINF:-1,SHOWTIME 2
+http://stream.tvtap.live:8081/live/us-showtime2.stream/playlist.m3u8
+#EXTINF:-1,STARZ
+http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
+#EXTINF:-1,STAR CINEMA
+http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
+#EXTINF:-1,STARZ EDGE
+http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8
+#EXTINF:-1,STARZ ENCORE
+http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
+#EXTINF:-1,SYFY
+http://stream.tvtap.live:8081/live/us-syfy.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://stream.tvtap.live:8081/live/us-animal.stream/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://stream.tvtap.live:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://stream.tvtap.live:8081/live/us-cartoon.stream/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://stream.tvtap.live:8081/live/us-disneyxd.stream/playlist.m3u8
+#EXTINF:-1,Nick
+http://stream.tvtap.live:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1,ABC News
+http://stream.tvtap.live:8081/live/us-abcnews.stream/playlist.m3u8
+#EXTINF:-1,CNBC
+http://stream.tvtap.live:8081/live/us-cnbc.stream/playlist.m3u8
+#EXTINF:-1,CNN
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1,ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1,FS1
+http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
+#EXTINF:-1,FS2
+http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
+#EXTINF:-1,NBCSN
+http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
+#EXTINF:-1,NBA
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+#EXTINF:-1,MLB
+http://stream.tvtap.live:8081/live/mlb.stream/playlist.m3u8
+#EXTINF:-1,NFL
+http://stream.tvtap.live:8081/live/nfl.stream/playlist.m3u8
+#EXTINF:-1,Travel
+http://stream.tvtap.live:8081/live/usa-travel.stream/playlist.m3u8
