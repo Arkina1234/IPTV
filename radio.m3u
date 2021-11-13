@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logod.png" group-title="News Radio",CNN
 https://aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com/v1/manifest/30ead7055f8b8e1f2f04add745f139b184df6925/production/bf2557dd-5541-46ad-bb97-19c77a074082/0.m3u8
 
