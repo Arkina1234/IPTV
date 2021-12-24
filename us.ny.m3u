@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-ny/tvtv.us.epg.xml
+#EXTINF:-1 tvg-id="3ABN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" group-title="Religious",3ABN (576p) [Not 24/7]
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1 channel-number="13" tvg-id="WNET.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/pbs.png" group-title="Local",PBS New York NY (WNET)
+https://arkina1234.github.io/hls/wnet-dt1.m3u8
+#EXTINF:-1 channel-number="13" tvg-id="WNET2.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/pbskids.png" group-title="Kids",PBS Kids (WNET-DT2)
+https://arkina1234.github.io/hls/wnet-dt2.m3u8
+#EXTINF:-1 channel-number="25" tvg-id="WNYETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/nyc-life.png" group-title="Local",NYC Life (WNYE-DT1)
+https://arkina1234.github.io/hls/wnye-dt1.m3u8
+#EXTINF:-1 channel-number="25" tvg-id="WNYETV2.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="General",NYC Gov (WNYE-DT2
+https://arkina1234.github.io/hls/wnye-dt2.m3u8
