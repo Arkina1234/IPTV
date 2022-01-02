@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News" radio="true",FOX News Radio
 https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1,tvg-logo="http://cdn-radiotime-logos.tunein.com/s21606q.png" group-title="News" radio="true",WNYC-FM
+https://fm939.wnyc.org/wnycfm
+#EXTINF:-1,tvg-logo="http://cdn-profiles.tunein.com/s22469/images/logoq.jpg" group-title="Sports" radio="true",ESPN New York (98.7FM)
+http://live.wostreaming.net/direct/espn-wepnmp3-32
+#EXTINF:-1,tvg-logo="https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png" group-title="VOA" radio="true", Voice of America
+https://n03.radiojar.com/t2n88q0st5quv
