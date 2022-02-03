@@ -1,0 +1,11 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CAM",CAM - 1
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CAM",CAM - 2
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CAM",CAM - 3
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CAM",CAM - 4
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://www.earthcam.com/cams/newyork/timessquare/?cam=tstwo_hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CAM",CAM - 5
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd2
