@@ -1,0 +1,24 @@
+[
+{
+    "name": "Test video",
+    "category": "Action",
+    "info": {
+    "poster": "http://poster/image.jpg",
+    "bg": "http://background/image.jpg",
+    "plot": "Something happens...",
+    "cast": [ "John Dow" , "Jane Dow" ],
+    "director": [ "Mr. Smith" ],
+    "country": [ "Zimbabve" ],
+    "rating": "5.5",
+    "year": 2019,
+    "genre": [ "drama", "history" ],
+    "added": 12354235,
+    "duration": 3600,
+    "adult": true,
+  "trailer": "HGH34ghgAU",
+  "backdrop": "http://video/image.jpg",
+    "ttl": 12354235
+ },
+    "video": "http://video/file.mp4",
+}
+]
