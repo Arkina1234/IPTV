@@ -1,0 +1,22 @@
+[
+},
+{
+    "name": "Friends",
+    "category": "Sitcom",
+    "info": { ... },
+    "seasons": [
+        {
+            "season": 1,
+            "info": { ... },
+            "episodes": [
+                {
+                    "episode": 1,
+                    "name": "",
+                    "info": { ... },
+                    "video": "http://episodes/file.mp4"
+                }
+            ]
+        }
+    ]
+}
+]
