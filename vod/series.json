@@ -2,16 +2,16 @@
 {
     "name": "Friends",
     "category": "Sitcom",
-    "info": { ... },
+    "info": { },
     "seasons": [
         {
             "season": 1,
-            "info": { ... },
+            "info": { },
             "episodes": [
                 {
                     "episode": 1,
                     "name": "",
-                    "info": { ... },
+                    "info": { },
                     "video": "https://www.googleapis.com/drive/v3/files/1mlLHcQreHHvNlgoTI1W-hjAjxRH00Jvx?alt=media&key=AIzaSyAUX2qxuy6dxrhczNM8limEAx5JbivXXi4"
                 }
             ]
