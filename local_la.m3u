@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS" tvg-logo="" group-title="Local",KCBSDT - CBS
+https://v-la.mybtv.net/live/161.m3u8
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC" tvg-logo="" group-title="Local",KNBCDT - NBC
+https://v-la.mybtv.net/live/82.m3u8
+#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLA5" tvg-logo="" group-title="Local",KTLADT - KTLA5
+https://v-la.mybtv.net/live/164.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC" tvg-logo="" group-title="Local",KABCDT - ABC
+https://v-la.mybtv.net/live/88.m3u8
+#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCAL9" tvg-logo="" group-title="Local",KCALDT - KCAL9
+https://v-la.mybtv.net/live/259.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX" tvg-logo="" group-title="Local",KTTVDT - FOX
+https://v-la.mybtv.net/live/161.m3u8
+#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="myTV Network" tvg-logo="" group-title="Local",KCOPDT - myTV Network
+https://v-la.mybtv.net/live/270.m3u8
+#EXTINF:-1 tvg-id="KWHYDT1.us" tvg-name="Canal" tvg-logo="" group-title="Local",KWHYDT - Milenio Television LA
+https://v-la.mybtv.net/live/298.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="Univision" tvg-logo="" group-title="Local",KMEXDT - Univision
+https://v-la.mybtv.net/live/178.m3u8
+#EXTINF:-1 tvg-id="KTBNDT1.us" tvg-name="TBN" tvg-logo="" group-title="Local",KTBNDT - TBN
+https://v-la.mybtv.net/live/93.m3u8
+#EXTINF:-1 tvg-id="KFTRDT1.us" tvg-name="UniMás" tvg-logo="" group-title="Local",KFTRDT - UniMás
+https://v-la.mybtv.net/live/299.m3u8
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="Telemundo" tvg-logo="" group-title="Local",KVEADT - Telemundo
+https://v-la.mybtv.net/live/267.m3u8
+#EXTINF:-1 tvg-id="KAZADT1.us" tvg-name="MeTV" tvg-logo="" group-title="Local",KAZADT - MeTV
+https://v-la.mybtv.net/live/268.m3u8
