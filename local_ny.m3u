@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="CBS" tvg-logo="" group-title="Local",WCBSDT (CBS)
+https://v-ny.mybtv.net/live/545.m3u8
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC" tvg-logo="" group-title="Local",WNBCDT (NBC)
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX" tvg-logo="" group-title="Local",WNYWDT (FOX)
+https://v-la.mybtv.net/live/550.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC" tvg-logo="" group-title="Local",WABCDT (ABC)
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="PIX11" tvg-logo="" group-title="Local",WPIXDT (PIX11)
+http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-name="PBS" tvg-logo="" group-title="Local",WNETDT (PBS)
+https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="" group-title="Local",WLIWDT (PBS)
+https://v-ny.mybtv.net/live/575.m3u8
+#EXTINF:-1 tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="" group-title="Local",WNYEDT (NYC Life)
+https://v-ny.mybtv.net/live/591.m3u8
+#EXTINF:-1 tvg-id="WFUTDT1.us" tvg-name="Univision" tvg-logo="" group-title="Local",WFUTDT (Univision)
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1 tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="" group-title="Local",WKOBLD (Azteca America)
+https://v-ny.mybtv.net/live/645.m3u8
