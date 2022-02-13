@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StingrayClassicRock" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
