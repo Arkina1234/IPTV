@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",Star Wars (1977)
-https://www.googleapis.com/drive/v3/files/1va0cOav7UIaqEemVrWAAngq55WuYBDah?alt=media&key=AIzaSyDaTdH86VZNHowVrb9dyxaIpz1t0krb4YU
-#EXTINF:0 tvg-logo="" group-title="",Space Jam (1996)
-https://archive.org/download/movie-on-demand/Space.Jam.1996.720p.HDDVD.x264.YIFY.mp4 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Adventure",Dune (1984)
+https://www.googleapis.com/drive/v3/files/1N8iU0s94y5wiW6lN9zsncOnWdHshZbhE?alt=media&key=AIzaSyBfTW7P9ZT0tPKSvr5Q0gFuP7bJXd17-0E
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Action",The Terminator (1984)
+https://www.googleapis.com/drive/v3/files/1zbbARDWSTQHTser2pQRUZeKcy_E9DS5N?alt=media&key=AIzaSyBIdnn37BkPC6EEU3Maflk8H8QSTCeXxag
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Comedy", Beverly Hills Cop (1984)
+https://www.googleapis.com/drive/v3/files/1y_YS57-fxhazZFycXfxfK8a7jpSKn8dP?alt=media&key=AIzaSyBIdnn37BkPC6EEU3Maflk8H8QSTCeXxag
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Adventure", Indiana Jones and the Temple of Doom (1984)
+https://www.googleapis.com/drive/v3/files/1arFGFma-qM2YgAJqeSikFiy7I5POfxcL?alt=media&key=AIzaSyB-HVhTzyFlC-vFk7VOBgadctZ7BjSvyy8
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Adventure", Ghostbusters (1984)
+https://www.googleapis.com/drive/v3/files/0B1w3-5Kthjy3N2UyMGN5WXpJQ3c?alt=media&key=AIzaSyB-HVhTzyFlC-vFk7VOBgadctZ7BjSvyy8
+#EXTINF:-1 type="movie" tvg-logo="" group-title="Adventure", Back to the Future (1985)
+https://www.googleapis.com/drive/v3/files/1hDaMWVXikd4Ck9Dp4xACSVC3vueRTUAj?alt=media&key=AIzaSyB-HVhTzyFlC-vFk7VOBgadctZ7BjSvyy8
