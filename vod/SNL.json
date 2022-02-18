@@ -1,0 +1,23 @@
+{
+    "name": "Saturday Night Live",
+    "category": "Sitcom",
+    "info": {
+       "poster": "" },
+    "seasons": [
+        {
+            "season": 36,
+            "info": {
+               "poster": "https://www.themoviedb.org/t/p/original/1QaI39NqB8yqeWl2DUX9sf7ClQm.jpg" },
+            "episodes": [
+                {
+                    "episode": 5,
+                    "name": "Jon Hamm with Rihanna",
+                    "info": { 
+                       "poster": "https://www.themoviedb.org/t/p/original/1QaI39NqB8yqeWl2DUX9sf7ClQm.jpg" },
+                    "video": "https://archive.org/download/saturday-night-live-s-36-e-05-jon-hamm/Saturday%20Night%20Live%20S36E05%20Jon%20Hamm.mp4"
+                }
+            ]
+        }
+    ]
+}
+]
