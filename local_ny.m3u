@@ -41,5 +41,5 @@ https://v-ny.mybtv.net/live/593.m3u8
 
 #EXTINF:-1 tvg-id="WABCDT4.us" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="Shopping",WABCDT4 (HSN)
 https://v-ny.mybtv.net/live/613.m3u8
-#EXTINF:-1 tvg-id="WNYJLD1.us" tvg-name="Jewelry TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png" group-title="Local",WNYJLD1 (Jewelry TV)
+#EXTINF:-1 tvg-id="WNYJLD1.us" tvg-name="Jewelry TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png" group-title="Shopping",WNYJLD1 (Jewelry TV)
 https://v-ny.mybtv.net/live/601.m3u8
