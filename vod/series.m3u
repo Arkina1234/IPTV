@@ -1,3 +1,12 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="" group-title="Sitcom",Friends (S01 - E01)
+#EXTINF:0 type="series" tvg-logo="https://www.themoviedb.org/t/p/original/xaMw2qWtslpYgrkE3WlXwLeKPaq.jpg" group-title="Sitcom",Friends (episode 1.1)
 https://www.googleapis.com/drive/v3/files/1mlLHcQreHHvNlgoTI1W-hjAjxRH00Jvx?alt=media&key=AIzaSyAUX2qxuy6dxrhczNM8limEAx5JbivXXi4
+#EXTINF:0 type="series" tvg-logo="https://www.themoviedb.org/t/p/original/xaMw2qWtslpYgrkE3WlXwLeKPaq.jpg" group-title="Sitcom",Friends (episode 1.2)
+https://www.googleapis.com/drive/v3/files/1aXsVd4BZ15bTMGw6eQITGGJ4YtlTVPoF?alt=media&key=AIzaSyBIdnn37BkPC6EEU3Maflk8H8QSTCeXxag
+#EXTINF:0 type="series" tvg-logo="https://www.themoviedb.org/t/p/original/xaMw2qWtslpYgrkE3WlXwLeKPaq.jpg" group-title="Sitcom",Friends (episode 1.3)
+https://www.googleapis.com/drive/v3/files/130f1WPJGUYUEiFqiAL6ZvUXaMMBvmeOu?alt=media&key=AIzaSyBIdnn37BkPC6EEU3Maflk8H8QSTCeXxag
+#EXTINF:0 type="series" tvg-logo="https://www.themoviedb.org/t/p/original/xaMw2qWtslpYgrkE3WlXwLeKPaq.jpg" group-title="Sitcom",Friends (episode 1.4)
+https://www.googleapis.com/drive/v3/files/1zZ8iXfTuAyCDrtZIrcBh-ZbjBdc3ba3O?alt=media&key=AIzaSyBbhoDFL5pP_GaYuxogPMKuY8aMkBG_CgM
+#EXTINF:0 type="series" tvg-logo="https://www.themoviedb.org/t/p/original/xaMw2qWtslpYgrkE3WlXwLeKPaq.jpg" group-title="Sitcom",Friends (episode 1.5)
+https://www.googleapis.com/drive/v3/files/1p_0vBEKbYqFz197xeerIdp0kteGsDjuE?alt=media&key=AIzaSyCyuTvCoNug2HQNEcFVaPUjtICVMnSDxAw
+#EXTINF:0 type="series" tvg-logo="https://www.themoviedb.org/t/p/original/xaMw2qWtslpYgrkE3WlXwLeKPaq.jpg" group-title="Sitcom",Friends (episode 1.6)
+https://www.googleapis.com/drive/v3/files/1e-PV_KyoN6MvCkfk3wAWLm1mirwPuuQ0?alt=media&key=AIzaSyBbhoDFL5pP_GaYuxogPMKuY8aMkBG_CgM
