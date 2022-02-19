@@ -19,3 +19,27 @@ https://v-ny.mybtv.net/live/591.m3u8
 https://v-ny.mybtv.net/live/643.m3u8
 #EXTINF:-1 tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOBLD (Azteca America)
 https://v-ny.mybtv.net/live/645.m3u8
+
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-name="COZI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="General",WNBCDT2 (COZI TV)
+https://v-ny.mybtv.net/live/549.m3u8
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-name="Rewind TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119814_dark_360w_270h.png" group-title="General",WPIXDT4 (Rewind TV)
+https://v-ny.mybtv.net/live/565.m3u8
+
+#EXTINF:-1 tvg-id="WNETDT2.us" tvg-name="PBS Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="Kids",WNETDT2 (PBS Kids)
+https://v-ny.mybtv.net/live/568.m3u8
+
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-name="PBS Create" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png" group-title="Education",WLIWDT2 (Create)
+https://v-ny.mybtv.net/live/576.m3u8
+#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-name="PBS World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56725_dark_360w_270h.png" group-title="Education",WLIWDT3 (World)
+https://v-ny.mybtv.net/live/577.m3u8
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-name="All Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55296_dark_360w_270h.png" group-title="Education",WLIWDT4 (All Arts)
+https://v-ny.mybtv.net/live/578.m3u8
+#EXTINF:-1 tvg-id="WNYEDT2.us" tvg-name="NYC Gov" tvg-logo="" group-title="Education",WNYEDT2 (NYC Gov)
+https://v-ny.mybtv.net/live/592.m3u8
+#EXTINF:-1 tvg-id="WNYEDT3.us" tvg-name="CUNY TV" tvg-logo="" group-title="Education",WNYEDT3 (CUNY TV)
+https://v-ny.mybtv.net/live/593.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT4.us" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="Shopping",WABCDT4 (HSN)
+https://v-ny.mybtv.net/live/613.m3u8
+#EXTINF:-1 tvg-id="WNYJLD1.us" tvg-name="Jewelry TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png" group-title="Local",WNYJLD1 (Jewelry TV)
+https://v-ny.mybtv.net/live/601.m3u8
