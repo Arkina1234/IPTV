@@ -5,7 +5,7 @@ https://v-ny.mybtv.net/live/545.m3u8
 https://v-ny.mybtv.net/live/548.m3u8
 #EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",WNYW-TV (FOX)
 https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",WABC-TV (ABC)
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC-TV (ABC)
 https://v-ny.mybtv.net/live/554.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="PIX11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV (PIX11)
 http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
