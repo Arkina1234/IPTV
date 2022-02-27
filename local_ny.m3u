@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="" tvg-id="WCBSDT1.us" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png" group-title="Local",WCBS-TV (CBS)
 https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC-TV (NBC)
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/500px-WNBC_4_NY.svg.png" group-title="Local",WNBC-DT (NBC)
 https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",WNYW-TV (FOX)
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",WNYW-DT (FOX)
 https://v-ny.mybtv.net/live/550.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Local",WABC-TV (ABC)
 https://v-ny.mybtv.net/live/554.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="PIX11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV (PIX11)
 http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us" tvg-name="PBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WNET-DT (PBS)
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WNET-logo-2X.png" group-title="Local",WNET-DT (PBS)
 https://v-ny.mybtv.net/live/567.m3u8
-#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WLIW-DT (PBS)
+#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WLIW-logo-2X.png" group-title="Local",WLIW-DT (PBS)
 https://v-ny.mybtv.net/live/575.m3u8
-#EXTINF:-1 tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="Local",WNYE-DT (NYC Life)
+#EXTINF:-1 tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="Local",WNYE-TV (NYC Life)
 https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",WXTV-DT (Univision)
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",WXTV-DT (Univision)
 https://v-ny.mybtv.net/live/643.m3u8
 #EXTINF:-1 tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOB-LD (Azteca America)
 https://v-ny.mybtv.net/live/645.m3u8
