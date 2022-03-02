@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="StingrayQello.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113296_ld_h9_ab.png?w=360&h=270" group-title="Stingray",Qello Concerts by Stingray
 https://arkina1234.github.io/hls/stingray/qello.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113296_ld_h9_ab.png?w=360&h=270" group-title="Stingray",Stingray Karaoke
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://fitz.tmsimg.com/assets/s110657_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Karaoke
 https://arkina1234.github.io/hls/stingray/karaoke.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://fitz.tmsimg.com/assets/s90613_ld_h15_ac.png?w=360&h=270" group-title="Stingray",Stingray Naturescape
 https://arkina1234.github.io/hls/stingray/naturescape.m3u8
