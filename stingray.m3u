@@ -1,21 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="StingrayClassicRock" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEverything80s" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113296_ld_h9_ab.png?w=360&h=270" group-title="Stingray",Qello Concerts by Stingray
+https://arkina1234.github.io/hls/stingray/qello.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113296_ld_h9_ab.png?w=360&h=270" group-title="Stingray",Stingray Karaoke
+https://arkina1234.github.io/hls/stingray/karaoke.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo"https://fitz.tmsimg.com/assets/s90613_ld_h15_ac.png?w=360&h=270" group-title="Stingray",Stingray Naturescape
+https://arkina1234.github.io/hls/stingray/naturescape.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Hit List
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Hot Country
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Hot Country
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#EXTINF:-1 tvg-id="StingrayPopAdult" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Pop Adult
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRockAlternative" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Rock Alternative
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Remember the 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Soul Storm
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Exitos del Momento
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="Music",Stingray Urban Beat
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Hip-Hop/R&B
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
