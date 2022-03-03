@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1101" tvg-id="StingrayQello.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113296_ld_h9_ab.png?w=360&h=270" group-title="Stingray",Qello Concerts by Stingray
+https://arkina1234.github.io/hls/stingray/qello.m3u8
+#EXTINF:-1 tvg-chno="1102" tvg-id="StingrayKaraoke.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113296_ld_h9_ab.png?w=360&h=270" group-title="Stingray",Stingray Karaoke
+https://arkina1234.github.io/hls/stingray/karaoke.m3u8
+#EXTINF:-1 tvg-chno="1103" tvg-id="StingrayNaturescape.ca" tvg-logo="https://fitz.tmsimg.com/assets/s90613_ld_h15_ac.png?w=360&h=270" group-title="Stingray",Stingray Naturescape
+https://arkina1234.github.io/hls/stingray/naturescape.m3u8
+#EXTINF:-1 tvg-chno="1104" tvg-id="StingrayGreatestHits.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Greatest Hits
+https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-chno="1105" tvg-id="StingrayClassicRock.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Classic Rock
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-chno="1106" tvg-id="StingrayFlashback70s.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Flashback 70s
+https://xumo-redbox.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-chno="1107" tvg-id="StingrayHitList.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Hit List
+https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-chno="1108" tvg-id="StingrayHotCountry.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Hot Country
+https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-chno="1109" tvg-id="StingrayPopAdult.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Pop Adult
+https://xumo-redbox.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 tvg-chno="1110" tvg-id="StingrayEverything80s.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Remember the 80s
+https://xumo-redbox.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-chno="1111" tvg-id="StingrayRockAlternative.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Alternative
+https://xumo-redbox.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 tvg-chno="1112" tvg-id="StingraySoulStorm.ca" tvg-logo"https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Soul Storm
+https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 tvg-chno="1113" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Exitos del Momento
+https://xumo-redbox.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 tvg-chno="1114" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://fitz.tmsimg.com/assets/s113306_ld_h15_ab.png?w=360&h=270" group-title="Stingray",Stingray Hip-Hop/R&B
+https://xumo-redbox.ott-channels.stingray.com/133/master.m3u8
+
+#EXTINF:-1 tvg-chno="1116" tvg-id="MusicChoicePopHits.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Pop Hits
+http://173.208.212.186/MusicChoice/generate.php?id=POP-HITS&source=1
+#EXTINF:-1 tvg-chno="1117" tvg-id="MusicChoiceHitList.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Hit List
+http://173.208.212.186/MusicChoice/generate.php?id=HIT-LIST&source=1
+#EXTINF:-1 tvg-chno="1118" tvg-id="MusicChoiceHipHopandRB.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Hip-Hop and R&B
+http://173.208.212.186/MusicChoice/generate.php?id=HIP-HOP-AND-RANDB&source=1
+#EXTINF:-1 tvg-chno="1119" tvg-id="MusicChoicePopCountry.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice Pop & Country
+http://173.208.212.186/MusicChoice/generate.php?id=POP-AND-COUNTRY&source=1
+#EXTINF:-1 tvg-chno="1120" tvg-id="MusicChoiceRock.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Rock
+http://173.208.212.186/MusicChoice/generate.php?id=ROCK&source=1
+#EXTINF:-1 tvg-chno="1121" tvg-id="MusicChoiceMetal.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Metal
+http://173.208.212.186/MusicChoice/generate.php?id=METAL&source=1
+#EXTINF:-1 tvg-chno="1122" tvg-id="MusicChoiceAlternative.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Alternative
+http://173.208.212.186/MusicChoice/generate.php?id=ALTERNATIVE&source=1
+#EXTINF:-1 tvg-chno="1123" tvg-id="MusicChoiceRap.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Rap
+http://173.208.212.186/MusicChoice/generate.php?id=RAP&source=1
+#EXTINF:-1 tvg-chno="1124" tvg-id="MusicChoiceRBSoul.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: R&B Soul
+http://173.208.212.186/MusicChoice/generate.php?id=RANDB-SOUL&source=1
+#EXTINF:-1 tvg-chno="1125" tvg-id="MusicChoiceDanceEDM.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Dance/EDM
+http://173.208.212.186/MusicChoice/generate.php?id=DANCE-EDM&source=1
+#EXTINF:-1 tvg-chno="1126" tvg-id="MusicChoicePopLatino.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Pop Latino
+http://173.208.212.186/MusicChoice/generate.php?id=POP-LATINO&source=1
+#EXTINF:-1 tvg-chno="1127" tvg-id="MusicChoiceMexicana.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Mexicana
+http://173.208.212.186/MusicChoice/generate.php?id=MEXICANA&source=1
+#EXTINF:-1 tvg-chno="1128" tvg-id="MusicChoiceMusicUrbana.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Musica Urbana
+http://173.208.212.186/MusicChoice/generate.php?id=MUSICA-URBANA&source=1
+#EXTINF:-1 tvg-chno="1129" tvg-id="MusicChoiceTodaysCountry.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Today's Country
+http://173.208.212.186/MusicChoice/generate.php?id=TODAYS-COUNTRY&source=1
+#EXTINF:-1 tvg-chno="1130" tvg-id="MusicChoiceTropicales.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Tropicales
+http://173.208.212.186/MusicChoice/generate.php?id=TROPICALES&source=1
+#EXTINF:-1 tvg-chno="1131" tvg-id="MusicChoiceIndie.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Indie
+http://173.208.212.186/MusicChoice/generate.php?id=INDIE&source=1
+#EXTINF:-1 tvg-chno="1132" tvg-id="MusicChoiceKidzOnly.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Kids Only!
+http://173.208.212.186/MusicChoice/generate.php?id=KIDZ-ONLY&source=1
+#EXTINF:-1 tvg-chno="1133" tvg-id="MusicChoiceToddlerTunes.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Toddler Tunes
+http://173.208.212.186/MusicChoice/generate.php?id=TODDLER-TUNES&source=1
+#EXTINF:-1 tvg-chno="1134" tvg-id="MusicChoiceTeenBeats.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Teen Beats
+http://173.208.212.186/MusicChoice/generate.php?id=TEEN-BEATS&source=1
+#EXTINF:-1 tvg-chno="1135" tvg-id="MusicChoiceThrowbackJamz.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Throwback Jamz
+http://173.208.212.186/MusicChoice/generate.php?id=THROWBACK-JAMZ&source=1
+#EXTINF:-1 tvg-chno="1136" tvg-id="MusicChoiceY2K.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Y2K
+http://173.208.212.186/MusicChoice/generate.php?id=Y2K&source=1
