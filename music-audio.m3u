@@ -36,13 +36,13 @@ https://arkina1234.github.io/hls/MusicChoice/hit-list.m3u8
 https://arkina1234.github.io/hls/MusicChoice/hip-hop.m3u8
 #EXTINF:-1 tvg-chno="1119" tvg-id="MusicChoicePopCountry.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice Pop & Country
 https://arkina1234.github.io/hls/MusicChoice/pop-country.m3u8
-#EXTINF:-1 tvg-chno="1120" tvg-id="MusicChoiceRock.us" tvg-logo"" group-title="Music Choice",Music Choice: Rock
+#EXTINF:-1 tvg-chno="1120" tvg-id="MusicChoiceRock.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Rock
 https://arkina1234.github.io/hls/MusicChoice/rock.m3u8
-#EXTINF:-1 tvg-chno="1121" tvg-id="MusicChoiceMetal.us" tvg-logo"" group-title="Music Choice",Music Choice: Metal
+#EXTINF:-1 tvg-chno="1121" tvg-id="MusicChoiceMetal.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Metal
 https://arkina1234.github.io/hls/MusicChoice/metal.m3u8
 #EXTINF:-1 tvg-chno="1122" tvg-id="MusicChoiceAlternative.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Alternative
 https://arkina1234.github.io/hls/MusicChoice/alternative.m3u8
-#EXTINF:-1 tvg-chno="1123" tvg-id="MusicChoiceRap.us" tvg-logo"" group-title="Music Choice",Music Choice: Rap
+#EXTINF:-1 tvg-chno="1123" tvg-id="MusicChoiceRap.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: Rap
 https://arkina1234.github.io/hls/MusicChoice/rap.m3u8
 #EXTINF:-1 tvg-chno="1124" tvg-id="MusicChoiceRBSoul.us" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Music Choice",Music Choice: R&B Soul
 https://arkina1234.github.io/hls/MusicChoice/rb-soul.m3u8
