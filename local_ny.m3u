@@ -13,6 +13,8 @@ https://v-ny.mybtv.net/live/559.m3u8
 https://v-ny.mybtv.net/live/562.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WNET-logo-2X.png" group-title="Local",WNET-DT (PBS)
 https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="WNDTCD1.us" tvg-name="FNX" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WNDT-logo-2X.png" group-title="Local",WNDT-CD (FNX)
+https://v-ny.mybtv.net/live/569.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-name="PBS" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WLIW-logo-2X.png" group-title="Local",WLIW-DT (PBS)
 https://v-ny.mybtv.net/live/575.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="WNYEDT1.us" tvg-name="NYC Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="Local",WNYE-TV (NYC Life)
@@ -21,6 +23,8 @@ https://v-ny.mybtv.net/live/591.m3u8
 https://v-ny.mybtv.net/live/643.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOB-LD (Azteca America)
 https://v-ny.mybtv.net/live/645.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="WMBQCD1.us" tvg-name="FNX" tvg-logo="https://dv2oc5tyj18yr.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WMBQ-logo-2X.png" group-title="Local",WMBQ-CD (FNX)
+https://v-ny.mybtv.net/live/658.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Local",WNJU-DT (Telemundo)
 https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/WFUT-DT_%282021%29.png" group-title="Local",WFUT-DT (UniMás)
