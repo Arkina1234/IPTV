@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="GB" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png" group-title="International",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="GB" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/250px-BBC_World_News_2019.svg.png" group-title="International",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="GB" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/250px-Sky_News_logo.svg.png" group-title="International",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="FR" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/250px-FRANCE_24_logo.svg.png" group-title="International",France 24
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="DE" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/250px-Deutsche_Welle_Logo.svg.png" group-title="International",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="TR" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/250px-TRT_World.svg.png" group-title="International",
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 channel-id="" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" tvg-country="RU" tvg-language="English" tvg-chno="" tvg-logo="" group-title="International",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="JP" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="International",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="CH" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/250px-CGTN.png" group-title="International",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
