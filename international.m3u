@@ -11,7 +11,7 @@ https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-country="TR" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/250px-TRT_World.svg.png" group-title="International",
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 channel-id="" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" tvg-country="RU" tvg-language="English" tvg-chno="" tvg-logo="" group-title="International",RT
+#EXTINF:-1 channel-id="" tvg-id="" tvg-country="RU" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="International",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-country="JP" tvg-language="English" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="International",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
