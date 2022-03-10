@@ -5,7 +5,7 @@ https://v-pi.mybtv.net/live/318.m3u8
 https://v-pi.mybtv.net/live/333.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAU-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png" group-title="Local",WCAU-TV (NBC)
 https://v-pi.mybtv.net/live/345.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png.png?w=512&amp;h=250&quot" group-title="Local",WHYY-DT (PBS)
+#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=512&amp;h=250&quot" group-title="Local",WHYY-DT (PBS)
 https://v-pi.mybtv.net/live/347.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="WHYYDT2.us" tvg-name="PBS" tvg-logo="http://tvtv.tmsimg.com/assets/s45913_ll_h15_aa.png?w=512&amp;h=250&quot" group-title="",Y2
 https://v-pi.mybtv.net/live/348.m3u8
@@ -15,7 +15,7 @@ https://v-pi.mybtv.net/live/349.m3u8
 https://v-pi.mybtv.net/live/355.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",WNJS-DT
 https://v-pi.mybtv.net/live/359.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://tvtv.tmsimg.com/assets/s59155_ll_h15_aa.png.png?w=512&amp;h=250&quot" group-title="",NHK World
+#EXTINF:-1 tvg-chno="72" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://tvtv.tmsimg.com/assets/s59155_ll_h15_aa.png?w=512&amp;h=250&quot" group-title="",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox29.png" group-title="Local",WTXF-TV (FOX)
 https://v-pi.mybtv.net/live/369.m3u8
