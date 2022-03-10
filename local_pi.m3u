@@ -13,13 +13,15 @@ https://v-pi.mybtv.net/live/348.m3u8
 https://v-pi.mybtv.net/live/349.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="WPHLDT1.us" tvg-name="WPHL-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/512px-WPHL-TV_logo.svg.png" group-title="Local",WPHL-TV (PHL17)
 https://v-pi.mybtv.net/live/355.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",WNJS-DT
+#EXTINF:-1 tvg-chno="23" tvg-id="WNJSDT1.us" tvg-name="WNJS" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",NJ PBS
 https://v-pi.mybtv.net/live/359.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://tvtv.tmsimg.com/assets/s59155_ll_h15_aa.png?w=512&amp;h=250&quot" group-title="",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox29.png" group-title="Local",WTXF-TV (FOX)
 https://v-pi.mybtv.net/live/369.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=512&amp;h=250&quot" group-title="Local",WFMZ-DT1
+#EXTINF:-1 tvg-chno="52" tvg-id="WNJTDT1.us" tvg-name="WNJT" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",NJ PBS
+https://v-pi.mybtv.net/live/359.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="WFMZ-DT1" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=512&amp;h=250&quot" group-title="Local",WFMZ-DT1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="" tvg-name="" tvg-logo="http://tvtv.tmsimg.com/assets/s35859_ll_h8_aa.png?w=512&amp;h=250&quot" group-title="",WFMZ-DT2
+#EXTINF:-1 tvg-chno="172" tvg-id="KVHDLD2.us" tvg-name="WFMZ-DT2" tvg-logo="http://tvtv.tmsimg.com/assets/s35859_ll_h8_aa.png?w=512&amp;h=250&quot" group-title="",WFMZ-DT2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
