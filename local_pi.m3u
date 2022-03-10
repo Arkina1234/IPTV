@@ -4,7 +4,7 @@ https://v-pi.mybtv.net/live/418.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="WPVIDT1.us" tvg-name="WPVI-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/243px-WPVI-TV_logos.svg.png" group-title="Local",WPVI-TV (ABC)
 https://v-pi.mybtv.net/live/333.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAU-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png" group-title="Local",WCAU-TV (NBC)
-https://v-pi.mybtv.net/live/322.m3u8
+https://v-pi.mybtv.net/live/345.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png.png?w=512&amp;h=250&quot" group-title="Local",WHYY-DT (PBS)
 https://v-pi.mybtv.net/live/347.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="WHYYDT2.us" tvg-name="PBS" tvg-logo="http://tvtv.tmsimg.com/assets/s45913_ll_h15_aa.png?w=512&amp;h=250&quot" group-title="",Y2
