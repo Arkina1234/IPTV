@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="" tvg-chno="3" tvg-logo="",KYW-DT (CBS)
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="KYW-DT" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png",KYW-TV (CBS)
 https://v-pi.mybtv.net/live/418.m3u8
 #EXTINF:-1 tvg-id="KPIXDT4.us" tvg-name="" tvg-chno="3" tvg-logo="",Fave TV
 https://v-ca.mybtv.net/live/763.m3u8
 
-#EXTINF:-1 tvg-id="TCT.us" tvg-name="" tvg-chno="4" tvg-logo="",WACP-DT (TCT)
+#EXTINF:-1 tvg-id="TCT.us" tvg-name="WACP-DT" tvg-chno="4" tvg-logo="",TCT
 https://v-pi.mybtv.net/live/321.m3u8
 #EXTINF:-1 tvg-id="SBNDomestic.us" tvg-name="" tvg-chno="4" tvg-logo="",SBN
 https://v-pi.mybtv.net/live/365.m3u8
@@ -19,7 +19,7 @@ https://v-pi.mybtv.net/live/326.m3u8
 #EXTINF:-1 tvg-id="K38IZD2.us" tvg-name="" tvg-chno="4" tvg-logo="",ACE TV
 https://v-pi.mybtv.net/live/322.m3u8
 
-#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="" tvg-chno="6" tvg-logo="",WPVI-DT (ABC)
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVI-DT" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/243px-WPVI-TV_logos.svg.png",WPVI-TV (ABC)
 https://v-pi.mybtv.net/live/333.m3u8
 #EXTINF:-1 tvg-id="WPVIDT3.us" tvg-name="" tvg-chno="6" tvg-logo="",This TV
 https://v-la.mybtv.net/live/165.m3u8
@@ -38,30 +38,30 @@ https://v-pi.mybtv.net/live/988.m3u8
 #EXTINF:-1 tvg-id="WKOBLD2.us" tvg-name="" tvg-chno="8" tvg-logo="",WELL-LP
 https://v-pi.mybtv.net/live/322.m3u8
 
-#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="" tvg-chno="10" tvg-logo="",WCAU-DT (NBC)
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="WCAU-DT" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png",WCAU-TV (NBC)
 https://v-pi.mybtv.net/live/322.m3u8
 #EXTINF:-1 tvg-id="WCAUDT2.us" tvg-name="" tvg-chno="10" tvg-logo="",COZI TV
 https://v-pi.mybtv.net/live/322.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-name="" tvg-chno="10" tvg-logo="",LX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 
-#EXTINF:-1 tvg-id="WHYYDT1.us" tvg-name="" tvg-chno="12" tvg-logo="",WHYY-DT1
+#EXTINF:-1 tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-chno="12" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png.png?w=512&amp;h=250&quot",WHYY-DT1
 https://v-pi.mybtv.net/live/347.m3u8
-#EXTINF:-1 tvg-id="WHYYDT2.us" tvg-name="" tvg-chno="12" tvg-logo="",WHYY-DT2
+#EXTINF:-1 tvg-id="WHYYDT2.us" tvg-name="PBS" tvg-chno="12" tvg-logo="http://tvtv.tmsimg.com/assets/s45913_ll_h15_aa.png?w=512&amp;h=250&quot",WHYY-DT2
 https://v-pi.mybtv.net/live/348.m3u8
-#EXTINF:-1 tvg-id="WHYYDT3.us" tvg-name="" tvg-chno="12" tvg-logo="",WHYY-KIDS
+#EXTINF:-1 tvg-id="WHYYDT3.us" tvg-name="PBS KIDS" tvg-chno="12" tvg-logo="http://tvtv.tmsimg.com/assets/s51000_ll_h15_aa.png?w=512&amp;h=250&quot",WHYY-KIDS
 https://v-pi.mybtv.net/live/349.m3u8
 
-#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-name="" tvg-chno="17" tvg-logo="",WPHL-DT
+#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-name="" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/512px-WPHL-TV_logo.svg.png",WPHL-TV
 https://v-pi.mybtv.net/live/355.m3u8
 #EXTINF:-1 tvg-id="WPHLDT2.us" tvg-name="" tvg-chno="17" tvg-logo="",Antenna TV
 https://v-pi.mybtv.net/live/356.m3u8
 #EXTINF:-1 tvg-id="WPHLDT3.us" tvg-name="" tvg-chno="17" tvg-logo="",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="23" tvg-logo="",WNJS-DT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="23" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png",WNJS-DT
 https://v-pi.mybtv.net/live/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHKWorldJapan.jp" tvg-chno="23" tvg-logo="",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHKWorldJapan.jp" tvg-chno="23" tvg-logo="http://tvtv.tmsimg.com/assets/s59155_ll_h15_aa.png.png?w=512&amp;h=250&quot",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24" tvg-logo="",WPHA-CD1
@@ -80,7 +80,7 @@ https://v-pi.mybtv.net/live/365.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25" tvg-logo="",WPHY-CD3
 https://v-pi.mybtv.net/live/325.m3u8
 
-#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="" tvg-chno="29" tvg-logo="",WTXF-DT (Fox)
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="" tvg-chno="29" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox29.png",WTXF-DT (Fox)
 https://v-pi.mybtv.net/live/369.m3u8
 #EXTINF:-1 tvg-id="WTXFDT2.us" tvg-name="" tvg-chno="29" tvg-logo="",Movies!
 https://v-la.mybtv.net/live/257.m3u8
@@ -99,26 +99,26 @@ https://v-pi.mybtv.net/live/395.m3u8
 #EXTINF:-1 tvg-id="WKOBLD2.us" tvg-name="" tvg-chno="45" tvg-logo="",WELL-LD
 https://v-pi.mybtv.net/live/322.m3u8
 
-#EXTINF:-1 tvg-id="WFMZDT1.us" tvg-name="" tvg-chno="46" tvg-logo="",WFMZ-LD1
+#EXTINF:-1 tvg-id="WFMZDT1.us" tvg-name="" tvg-chno="46" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=512&amp;h=250&quot",WFMZ-LD1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="46" tvg-logo="",WFMZ-LD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="46" tvg-logo="http://tvtv.tmsimg.com/assets/s35859_ll_h8_aa.png?w=512&amp;h=250&quot",WFMZ-LD2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
 
-#EXTINF:-1 tvg-id="KTBNDT1.us" tvg-name="" tvg-chno="48" tvg-logo="",TBN
+#EXTINF:-1 tvg-id="KTBNDT1.us" tvg-name="" tvg-chno="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_dark_360w_270h.png",TBN
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
-#EXTINF:-1 tvg-id="KTBNDT2.us" tvg-name="" tvg-chno="48" tvg-logo="",TBN Inspire
+#EXTINF:-1 tvg-id="KTBNDT2.us" tvg-name="" tvg-chno="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122276_dark_360w_270h.png",TBN Inspire
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:-1 tvg-id="KTBNDT3.us" tvg-name="" tvg-chno="48" tvg-logo="",Smile TV
+#EXTINF:-1 tvg-id="KTBNDT3.us" tvg-name="" tvg-chno="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",Smile TV
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
-#EXTINF:-1 tvg-id="KTBNDT5.us" tvg-name="" tvg-chno="48" tvg-logo="",Postiv TV
+#EXTINF:-1 tvg-id="KTBNDT5.us" tvg-name="" tvg-chno="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34169_dark_360w_270h.png",Postiv TV
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51" tvg-logo="",WPHY-CD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51" tvg-logo="",WTVE-CD1
 https://v-pi.mybtv.net/live/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51" tvg-logo="",WPHY-CD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51" tvg-logo="",WTVE-CD2
 https://v-pi.mybtv.net/live/401.m3u8
 
-#EXTINF:-1 tvg-id="WFMZDT1.us" tvg-name="" tvg-chno="69" tvg-logo="",WFMZ-DT1
+#EXTINF:-1 tvg-id="WFMZDT1.us" tvg-name="" tvg-chno="69" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=512&amp;h=250&quot",WFMZ-DT1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="69" tvg-logo="",WFMZ-DT2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="69" tvg-logo="http://tvtv.tmsimg.com/assets/s35859_ll_h8_aa.png?w=512&amp;h=250&quot",WFMZ-DT2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
