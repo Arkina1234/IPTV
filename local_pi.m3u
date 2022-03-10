@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYW-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="Local",KYW-TV (CBS)
-https://v-pi.mybtv.net/live/418.m3u8
+https://v-pi.mybtv.net/live/318.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="WPVIDT1.us" tvg-name="WPVI-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/243px-WPVI-TV_logos.svg.png" group-title="Local",WPVI-TV (ABC)
 https://v-pi.mybtv.net/live/333.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAU-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png" group-title="Local",WCAU-TV (NBC)
