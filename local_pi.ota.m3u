@@ -1,125 +1,124 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="3.1" tvg-logo="",KYW-DT (CBS)
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="" tvg-chno="3" tvg-logo="",KYW-DT (CBS)
 https://v-pi.mybtv.net/live/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="3.4" tvg-logo="",Fave TV
+#EXTINF:-1 tvg-id="KPIXDT4.us" tvg-name="" tvg-chno="3" tvg-logo="",Fave TV
 https://v-ca.mybtv.net/live/763.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.1" tvg-logo="",WACP-DT (TCT)
+#EXTINF:-1 tvg-id="TCT.us" tvg-name="" tvg-chno="4" tvg-logo="",WACP-DT (TCT)
 https://v-pi.mybtv.net/live/321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.2" tvg-logo="",SBN
+#EXTINF:-1 tvg-id="SBNDomestic.us" tvg-name="" tvg-chno="4" tvg-logo="",SBN
 https://v-pi.mybtv.net/live/365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.3" tvg-logo="",Heartland Network
+#EXTINF:-1 tvg-id="KZGNLD1.us" tvg-name="" tvg-chno="4" tvg-logo="",Heartland Network
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.4" tvg-logo="",Shop LC
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="" tvg-chno="4" tvg-logo="",Shop LC
 https://v-pi.mybtv.net/live/324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.5" tvg-logo="",Jewelry TV
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="" tvg-chno="4" tvg-logo="",Jewelry TV
 https://v-pi.mybtv.net/live/325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.6" tvg-logo="",The Family Channel
+#EXTINF:-1 tvg-id="TheFamilyChannel.us" tvg-name="" tvg-chno="4" tvg-logo="",The Family Channel
 https://v-pi.mybtv.net/live/326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4.7" tvg-logo="",ACE TV
+#EXTINF:-1 tvg-id="K38IZD2.us" tvg-name="" tvg-chno="4" tvg-logo="",ACE TV
 https://v-pi.mybtv.net/live/322.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="6.1" tvg-logo="",WPVI-DT (ABC)
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="" tvg-chno="6" tvg-logo="",WPVI-DT (ABC)
 https://v-pi.mybtv.net/live/333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="6.3" tvg-logo="",This TV
+#EXTINF:-1 tvg-id="WPVIDT3.us" tvg-name="" tvg-chno="6" tvg-logo="",This TV
 https://v-la.mybtv.net/live/165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="6.4" tvg-logo="",QVC
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="" tvg-chno="6" tvg-logo="",QVC
 https://v-pi.mybtv.net/live/427.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7.1" tvg-logo="",WEFG-LD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" tvg-logo="",WEFG-LD1
 https://v-pi.mybtv.net/live/988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7.2" tvg-logo="",WEFG-LD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" tvg-logo="",WEFG-LD2
 https://v-pi.mybtv.net/live/988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7.3" tvg-logo="",WEFG-LD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" tvg-logo="",WEFG-LD3
 https://v-pi.mybtv.net/live/988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7.4" tvg-logo="",WEFG-LD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" tvg-logo="",WEFG-LD4
 https://v-pi.mybtv.net/live/988.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="8" tvg-logo="",WELL-LP
+#EXTINF:-1 tvg-id="WKOBLD2.us" tvg-name="" tvg-chno="8" tvg-logo="",WELL-LP
 https://v-pi.mybtv.net/live/322.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="10.1" tvg-logo="",WCAU-DT (NBC)
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="" tvg-chno="10" tvg-logo="",WCAU-DT (NBC)
 https://v-pi.mybtv.net/live/322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="10.2" tvg-logo="",COZI TV
+#EXTINF:-1 tvg-id="WCAUDT2.us" tvg-name="" tvg-chno="10" tvg-logo="",COZI TV
 https://v-pi.mybtv.net/live/322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="10.3" tvg-logo="",LX
+#EXTINF:-1 tvg-id="NBCLX.us" tvg-name="" tvg-chno="10" tvg-logo="",LX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="12.1" tvg-logo="",WHYY-DT1
+#EXTINF:-1 tvg-id="WHYYDT1.us" tvg-name="" tvg-chno="12" tvg-logo="",WHYY-DT1
 https://v-pi.mybtv.net/live/347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="12.2" tvg-logo="",WHYY-DT2
+#EXTINF:-1 tvg-id="WHYYDT2.us" tvg-name="" tvg-chno="12" tvg-logo="",WHYY-DT2
 https://v-pi.mybtv.net/live/348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="12.3" tvg-logo="",WHYY-KIDS
+#EXTINF:-1 tvg-id="WHYYDT3.us" tvg-name="" tvg-chno="12" tvg-logo="",WHYY-KIDS
 https://v-pi.mybtv.net/live/349.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="17.1" tvg-logo="",WPHL-DT
+#EXTINF:-1 tvg-id="WPHLDT1.us" tvg-name="" tvg-chno="17" tvg-logo="",WPHL-DT
 https://v-pi.mybtv.net/live/355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="17.2" tvg-logo="",Antenna TV
+#EXTINF:-1 tvg-id="WPHLDT2.us" tvg-name="" tvg-chno="17" tvg-logo="",Antenna TV
 https://v-pi.mybtv.net/live/356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="13.3" tvg-logo="",Court TV
+#EXTINF:-1 tvg-id="WPHLDT3.us" tvg-name="" tvg-chno="17" tvg-logo="",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="23.1" tvg-logo="",WNJS-DT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="23" tvg-logo="",WNJS-DT
 https://v-pi.mybtv.net/live/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="23.2" tvg-logo="",NHK World
-https://v-pi.mybtv.net/live/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKWorldJapan.jp" tvg-chno="23" tvg-logo="",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24.1" tvg-logo="",WPHA-CD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24" tvg-logo="",WPHA-CD1
 https://v-pi.mybtv.net/live/361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24.2" tvg-logo="",WPHA-CD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24" tvg-logo="",WPHA-CD2
 https://v-pi.mybtv.net/live/362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24.3" tvg-logo="",WPHA-CD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24" tvg-logo="",WPHA-CD3
 https://v-pi.mybtv.net/live/363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24.3" tvg-logo="",WPHA-CD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24" tvg-logo="",WPHA-CD4
 https://v-pi.mybtv.net/live/988.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25.1" tvg-logo="",WPHY-CD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25" tvg-logo="",WPHY-CD1
 https://v-pi.mybtv.net/live/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25.2" tvg-logo="",WPHY-CD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25" tvg-logo="",WPHY-CD2
 https://v-pi.mybtv.net/live/365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25.3" tvg-logo="",WPHY-CD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="25" tvg-logo="",WPHY-CD3
 https://v-pi.mybtv.net/live/325.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="29.1" tvg-logo="",WTXF-DT (Fox)
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="" tvg-chno="29" tvg-logo="",WTXF-DT (Fox)
 https://v-pi.mybtv.net/live/369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="29.2" tvg-logo="",Movies!
+#EXTINF:-1 tvg-id="WTXFDT2.us" tvg-name="" tvg-chno="29" tvg-logo="",Movies!
 https://v-la.mybtv.net/live/257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="29.3" tvg-logo="",The Grio
+#EXTINF:-1 tvg-id="WTXFDT3.us" tvg-name="" tvg-chno="29" tvg-logo="",The Grio
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="29.4" tvg-logo="",BUZZR
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="" tvg-chno="29" tvg-logo="",BUZZR
 https://v-ca.mybtv.net/live/729.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="44.1" tvg-logo="",WMCN-DT1
+#EXTINF:-1 tvg-id="ShopHQ.us" tvg-name="" tvg-chno="44" tvg-logo="",WMCN-DT1
 https://v-pi.mybtv.net/live/396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="44.2" tvg-logo="",WMCN-DT2
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="" tvg-chno="44" tvg-logo="",WMCN-DT2
 https://v-pi.mybtv.net/live/324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="44.3" tvg-logo="",WMCN-DT3
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="" tvg-chno="44" tvg-logo="",WMCN-DT3
 https://v-pi.mybtv.net/live/395.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="45" tvg-logo="",WELL-LD
+#EXTINF:-1 tvg-id="WKOBLD2.us" tvg-name="" tvg-chno="45" tvg-logo="",WELL-LD
 https://v-pi.mybtv.net/live/322.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="46.1" tvg-logo="",WFMZ-LD1
+#EXTINF:-1 tvg-id="WFMZDT1.us" tvg-name="" tvg-chno="46" tvg-logo="",WFMZ-LD1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="46.2" tvg-logo="",WFMZ-LD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="46" tvg-logo="",WFMZ-LD2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="48.1" tvg-logo="",TBN
+#EXTINF:-1 tvg-id="KTBNDT1.us" tvg-name="" tvg-chno="48" tvg-logo="",TBN
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="48.2" tvg-logo="",TBN Inspire
+#EXTINF:-1 tvg-id="KTBNDT2.us" tvg-name="" tvg-chno="48" tvg-logo="",TBN Inspire
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="48.3" tvg-logo="",Smile TV
+#EXTINF:-1 tvg-id="KTBNDT3.us" tvg-name="" tvg-chno="48" tvg-logo="",Smile TV
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="48.4" tvg-logo="",Postiv TV
+#EXTINF:-1 tvg-id="KTBNDT5.us" tvg-name="" tvg-chno="48" tvg-logo="",Postiv TV
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51.1" tvg-logo="",WPHY-CD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51" tvg-logo="",WPHY-CD1
 https://v-pi.mybtv.net/live/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51.2" tvg-logo="",WPHY-CD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="51" tvg-logo="",WPHY-CD1
 https://v-pi.mybtv.net/live/401.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="69.1" tvg-logo="",WFMZ-DT1
+#EXTINF:-1 tvg-id="WFMZDT1.us" tvg-name="" tvg-chno="69" tvg-logo="",WFMZ-DT1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="69.2" tvg-logo="",WFMZ-DT2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="69" tvg-logo="",WFMZ-DT2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
