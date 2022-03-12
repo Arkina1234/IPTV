@@ -23,5 +23,5 @@ https://v-pi.mybtv.net/live/369.m3u8
 https://v-pi.mybtv.net/live/359.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="WFMZ-DT1" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=512&amp;h=250&quot" group-title="Local",WFMZ-DT1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="KVHDLD2.us" tvg-name="WFMZ-DT2" tvg-logo="http://tvtv.tmsimg.com/assets/s35859_ll_h8_aa.png?w=512&amp;h=250&quot" group-title="",WFMZ-DT2
+#EXTINF:-1 tvg-chno="172" tvg-id="WFMZDT2.us" tvg-name="WFMZ-DT2" tvg-logo="http://tvtv.tmsimg.com/assets/s35859_ll_h8_aa.png?w=512&amp;h=250&quot" group-title="",WFMZ-DT2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
