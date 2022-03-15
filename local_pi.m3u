@@ -15,7 +15,7 @@ https://v-pi.mybtv.net/live/349.m3u8
 https://v-pi.mybtv.net/live/355.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="WNJSDT1.us" tvg-name="WNJS" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",NJ PBS
 https://v-pi.mybtv.net/live/359.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://tvtv.tmsimg.com/assets/s59155_ll_h15_aa.png?w=512&amp;h=250&quot" group-title="",NHK World
+#EXTINF:-1 tvg-chno="72" tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox29.png" group-title="Local",WTXF-TV (FOX)
 https://v-pi.mybtv.net/live/369.m3u8
