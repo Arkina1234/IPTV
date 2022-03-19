@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Webstream - Very Local
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/verylocal/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 4 Seattle WA
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 7 Denver CO
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 7 Los Angeles CA
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 7 New York NY
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 7 Washington DC
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 13 Las Vegas NV
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+1.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - ABC 15 Phoenix AZ
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Baltimore
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Bay Area
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Boston
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Chicago
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Colorado
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News DFW
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Minnesota
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Philly
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Pittsburgh
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - CBS News Sacramento
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 2 Detroit MI
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 2 San Francisco CA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 4 Dallas / Fort Worth TX
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 5 Atlanta GA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 5 New York NY
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 5 Washington DC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 6 Milwaukee WI
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 7 Austin TX
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 9 ST Paul Minneapolis MN
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 10 Phoenix AZ
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 11 Los Angeles CA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 13 Memphis TN
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 13 Tampa Bay FL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 26 Houston TX
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 29 Philadelphia PA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 32 Chicago IL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX 35 Orlando FL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News",Webstream - FOX Q13 Seattle WA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - KCCI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kcci/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - 40/29
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/4029tv/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WAPT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/16WAPTNews/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - KMBC
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/KMBC/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WISN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WISN/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WDSU
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wdsu/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - K0C0
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/KOCO/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - KETV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ketv/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WBAL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wbaltv11/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WVTM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WVTM13News/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WCVB
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wcvb/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WLWT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wlwt/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WPTZ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WPTZ/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WXTT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wxii/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WYFF
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wyffnews4/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WGAL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/wgaltv/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WLKY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wlky/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WMUR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wmur/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WESH
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wesh/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WTAE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/wtae/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WMTW
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WMTWNews8/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WJCL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Wjclnews/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WPBF
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WPBF/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WMOR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MORTampaBay/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - WPBF
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WPBF/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - KOAT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/koat/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - KSBW
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ksbw/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local News", Very Local - KCRA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kcra/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Pluto TV - BET Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Pluto TV - CMT Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Comedy",Pluto TV - Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Pluto TV - Logo Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5ce5a8954311f992edbe1da2&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Pluto TV - MTV Pluto TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids & Family",Pluto TV - Nick Pluto TV
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids & Family",Pluto TV - Nick Jr. Pluto TV
+https://siloh.pluto.tv/lilo/production/Nick/04/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Pluto TV - Spike Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5812bcc8237a6ff45d16c407&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Pluto TV - TV Land Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Comedy",Pluto TV - TV Land Sitcoms
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca672f515a62078d2ec0ad2&app_name=web&architecture=&buildVersion=&deviceDNT=false&deviceId=5c2d64ffbdf11b71587184b8&deviceLat=&deviceLon=&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&userId=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Redbox - CONtv
+https://contv-redbox-us-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",Redbox - Docurama
+https://docurama-redbox-us-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Comedy",Redbox - Johnny Carson TV
+https://johnnycarson-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Comedy",Redbox - Mystery Science Theater 3000
+https://mst3k-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="General",Redbox - Shout Factory TV Stream
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Comedy",Roku - The Carol Burnett Show
+https://carolburnett-roku.amagi.tv/playlist.m3u8
