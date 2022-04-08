@@ -67,7 +67,7 @@ https://v-pi.mybtv.net/live/359.m3u8
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="WLNYDT1.us" tvg-name="WLNY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s31225_dark_360w_270h.png" group-title="Local",WLNY 10/55
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wlny.tv1055.riverhead.ny.us.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="WLNYDT1.us" tvg-name="WRNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11933_dark_360w_270h.png" group-title="Local",WRNN
+#EXTINF:-1 tvg-chno="62" tvg-id="WRNNDT1.us" tvg-name="WRNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11933_dark_360w_270h.png" group-title="Local",WRNN
 https://v-ny.mybtv.net/live/661.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="WRNNDT1.us" tvg-name="UniMás" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",WFUT-DT (UniMás)
+#EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="UniMás" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",WFUT-DT (UniMás)
 https://v-ny.mybtv.net/live/713.m3u8
