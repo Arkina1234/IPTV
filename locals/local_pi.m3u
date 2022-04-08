@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="2" tvg-id="MeTV.us" tvg-name="MeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/320px-MeTV_Logo.svg.png" group-title="Local",MeTV
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.network.us.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYW-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="Local",KYW-TV (CBS)
+https://v-pi.mybtv.net/live/318.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYW-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="Local",KYW-TV (CBS)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.kyw.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="WPVIDT1.us" tvg-name="WPVI-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/320px-WPVI-TV_logos.svg.png" group-title="Local",WPVI-TV (ABC)
+https://v-pi.mybtv.net/live/333.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="WPVIDT1.us" tvg-name="WPVI-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/320px-WPVI-TV_logos.svg.png" group-title="Local",WPVI-TV (ABC)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wpvi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAU-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png" group-title="Local",WCAU-TV (NBC)
+https://v-pi.mybtv.net/live/345.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAU-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png" group-title="Local",WCAU-TV (NBC)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WHYY-DT (PBS)
+https://v-pi.mybtv.net/live/347.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WHYY-DT (PBS)
+https://whyydt.lls.pbs.org/out/v1/40b7857a84ee4302be8ab755a719cc14/index.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WHYY-DT (PBS)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/pbs.whyy.wilmington.de.us.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WHYYDT2.us" tvg-name="PBS" tvg-logo="http://tvtv.tmsimg.com/assets/s45913_ll_h15_aa.png?w=360&amp;h=270&quot" group-title="",Y2
+https://v-pi.mybtv.net/live/348.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WHYYDT3.us" tvg-name="PBS KIDS" tvg-logo="http://tvtv.tmsimg.com/assets/s51000_ll_h15_aa.png?w=360&amp;h=270&quot" group-title="",WHYY KIDS
+https://v-pi.mybtv.net/live/349.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="WPHLDT1.us" tvg-name="WPHL-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/320px-WPHL-TV_logo.svg.png" group-title="Local",WPHL-TV (PHL17)
+https://v-pi.mybtv.net/live/355.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="WNJSDT1.us" tvg-name="WNJS" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",NJ PBS
+https://v-pi.mybtv.net/live/359.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="WNJSDT1.us" tvg-name="WNJS" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png" group-title="Local",NJ PBS
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox29.png" group-title="Local",WTXF-TV (FOX)
+https://v-pi.mybtv.net/live/369.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox29.png" group-title="Local",WTXF-TV (FOX)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="WPSGDT1.us" tvg-name="WPSG-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="Local",WPSG-DT (The CW)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cw.wpsg.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="WPPXDT1.us" tvg-name="WPPX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPPX-TV (Ion)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="WSSIDT1.us" tvg-name="WSSI-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wwsi_telemundo62_atlantic_city.png" group-title="Local",WSSI-DT (Telemundo)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.wwsi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="WFMZ-DT1" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WFMZ
+https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="WFMZ-DT2" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WFMZ
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wfmz.allentown.pa.us.m3u8
