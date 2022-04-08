@@ -45,7 +45,7 @@ https://v-ny.mybtv.net/live/591.m3u8
 https://v-ny.mybtv.net/live/592.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="WNYEDT3.us" tvg-name="CUNY TV" tvg-logo="" group-title="",CUNY TV
 https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV (Ion
+#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV (Ion)
 https://v-ny.mybtv.net/live/608.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV (Ion)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
