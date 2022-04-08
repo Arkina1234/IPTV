@@ -37,7 +37,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wtxf.phi
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cw.wpsg.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="WPPXDT1.us" tvg-name="WPPX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPPX-TV (Ion)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="WSSIDT1.us" tvg-name="WSSI-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wwsi_telemundo62_atlantic_city.png" group-title="Local",WSSI-DT (Telemundo)
+#EXTINF:-1 tvg-chno="62" tvg-id="WSSIDT1.us" tvg-name="WSSI-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wwsi_telemundo62_atlantic_city.png" group-title="Local",WSSI-DT (Telemundo)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.wwsi.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="WFMZ-DT1" tvg-logo="http://tvtv.tmsimg.com/assets/s11443_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WFMZ
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
