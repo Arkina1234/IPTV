@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="4" tvg-id="WRCDT1.us" tvg-name="WRC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WRC-TV4.svg/320px-WRC-TV4.svg.png" group-title="Local",WRC-TV (NBC)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wrc.district.of.columbia.us.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="WTTGDT1.us" tvg-name="WTTG-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local",WTTG-DT (FOX)
+http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="WTTGDT1.us" tvg-name="WTTG-DT" tvg-logo="https://arkina1234.github.io/tv-logos/local/fox5.png" group-title="Local",WTTG-DT (FOX)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wttg.district.of.columbia.us.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="WJLADT1.us" tvg-name="WJLA-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/WJLA-TV_logo.svg/320px-WJLA-TV_logo.svg.png" group-title="Local",WJLA-TV (ABC)
+http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="WJLADT1.us" tvg-name="WJLA-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/WJLA-TV_logo.svg/320px-WJLA-TV_logo.svg.png" group-title="Local",WJLA-TV (ABC)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wjla.district.of.columbia.us.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="WUSADT1.us" tvg-name="WUSA-DT" tvg-logo="https://www.wusa9.com/assets/shared-images/logos/wusa.png" group-title="Local",WUSA-DT (CBS)
+http://51.161.118.146:8080/ISG03_CBS_WASHINGTON_DC_WUSA/video.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="WUSADT1.us" tvg-name="WUSA-DT" tvg-logo="https://www.wusa9.com/assets/shared-images/logos/wusa.png" group-title="Local",WUSA-DT (CBS)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wusa.district.of.columbia.us.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="WDCADT1.us" tvg-name="WDCA-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png" group-title="Local",WDCA-DT (FOX 5 Plus)
+http://neczbm.to:80/play/BYwF55iFzl3ZrrZmuGknoBx0bPZAQk-ewvT_qTbzDz2V533wmDjbTmIhVYgivjQI/ts
+#EXTINF:-1 tvg-chno="20" tvg-id="WDCADT1.us" tvg-name="WDCA-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png" group-title="Local",WDCA-DT (FOX 5 Plus)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.5.plus.wdca.district.of.columbia.us.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="WHUTDT1.us" tvg-name="WHUT-DT" tvg-logo="https://static.wixstatic.com/media/a95a3f_ed46df36565147b7a9c90cb9116db04a~mv2.png/v1/crop/x_17,y_133,w_583,h_333/fill/w_392,h_224,al_c,usm_2.00_1.00_0.00,enc_auto/WHUT%20weblogo.png" group-title="Local",WHUT-TV
+https://whutdt.lls.pbs.org/out/v1/dd1102f24d7948e58517ba6a6573c928/index.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="WZDCCD1.us" tvg-name="WZDC-CD" tvg-logo="https://media.telemundo47.com/2021/10/TLMD_44_On_Dark@3x.png?fit=250%2C120&quality=200&strip=all&w=360&h=270" group-title="Local",WZDC-CD (Telemundo)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.wzdc.washington.dc.us.m3u8
