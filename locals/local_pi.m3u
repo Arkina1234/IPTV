@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="2" tvg-id="MeTV.us" tvg-name="MeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/320px-MeTV_Logo.svg.png" group-title="Local",MeTV
+#EXTINF:-1 tvg-chno="2" tvg-id="MeTV.us" tvg-name="WDPN-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WDPN-TV MeTV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.network.us.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYW-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="Local",KYW-TV (CBS)
 https://v-pi.mybtv.net/live/318.m3u8
@@ -13,7 +13,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wpvi.phi
 https://v-pi.mybtv.net/live/345.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAU-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/WCAU-TV_logo_2012.png" group-title="Local",WCAU-TV (NBC)
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WHYY-DT (PBS)
+#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WHYY-DT (PBS)
 https://v-pi.mybtv.net/live/347.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="PBS WHYY" tvg-logo="http://tvtv.tmsimg.com/assets/s24114_ll_h8_ab.png?w=360&amp;h=270&quot" group-title="Local",WHYY-DT (PBS)
 https://whyydt.lls.pbs.org/out/v1/40b7857a84ee4302be8ab755a719cc14/index.m3u8
