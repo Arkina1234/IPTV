@@ -55,6 +55,8 @@ https://v-ny.mybtv.net/live/637.m3u8
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.wjlp.new.jerseynew.york.us.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://arkina1234.github.io/tv-logos/local/wxtv41.png" group-title="Local",WXTV-DT (Univision)
 https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://arkina1234.github.io/tv-logos/local/wxtv41.png" group-title="Local",WXTV-DT (Univision)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/uni.wxtv.teaneck.nj.us.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="WKOBLD1.us" tvg-name="Azteca America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOB-LD (Azteca America)
 https://v-ny.mybtv.net/live/645.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://arkina1234.github.io/tv-logos/local/wnju47.png" group-title="Local",WNJU-DT (Telemundo)
