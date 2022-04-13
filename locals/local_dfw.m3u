@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="4" tvg-id="KDFWDT1.us" tvg-name="KDFW-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KDFW-DT (FOX)
+#EXTINF:-1 tvg-chno="4" tvg-id="KDFWDT1.us" tvg-name="KDFW-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KDFW-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="KXASDT1.us" tvg-name="KXAS-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KXAS-TV (NBC)
+#EXTINF:-1 tvg-chno="5" tvg-id="KXASDT1.us" tvg-name="KXAS-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KXAS-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.kxas.fort.worth.tx.us.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="WFAADT1.us" tvg-name="WFAA-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",WFAA-DT (ABC)
+#EXTINF:-1 tvg-chno="8" tvg-id="WFAADT1.us" tvg-name="WFAA-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",WFAA-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wfaa.dallas.tx.us.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="KTVTDT1.us" tvg-name="KTVT-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KTVT-TV (CBS)
+#EXTINF:-1 tvg-chno="11" tvg-id="KTVTDT1.us" tvg-name="KTVT-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KTVT-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.ktvt.fort.worth.tx.us.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="KERADT1.us" tvg-name="KERA-TV" tvg-logo="" group-title="Local",KERA-TV
+#EXTINF:-1 tvg-chno="13" tvg-id="KERADT1.us" tvg-name="KERA-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="Local",KERA-TV
 https://keradt.lls.pbs.org/out/v1/8dd50e7e0ee24d4e8a0812872f332a2c/index.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="KUVNCD1.us" tvg-name="KUVN-CD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KUVN-CD (Univision)
+#EXTINF:-1 tvg-chno="23" tvg-id="KUVNCD1.us" tvg-name="KUVN-CD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KUVN-CD
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/uni.kuvn.cd.fort.worth.tx.us.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="KXTXDT1.us" tvg-name="KXTX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KXTX-TV (Telemundo)
+#EXTINF:-1 tvg-chno="39" tvg-id="KXTXDT1.us" tvg-name="KXTX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KXTX-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.kxtx.dallas.tx.us.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="KSTRDT1.us" tvg-name="KSTR-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",KSTR-DT (UniMás)
+#EXTINF:-1 tvg-chno="49" tvg-id="KSTRDT1.us" tvg-name="KSTR-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",KSTR-DT
 http://test.thesmartiptv.com:900/live/ZaQaFZtn/AA3AD3D5/183178.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="KPXDDT1.us" tvg-name="KPXD-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",KPXD-TV (Ion)
+#EXTINF:-1 tvg-chno="68" tvg-id="KPXDDT1.us" tvg-name="KPXD-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",KPXD-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
