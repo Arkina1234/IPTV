@@ -5,16 +5,16 @@ http://am820.wnyc.org/wnycam.aac
 http://ic1.christiannetcast.com/wwgb-am.m3u
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1130 WBBR-AM
 https://26103.live.streamtheworld.com:443/WBBRAMAAC.aac
-1280 WADO-AM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1280 WADO-AM
 http://v6.player.abacast.net/2347
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1380 WBTK-AM
 http://ic1.christiannetcast.com/wbtk-am.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",93.9 WNYC-FM
 http://fm939.wnyc.org/wnycfm.aac
-96.3 WXNY-FM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",96.3 WXNY-FM
 http://v6.player.abacast.net/2349
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",98.7 WEPN-FM
 http://live.wostreaming.net/direct/espn-wepnmp3-32.mp3
-105.9 WQXR-FM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",105.9 WQXR-FM
 http://stream.wqxr.org/wqxr.aac
