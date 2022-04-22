@@ -1,17 +1,20 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s165740/images/logoq.png" group-title="News" radio="true",Bloomberg Radio
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",820 WNYC-AM
+http://am820.wnyc.org/wnycam.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1030 WWGB-AM
+http://ic1.christiannetcast.com/wwgb-am.m3u
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1130 WBBR-AM
 https://26103.live.streamtheworld.com:443/WBBRAMAAC.aac
-#EXTINF:-1 tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News" radio="true",FOX News Radio
-https://streaming-ent.shoutcast.com/foxnews
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s21606q.png" group-title="Public" radio="true",WNYC-FM
-https://fm939.wnyc.org/wnycfm
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s21605q.png" group-title="Public" radio="true",WNYC-AM
-https://am820.wnyc.org/wnycam
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s22469/images/logoq.jpg" group-title="Sports Talk" radio="true",ESPN New York (98.7FM)
-http://live.wostreaming.net/direct/espn-wepnmp3-32
-#EXTINF:-1 tvg-logo="https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png" group-title="VOA" radio="true", Voice of America
-https://n03.radiojar.com/t2n88q0st5quv
-#EXTINF:-1 tvg-logo="" group-title="Classic Hits" radio="true",TuneIn Classic Hits
-http://rfcmedia.streamguys1.com/classichits.mp3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s24109/images/logod.png" group-title="Classic Hits" radio="true",MeTV FM WXZO
-http://crystalout.surfernetwork.com:8001/WXZO_MP3
+1280 WADO-AM
+http://v6.player.abacast.net/2347
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1380 WBTK-AM
+http://ic1.christiannetcast.com/wbtk-am.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",93.9 WNYC-FM
+http://fm939.wnyc.org/wnycfm.aac
+96.3 WXNY-FM
+http://v6.player.abacast.net/2349
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",98.7 WEPN-FM
+http://live.wostreaming.net/direct/espn-wepnmp3-32.mp3
+105.9 WQXR-FM
+http://stream.wqxr.org/wqxr.aac
