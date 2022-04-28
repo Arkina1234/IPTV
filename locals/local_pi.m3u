@@ -29,7 +29,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wtxf.phi
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cw.wpsg.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="WPPXDT1.us" tvg-name="WPPX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPPX-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="WSSIDT1.us" tvg-name="WSSI-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",WSSI-DT
+#EXTINF:-1 tvg-chno="62" tvg-id="WWSIDT1.us" tvg-name="WWSI-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",WWSI-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.wwsi.philadelphia.pa.us.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="WFMZDT1.us" tvg-name="WFMZ-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11443_dark_360w_270h.png" group-title="Local",WFMZ-TV
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
