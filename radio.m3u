@@ -1,20 +1,33 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",820 WNYC-AM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WGN-AM 720
+http://stream.abacast.net/playlist/wgnam-wgnamaac-ibc2.m3u
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WNYC-AM 820
 http://am820.wnyc.org/wnycam.aac
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1030 WWGB-AM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WWGB-AM 1030
 http://ic1.christiannetcast.com/wwgb-am.m3u
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1130 WBBR-AM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WBBR-AM 1130
 https://26103.live.streamtheworld.com:443/WBBRAMAAC.aac
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1280 WADO-AM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WADO-AM 1280
 http://v6.player.abacast.net/2347
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",1380 WBTK-AM
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WBTK-AM 1380
 http://ic1.christiannetcast.com/wbtk-am.m3u
 
-#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",93.9 WNYC-FM
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WGBH-FM 89.7
+https://streams.audio.wgbh.org/wgbh
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLNG-FM 92.1
+http://sc7.shoutcaststreaming.us:8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLNG-FM 92.1
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WNYC-FM 93.9
 http://fm939.wnyc.org/wnycfm.aac
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",96.3 WXNY-FM
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WXNY-FM 96.3
 http://v6.player.abacast.net/2349
-#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",98.7 WEPN-FM
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WEPN-FM 98.7
 http://live.wostreaming.net/direct/espn-wepnmp3-32.mp3
-#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",105.9 WQXR-FM
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQXR-FM 105.9
 http://stream.wqxr.org/wqxr.aac
+
+#EXTINF:-1 tvg-logo="" group-title="Radio - National" radio="true",FOX News Radio
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1 tvg-logo="" group-title="Radio - National",FOX News Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
