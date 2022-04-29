@@ -1,6 +1,9 @@
 #EXTM3U 
+https://n09a-e2.revma.ihrhls.com/zc5874
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WGN-AM 720
 http://stream.abacast.net/playlist/wgnam-wgnamaac-ibc2.m3u
+#EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WABC-AM 770
+https://19013.live.streamtheworld.com/WABCAM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WNYC-AM 820
 http://am820.wnyc.org/wnycam.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WWGB-AM 1030
@@ -14,6 +17,10 @@ http://ic1.christiannetcast.com/wbtk-am.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WGBH-FM 89.7
 https://streams.audio.wgbh.org/wgbh
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WKCR-FM 89.9
+https://wkcr.streamguys1.com/live
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WFUV-FM 90.7
+https://onair.wfuv.org/onair-hi
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLNG-FM 92.1
 http://sc7.shoutcaststreaming.us:8100/stream
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLNG-FM 92.1
@@ -22,10 +29,26 @@ http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 http://fm939.wnyc.org/wnycfm.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WXNY-FM 96.3
 http://v6.player.abacast.net/2349
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQHT-FM 97.1
+https://19303.live.streamtheworld.com/WQHTFMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WEPN-FM 98.7
 http://live.wostreaming.net/direct/espn-wepnmp3-32.mp3
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WBAI-FM 99.5
+https://streams.pacifica.org:9000/wbai_128
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WHTZ-FM 100.3
+https://n2ba-e2.revma.ihrhls.com/zc1469
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQCD-DB 101.9
+https://streaming.live365.com/a43749
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WKTU-FM 103.5
+https://n09a-e2.revma.ihrhls.com/zc5874
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WAXQ-FM 104.3
+https://n28a-e2.revma.ihrhls.com/zc1465
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WWPR-FM 105.1
+https://n01a-e2.revma.ihrhls.com/zc1477
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQXR-FM 105.9
 http://stream.wqxr.org/wqxr.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLTW-FM 106.7
+https://n45a-e2.revma.ihrhls.com/zc1477
 
 #EXTINF:-1 tvg-logo="" group-title="Radio - National" radio="true",FOX News Radio
 https://streaming-ent.shoutcast.com/foxnews
