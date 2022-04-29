@@ -1,7 +1,7 @@
 #EXTM3U 
 https://n09a-e2.revma.ihrhls.com/zc5874
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WGN-AM 720
-http://stream.abacast.net/playlist/wgnam-wgnamaac-ibc2.m3u
+http://34.105.126.162/wgnam-wgnamaac-ibc2
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WABC-AM 770
 https://19013.live.streamtheworld.com/WABCAM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WNYC-AM 820
