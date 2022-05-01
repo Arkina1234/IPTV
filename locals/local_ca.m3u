@@ -24,7 +24,7 @@ https://v-ca.mybtv.net/live/877/768x432.m3u8
 https://v-ca.mybtv.net/live/143/768x432.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="KSTSDT1.us" tvg-name="KSTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73245_dark_360w_270h.png" group-title="Local",KSTS
 https://v-ca.mybtv.net/live/140/768x432.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="KPPXDT1.us" tvg-name="KPPX-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",KPPX-DT
+#EXTINF:-1 tvg-chno="65" tvg-id="KKPXDT1.us" tvg-name="KKPX-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",KKPX-DT
 https://v-ca.mybtv.net/live/223/768x432.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="KFSFDT1.us" tvg-name="KFSF-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",KFSF-DT
 https://v-ca.mybtv.net/live/147/768x432.m3u8
