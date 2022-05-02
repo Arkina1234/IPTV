@@ -45,7 +45,7 @@ http://stream.wbai.org:8000/wbai_128
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WHTZ-FM 100.3
 https://n2ba-e2.revma.ihrhls.com/zc1469
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WCBS-FM 101.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQCD-DB 101.9
 https://streaming.live365.com/a43749
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WKTU-FM 103.5
