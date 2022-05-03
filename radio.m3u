@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WFAN-AM 660
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WOR-AM 710
 https://n09a-e2.revma.ihrhls.com/zc5874
 #EXTINF:-1 tvg-logo="" group-title="Radio - AM" radio="true",WGN-AM 720
@@ -34,12 +34,6 @@ http://vorbis.wsia.fm:8000/wsia.mp3
 http://peridot.streamguys1.com:5350/iheart
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WNYC-FM 89.2
 http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
-#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WNYC-FM 92.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQBU-FM 92.7
-https://live.wostreaming.net/direct/univision-wqbufmaac-imc1
-#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WPAT-FM 93.1
-https://live.wostreaming.net/manifest/sbsystems-wpatfmaac-imc1
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WGBH-FM 89.7
 https://streams.audio.wgbh.org/wgbh
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WKCR-FM 89.9
@@ -50,6 +44,12 @@ https://onair.wfuv.org/onair-hi
 http://sc7.shoutcaststreaming.us:8100/stream
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLNG-FM 92.1
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WNYL-FM 92.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM.mp3
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQBU-FM 92.7
+https://live.wostreaming.net/direct/univision-wqbufmaac-imc1
+#EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WPAT-FM 93.1
+https://live.wostreaming.net/manifest/sbsystems-wpatfmaac-imc1
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WNYC-FM 93.9
 http://fm939.wnyc.org/wnycfm
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WPLJ-FM 95.5
@@ -59,7 +59,7 @@ https://live.wostreaming.net/direct/univision-wxnyfmaac-imc1
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WKLV-FM 96.7
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQHT-FM 97.1
-https://19303.live.streamtheworld.com/WQHTFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WSKQ-FM 97.9
 https://live.wostreaming.net/manifest/sbsystems-wskqfmaac-imc1
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WEPN-FM 98.7
@@ -69,7 +69,7 @@ http://stream.wbai.org:8000/wbai_128
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WHTZ-FM 100.3
 https://n2ba-e2.revma.ihrhls.com/zc1469
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WCBS-FM 101.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WFAN-FM 101.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WNEW-FM 102.7
@@ -83,7 +83,7 @@ https://n01a-e2.revma.ihrhls.com/zc1477
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WQXR-FM 105.9
 http://stream.wqxr.org/wqxr
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WYMK-FM 106.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST.mp3
 #EXTINF:-1 tvg-logo="" group-title="Radio - FM" radio="true",WLTW-FM 106.7
 https://n45a-e2.revma.ihrhls.com/zc1477
 
