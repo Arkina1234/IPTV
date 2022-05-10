@@ -5,9 +5,9 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.long
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.new.jersey.us.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="News12Westchester.us" tvg-name="News12 Westchester" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Westchester [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.westchester.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12Connecticut.us" tvg-name="News12 Connecticut" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Connecticut [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Conneticut [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.connecticut.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12Bronx.us" tvg-name="News12 Bronx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 The Bronx [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12Bronx.us" tvg-name="News12 Bronx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Bronx [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.bronx.us.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Brooklyn [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.brooklyn.us.m3u8
