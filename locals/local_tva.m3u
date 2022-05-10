@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 ,Ariana
+https://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
+#EXTINF:-1 ,PanAr
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 ,AABC
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 ,USAr
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 ,ARTN
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 ,HUSA
+https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
+#EXTINF:-1 ,ATV
+https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/playlist.m3u8
+#EXTINF:-1 ,CH1
+https://2nbyjjx7y53k-hls-live.5centscdn.com/ch1app/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8
+#EXTINF:-1 ,MTC
+https://mellitv.tulix.tv/mellitv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,Didgah
+https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
+#EXTINF:-1 ,TinTV
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 ,AFNL
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 ,NATTV
+http://livefta.malimarcdn.com/ftaedge00/nat.sdp/chunklist.m3u8
+#EXTINF:-1 ,GTV
+http://stream1.ai-net.net:1935/gtv1/gtv1/playlist.m3u8
+#EXTINF:-1 ,SET1
+https://5dcab9aed5331.streamlock.net:443/SET1/livestream/playlist.m3u8
+#EXTINF:-1 ,SET2
+https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
+#EXTINF:-1 ,VNATV
+https://api.new.livestream.com/accounts/27740027/events/9163789/live.m3u8
+#EXTINF:-1 ,LSTV
+https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
+#EXTINF:-1 ,SGTV
+https://dvr1tna.tulix.tv/live/c83123f28de2ca5c4759b747dd3d6d6c/627a1707/vchannel22.m3u8
+#EXTINF:-1 ,GMTV
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCBvNR8xiS5crrzPXQir8TpQ/live
+#EXTINF:-1 ,VietSky
+https://api.new.livestream.com/accounts/27136431/events/8142772/live.m3u8
