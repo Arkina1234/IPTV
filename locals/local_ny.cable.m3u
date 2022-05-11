@@ -1,14 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Long Island [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 Long Island [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.long.island.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12NJ.us" tvg-name="News12 New Jersey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 New Jersey [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12NJ.us" tvg-name="News12 New Jersey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 New Jersey [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.new.jersey.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12Westchester.us" tvg-name="News12 Westchester" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Westchester [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12Westchester.us" tvg-name="News12 Westchester" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 Westchester [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.westchester.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Conneticut [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 Conneticut [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.connecticut.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12Bronx.us" tvg-name="News12 Bronx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 The Bronx [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12Bronx.us" tvg-name="News12 Bronx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 The Bronx [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.bronx.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Brooklyn [Optimum]
+#EXTINF:-1 tvg-chno="" tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Cable",News12 Brooklyn [Optimum]
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.brooklyn.us.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Hudson Valley [Optimum]
+
+#EXTINF:-1 tvg-chno="" tvg-id="WGBHDT4.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Cable",WGBH-TV4 [KIDS]
+https://livestream.pbskids.org/v1/master/afde4238821a08932ac8931c7b3e89adcbe90300/pbs-kids-livestream-prod/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?ads.station_id=7387eb2c-e0ce-4069-82d9-08865df87edf&delay=
+#EXTINF:-1 tvg-chno="" tvg-id="WNETDT2.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Cable",WNET-DT2 [13KIDS]
+https://livestream.pbskids.org/v1/master/afde4238821a08932ac8931c7b3e89adcbe90300/pbs-kids-livestream-prod/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?ads.station_id=80f93f7f-9742-47b8-aa58-0c0ceb866d9f&delay=
+#EXTINF:-1 tvg-chno="" tvg-id="KLCSDT2.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Cable",KOCE-DT5 [PBSkids]
+https://livestream.pbskids.org/v1/master/afde4238821a08932ac8931c7b3e89adcbe90300/pbs-kids-livestream-prod/c707b9310f2848de849b336f9914adbc/pst.m3u8?ads.station_id=057f6e22-7d9c-4fd6-b968-bc17102698de&delay=
+#EXTINF:-1 tvg-chno="" tvg-id="KQEDDT4.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Cable",KQED-DT4/KQET-DT4 [KIDS]
+https://livestream.pbskids.org/v1/master/afde4238821a08932ac8931c7b3e89adcbe90300/pbs-kids-livestream-prod/c707b9310f2848de849b336f9914adbc/pst.m3u8?ads.station_id=1978f5fc-903b-44c5-8db4-76335078ea74&delay=
