@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_US_LOCALS2.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="HSN.Home.Shopping.Network.us" tvg-name="HSN" tvg-logo="" group-title="",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="WCBS" tvg-logo="" group-title="",WCBS
