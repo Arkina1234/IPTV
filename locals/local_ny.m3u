@@ -1,59 +1,59 @@
 #EXTM3U catchup-days="1" catchup-type="append"
-#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=545" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",WCBS-TV
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=545" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",WCBS-TV
 https://v-ny.mybtv.net/live/545/768x432.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",WCBS-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=548" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",WNBC-DT
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=548" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",WNBC-DT
 https://v-ny.mybtv.net/live/548/768x432.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBC-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",WNBC-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=550" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Local",WNYW-DT
+#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=550" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Local",WNYW-DT
 https://v-ny.mybtv.net/live/550/768x432.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYW-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Local",WNYW-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=554" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28708_dark_360w_270h.png" group-title="Local",WABC-TV
+#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=554" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28708_dark_360w_270h.png" group-title="Local",WABC-TV
 https://v-ny.mybtv.net/live/554/768x432.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABC-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28708_dark_360w_270h.png" group-title="Local",WABC-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wabc.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWOR-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=559" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",WWOR-TV
+#EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWOR-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=559" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",WWOR-TV
 https://v-ny.mybtv.net/live/559/768x432.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWOR-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",WWOR-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mnt.wwor.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=562" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV
+#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=562" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV
 https://v-ny.mybtv.net/live/562/768x432.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIX-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local",WPIX-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wpix.new.york.superstation.us.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="WNET-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=567" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WNET-DT
+#EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="WNET-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=567" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WNET-DT
 https://v-ny.mybtv.net/live/567/768x432.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="WNET-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WNET-DT
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="WNET-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WNET-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/pbs.wnet.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=575" tvg-name="WLIW-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WLIW-DT
+#EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=575" tvg-name="WLIW-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WLIW-DT
 https://v-ny.mybtv.net/live/575/768x432.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-name="WLIW-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WLIW-DT
 https://wliwdt.lls.pbs.org/out/v1/a7a2556b48d348b8931d7fc77a57401d/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="WNYEDT1.us" tvg-name="WNYE-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26196_dark_360w_270h.png" group-title="Local",WNYE-TV
 https://v-ny.mybtv.net/live/591/768x432.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=608" tvg-name="WPXN-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV
+#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=608" tvg-name="WPXN-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV
 https://v-ny.mybtv.net/live/608/768x432.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-name="WPXN-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Local",WPXN-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.us.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT1.us" tvg-name="WJLP-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=637" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WJLP-DT
+#EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT1.us" tvg-name="WJLP-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=637" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WJLP-DT
 https://v-ny.mybtv.net/live/637/768x432.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT1.us" tvg-name="WJLP-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WJLP-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.wjlp.new.jerseynew.york.us.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="WXTV-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=643" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",WXTV-DT
+#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="WXTV-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=643" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",WXTV-DT
 https://v-ny.mybtv.net/live/643/768x432.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="WXTV-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",WXTV-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/uni.wxtv.teaneck.nj.us.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="WKOBLD1.us" tvg-name="WKOB-LD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png" group-title="Local",WKOB-LD
 https://v-ny.mybtv.net/live/645/768x432.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="WNJU-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=659" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",WNJU-DT
+#EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="WNJU-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=659" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",WNJU-DT
 https://v-ny.mybtv.net/live/659/768x432.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="WNJU-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",WNJU-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.wnju.teterboro.nj.us.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="WNJNDT1.us" tvg-name="WNJN-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=pi&id=359" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11723_dark_360w_270h.png" group-title="Local",WNJN-DT
+#EXTINF:-1 tvg-chno="50" tvg-id="WNJNDT1.us" tvg-name="WNJN-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=pi&id=359" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11723_dark_360w_270h.png" group-title="Local",WNJN-DT
 https://v-pi.mybtv.net/live/359/768x432.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="WNJNDT1.us" tvg-name="WNJN-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11723_dark_360w_270h.png" group-title="Local",WNJN-DT
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
@@ -61,5 +61,5 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wlny.tv1055.riverhead.ny.us.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="WRNNDT1.us" tvg-name="WRNN-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11933_dark_360w_270h.png" group-title="Local",WRNN-TV
 https://v-ny.mybtv.net/live/661/768x432.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="WFUT-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.m3u8?v=ny&id=713" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",WFUT-DT
+#EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="WFUT-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=713" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",WFUT-DT
 https://v-ny.mybtv.net/live/713/768x432.m3u8
