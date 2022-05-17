@@ -125,7 +125,7 @@ https://v-ny.mybtv.net/live/713/768x432.m3u8
 https://v-px.mybtv.net/live/928/640x480.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="KVHDLD2.us" tvg-name="LOCAL070" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Information",LP070
 https://v-pi.mybtv.net/live/981/768x432.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="WPIXDT3.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_dark_360w_270h.png" group-title="",Court TV
+#EXTINF:-1 tvg-chno="71" tvg-id="WPIXDT3.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_dark_360w_270h.png" group-title="Cable",Court TV
 https://v-ny.mybtv.net/live/1000/768x432.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="WPXNDT3.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_dark_360w_270h.png" group-title="Cable",Ion Mystery
 https://v-ny.mybtv.net/live/610/768x432.m3u8
