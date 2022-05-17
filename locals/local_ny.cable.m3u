@@ -63,9 +63,9 @@ https://v-ny.mybtv.net/live/581.m3u8
 https://v-ny.mybtv.net/live/637/768x432.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="WCBSDT2.us" tvg-name="Start TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109454_dark_360w_270h.png" group-title="Cable",Start TV
 https://v-ny.mybtv.net/live/546/768x432.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="KVHDLD2.us" tvg-name="WDBDE35" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Information",WDBDE35
+#EXTINF:-1 tvg-chno="35" tvg-id="KVHDLD2.us" tvg-name="WDBDE35" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Information",WDBDE35
 https://t06811-lh.akamaihd.net/i/t06811a_1@676400/master.m3u8?set-cc-attribute=none
-#EXTINF:-1 tvg-chno="36" tvg-id=WNYWDT2.us" tvg-name="Movies!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="Cable",Movies!
+#EXTINF:-1 tvg-chno="36" tvg-id="WNYWDT2.us" tvg-name="Movies!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="Cable",Movies!
 https://v-ny.mybtv.net/live/551/768x432.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="WNYWDT5.us" tvg-name="Decades" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91415_dark_360w_270h.png" group-title="Cable",Decades
 https://v-ny.mybtv.net/live/553/768x432.m3u8
@@ -81,7 +81,7 @@ https://v-ny.mybtv.net/live/643/768x432.m3u8
 https://v-ny.mybtv.net/live/645/768x432.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="WPIXDT2.us" tvg-name="Antenna" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70248_dark_360w_270h.png" group-title="Cable",Antenna TV
 https://v-ca.mybtv.net/live/909/640x480.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id=WPIXDT3.us" tvg-name="Rewind" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119814_dark_360w_270h.png" group-title="Cable",Rewind TV
+#EXTINF:-1 tvg-chno="46" tvg-id="WPIXDT3.us" tvg-name="Rewind" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119814_dark_360w_270h.png" group-title="Cable",Rewind TV
 https://v-ny.mybtv.net/live/565/640x480.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-name="WNJU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",WNJU
 https://v-ny.mybtv.net/live/659/768x432.m3u8
@@ -139,7 +139,7 @@ https://v-ny.mybtv.net/live/626/768x432.m3u8
 https://v-ny.mybtv.net/live/596/768x432.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="KPPXDT4.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_dark_360w_270h.png" group-title="Cable",Newsy
 https://v-ny.mybtv.net/live/609/768x432.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="KVHDLD2.us.us" tvg-name="LOCAL078" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Information",SUN078
+#EXTINF:-1 tvg-chno="78" tvg-id="KVHDLD2.us" tvg-name="LOCAL078" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Information",SUN078
 https://v-pi.mybtv.net/live/1006/768x432.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="KVHDLD2.us" tvg-name="LOCAL079" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Information",OKLND079
 https://v-pi.mybtv.net/live/961/768x432.m3u8
