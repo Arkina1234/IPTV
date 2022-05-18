@@ -4,9 +4,15 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114174_dark_360w_270h.png" group-title="",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="TheFirst.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114934_dark_360w_270h.png" group-title="",The First
+https://thefirst-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109553_dark_360w_270h.png" group-title="",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist.m3u8
+#EXTINF:-1 tvg-id="TYTNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107478_dark_360w_270h.png" group-title="",TYT Network
+https://tyt-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55241_dark_360w_270h.png" group-title="",ION Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_dark_360w_270h.png" group-title="",Shout! Factory TV Stream
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111132_dark_360w_270h.png" group-title="",Shout! Factory TV
 https://shoutfactory-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113781_dark_360w_270h.png" group-title="",Mystery Science Theater 3000
 https://mst3k-vizio.amagi.tv/playlist.m3u8
