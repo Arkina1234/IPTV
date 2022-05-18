@@ -30,7 +30,7 @@ https://tastemade-xumo.amagi.tv/master.m3u8
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113372_dark_360w_270h.png" group-title="",World Poker Tour
 https://world-poker-tour-samsung-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EsportsTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120205_dark_360w_270h.png" group-title="",ESTV
+#EXTINF:-1 tvg-id="ESportsTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120205_dark_360w_270h.png" group-title="",ESTV
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitUp.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112487_dark_360w_270h.png" group-title="",Pursuit Up
 https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
