@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id="LocalNow.us" tvg-name="Local Now" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99988_dark_360w_270h.png" group-title="Information",Local Now
+https://localnowphiladelphia-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61803f5812083c75754b5538_localnowphiladelphia-live/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYW-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KYW-TV
 https://v-pi.mybtv.net/live/318.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYW-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KYW-TV
