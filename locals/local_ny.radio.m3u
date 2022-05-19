@@ -86,3 +86,28 @@ http://stream.wqxr.org/wqxr
 https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST.mp3
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WLTW-FM 106.7
 https://n45a-e2.revma.ihrhls.com/zc1477
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="News (Radio)" radio="true",FOX News Radio
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1 tvg-logo="" group-title="News (Radio)",FOX News Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",CBS Sports Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTSAAC.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",ESPN Radio
+http://live.wostreaming.net/direct/espn-networkmp3-48
+#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",ESPN Deportes Radio
+http://live.wostreaming.net/direct/espn-deportesmp3-48
+#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",TUDN Radio
+https://live.wostreaming.net/direct/univision-deportesaac-ibc2
+#EXTINF:-1 tvg-logo="" group-title="Financial (Radio)" radio="true",Bloomberg Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC48.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",World Radio Network
+http://streaming.edmradio.online:8025/NAMAAP
+#EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",USA Radio
+https://d2a481t1usahi0.cloudfront.net/live/14949974.mp3
+#EXTINF:-1 tvg-logo="" group-title="Religious (Radio)" radio="true",K-LOVE
+https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
+
