@@ -27,7 +27,9 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://v-pi.mybtv.net/live/369.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Local",WTXF-TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="WLVTDT1.us" tvg-name="WLVT-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="Local",WLVT-DT
+#EXTINF:-1 tvg-chno="35" tvg-id="WPPTDT1.us" tvg-name="WPPT-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12008_dark_360w_270h.png" group-title="Local",WPPT-DT
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="WLVTDT1.us" tvg-name="WLVT-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="Local",WLVT-DT
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="WMGMDT1.us" tvg-name="WMGM-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s44920_dark_360w_270h.png" group-title="Local",WMGM-TV
 https://v-pi.mybtv.net/live/422.m3u8
