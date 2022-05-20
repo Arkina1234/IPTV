@@ -3,6 +3,8 @@
 https://streaming-ent.shoutcast.com/foxnews
 #EXTINF:-1 tvg-logo="" group-title="News (Radio)",FOX News Radio
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Talk (Radio)" radio="true",Radio America
+https://s6.yesstreaming.net:18003/ra1
 #EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",CBS Sports Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTSAAC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",ESPN Radio
@@ -19,5 +21,11 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 http://streaming.edmradio.online:8025/NAMAAP
 #EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",USA Radio
 https://d2a481t1usahi0.cloudfront.net/live/14949974.mp3
-#EXTINF:-1 tvg-logo="" group-title="Religious (Radio)" radio="true",K-LOVE
+#EXTINF:-1 tvg-logo="" group-title="Religious (Radio)" radio="true",3ABN Radio Network
+https://3abn.streamguys1.com/abr/english/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious (Radio)" radio="true",3ABN Latino Radio
+https://3abn.streamguys1.com/abr/latino/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio (Music)" radio="true",Air 1
+https://emf-hls.streamguys1.com/air1-live-aac-64k/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio (Music)" radio="true",K-LOVE
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
