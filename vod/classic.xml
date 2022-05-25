@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <name>20,000 Leagues Under the Sea</name>
+    <category>Adventure</category>
+    <info>
+      <poster>https://www.themoviedb.org/t/p/original/sv8LaZwJPMNUah2CurnOxmqlbS5.jpg</poster>
+      <bg></bg>
+      <plot>The First Submarine Photoplay Ever Filmed</plot>
+      <cast>Allen Holubar</cast>
+      <cast>Jane Gail</cast>
+      <cast>Howard Crampton</cast>
+      <cast>Matt Moore</cast>
+      <cast>William Welsh</cast>
+      <cast>Joseph W. Girard</cast>
+      <cast>Curtis Benton</cast>
+      <cast>Edna Pendleton</cast>
+      <director>Stuart Paton</director>
+      <country>United States</country>
+      <rating></rating>
+      <year>1916</year>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Action</genre>
+      <genre>Science Fiction</genre>
+      <added></added>
+      <duration>6480</duration>
+      <adult>false</adult>
+      <trailer></trailer>
+      <backdrop>https://www.themoviedb.org/t/p/original/oYzjut2K1duZVwTWc9Kg1MnzAJa.jpg</backdrop>
+      <ttl></ttl>
+    </info>
+    <video>https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4</video>
+  </row>
+</root>
