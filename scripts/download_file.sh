@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo '##### Calling: '`basename "$0"` '('$0')'
 
 ### Verify the parsed variables
 echo Verifying passed arguments
