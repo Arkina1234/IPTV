@@ -2,9 +2,9 @@ name: Grab
 
 on:
   push:
-    branches: [ main ]
+    branches: [ gh-pages ]
   pull_request:
-    branches: [ main ]
+    branches: [ gh-pages ]
   workflow_dispatch:
   # Run every 2 hours
   # 12.10 UTC Time, 06.10 Central Time
