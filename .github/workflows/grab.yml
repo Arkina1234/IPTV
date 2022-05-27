@@ -141,24 +141,10 @@ jobs:
         with:
          name: workflow_${{ steps.date.outputs.date }}
          path: .github/workflow/grab.yml
-       
-       
-                           
-      - name: Push all changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.scrapper_token }}
-          branch: ${{ github.ref }} 
           
       - name: Commit All Files
         uses: zwaldowski/git-commit-action@v1
         with:
              commit_message: Updated by Bot - ${{ steps.date.outputs.date }}
              working_directory: .
-
-      - name: Push Final Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.scrapper_token }}
-          branch: ${{ github.ref }}
           
