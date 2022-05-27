@@ -100,7 +100,7 @@ jobs:
 
           wget "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u" -P "${M3U8_LOCAL_DIR}" -0 "local_ca.m3u"
 
-          wget "http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" -P "${M3U8_STATIC_DIR}" -O "cable.m3u"
+          wget "http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" -P "${M3U8_STATIC_DIR}" -0 "cable.m3u"
  
       - name: Merge Files
         run: |
