@@ -1,0 +1,175 @@
+name: Grab
+
+on:
+  push:
+    branches: [ gh-pages ]
+  pull_request:
+    branches: [ gh-pages ]
+  workflow_dispatch:
+  # Run every 2 hours
+  # 12.10 UTC Time, 06.10 Central Time
+  # Changed to every 2 hours, due to including Youtube links and Pluto, so those links are always correct and the playlist is always upto date.
+  schedule:
+    - cron: "0 0/2 * * *"
+
+jobs:
+
+  Running_M3U8_Creator:
+    name: Running M3U8 Creator
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Last Attempts
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          echo $(date) >> last_attempt.txt
+          cat last_attempt.txt
+          ls -ltr
+          git status
+          git add last_attempt.txt
+          git status
+          git commit -m "cron: setting last attempt time stamp" -a
+          git status
+          
+      - name: Checkout code
+        uses: actions/checkout@v1
+
+      - name: Check *.M3u File existence
+        id: check_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "./provider/ny.m3u, ./provider/pi.m3u, ./provider/dfw.m3u, ./provider/la.m3u, ./provider/ca.m3u"
+
+      - uses: actions/checkout@v2
+      - name: If *.M3U Files exists - Then Cleanup
+        if: steps.check_files.outputs.files_exists == 'true'
+        # Only runs if all of the files exists
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git rm ./temp/*.m3u
+          git rm ./temp/locals/*.m3u
+          git rm ./temp/m3u/*.m3u
+          git rm ./provider/*.m3u
+          git status
+          git push          
+          git commit -m "cron: Updated by Bot" -a
+         
+        
+      ### SETUP THE ENVIRONMENT
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Setup Environment
+        # e.g. create work dirst, store in env variables ... https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-commands-for-github-actions
+        run: |
+          echo "M3U8_DIR=./provider/" >> $GITHUB_ENV
+          echo "M3U8_STATIC_DIR=./temp/" >> $GITHUB_ENV
+          # Update pythonpath used for our scripts
+          echo "PYTHONPATH=$PYTHONPATH:${{ github.workspace }}" >> $GITHUB_ENV
+      - name: Setup Dirs
+        run: |
+          echo "M3U8_STATIC_DIR: '${M3U8_STATIC_DIR}'"
+          echo "Command: 'mkdir -p ${M3U8_DIR}'"
+          mkdir -p ${M3U8_DIR}
+          echo "Command: 'mkdir -p ${M3U8_STATIC_DIR}'"
+          mkdir -p ${M3U8_STATIC_DIR}
+          echo "Command: 'mkdir -p ${M3U8_STATIC_DIR}/locals/'"
+          mkdir -p ${M3U8_STATIC_DIR}/locals/
+          echo "Command: 'mkdir -p ${M3U8_STATIC_DIR}/m3u/'"
+          mkdir -p ${M3U8_STATIC_DIR}/m3u/
+          echo "Command: 'ls -alt ${M3U8_DIR}'"
+          ls -alt ${M3U8_DIR}
+          echo "Command: 'ls -alt ${M3U8_STATIC_DIR}'"
+          ls -alt ${M3U8_STATIC_DIR}
+          echo "Command: 'ls -alt ${M3U8_STATIC_DIR}/locals/'"
+          ls -alt ${M3U8_STATIC_DIR}/locals/
+          echo "Command: 'ls -alt ${M3U8_STATIC_DIR}/m3u/'"
+          ls -alt ${M3U8_STATIC_DIR}/m3u/
+
+      - name: Get other m3u8s to add
+        run: |
+
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ny.m3u" "${M3U8_STATIC_DIR}" "local_ny.m3u"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ny.m3u" "${M3U8_STATIC_DIR}/locals/" "local_ny.m3u"
+
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_pi.m3u" "${M3U8_STATIC_DIR}" "local_pi.m3u"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_pi.m3u" "${M3U8_STATIC_DIR}/locals/" "local_pi.m3u"
+
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_dfw.m3u" "${M3U8_STATIC_DIR}" "local_dfw.m3u"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_dfw.m3u" "${M3U8_STATIC_DIR}/locals/" "local_dfw.m3u"
+
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_la.m3u" "${M3U8_STATIC_DIR}" "local_la.m3u"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_la.m3u" "${M3U8_STATIC_DIR}/locals/" "local_la.m3u"
+
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u" "${M3U8_STATIC_DIR}" "local_ca.m3u"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u" "${M3U8_STATIC_DIR}/locals/" "local_ca.m3u"
+
+          echo "Command: './scripts/download_file_allow_failiure.sh "http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" "${M3U8_STATIC_DIR}" "cable.m3u"'"
+          ./scripts/download_file_allow_failiure.sh "http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" "${M3U8_STATIC_DIR}" "cable.m3u"
+ 
+      - name: Merge Files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          cat ./temp/locals/local_ny.m3u > ./temp/m3u/ny.m3u
+          cat ./temp/locals/local_pi.m3u > ./temp/m3u/pi.m3u
+          cat ./temp/locals/local_dfw.m3u > ./temp/m3u/dfw.m3u
+          cat ./temp/locals/local_la.m3u > ./temp/m3u/la.m3u
+          cat ./temp/locals/local_ca.m3u > ./temp/m3u/ca.m3u       
+          
+    
+      ### PROCESS THE DATA ###
+          
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date '+%Y-%m-%d')"
+
+
+      - name: Merge All The Files Into Provider files.
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          cat ./temp/m3u/ny.m3u ./temp/cable.m3u > ./provider/ny.m3u
+          cat ./temp/m3u/pi.m3u ./temp/cable.m3u > ./provider/pi.m3u
+          cat ./temp/m3u/dfw.m3u ./temp/cable.m3u > ./provider/dfw.m3u
+          cat ./temp/m3u/la.m3u ./temp/cable.m3u > ./provider/la.m3u
+          cat ./temp/m3u/ca.m3u ./temp/cable.m3u > ./provider/ca.m3u
+          cat ./temp/m3u/ny.m3u ./temp/cable.m3u > ./provider/ny.m3u8
+          cat ./temp/m3u/pi.m3u ./temp/cable.m3u > ./provider/pi.m3u8
+          cat ./temp/m3u/dfw.m3u ./temp/cable.m3u > ./provider/dfw.m3u8
+          cat ./temp/m3u/la.m3u ./temp/cable.m3u > ./provider/la.m3u8
+          cat ./temp/m3u/ca.m3u ./temp/cable.m3u > ./provider/ca.m3u8
+          
+      
+      - name: Create Workflow Artifact #this is created, so if theres an error, you can look back at previous yml
+        uses: actions/upload-artifact@v2
+        with:
+         name: workflow_${{ steps.date.outputs.date }}
+         path: .github/workflow/grab.yml
+       
+       
+                           
+      - name: Push all changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.scrapper_token }}
+          branch: ${{ github.ref }} 
+          
+      - name: Commit All Files
+        uses: zwaldowski/git-commit-action@v1
+        with:
+             commit_message: Updated by Bot - ${{ steps.date.outputs.date }}
+             working_directory: .
+
+      - name: Push Final Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.scrapper_token }}
+          branch: ${{ github.ref }}
+          
