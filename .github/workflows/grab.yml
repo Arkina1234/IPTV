@@ -5,6 +5,12 @@ on:
     branches: [ gh-pages ]
   pull_request:
     branches: [ gh-pages ]
+  workflow_dispatch:
+  # Run every 2 hours
+  # 12.10 UTC Time, 06.10 Central Time
+  # Changed to every 2 hours, due to including Youtube links and Pluto, so those links are always correct and the playlist is always upto date.
+  schedule:
+    - cron: "0 0/2 * * *"
 
 jobs:
 
@@ -84,17 +90,17 @@ jobs:
       - name: Get other m3u8s to add
         run: |
 
-          wget -O "${M3U8_LOCAL_DIR}local_ny.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ny.m3u"
+          wget -O ${M3U8_LOCAL_DIR}local_ny.m3u https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ny.m3u
 
-          wget -O "${M3U8_LOCAL_DIR}local_pi.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_pi.m3u"
+          wget -O ${M3U8_LOCAL_DIR}local_pi.m3u https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_pi.m3u
 
-          wget -O "${M3U8_LOCAL_DIR}local_dfw.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_dfw.m3u"
+          wget -O ${M3U8_LOCAL_DIR}local_dfw.m3u https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_dfw.m3u
 
-          wget -O "${M3U8_LOCAL_DIR}local_la.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_la.m3u"
+          wget -O ${M3U8_LOCAL_DIR}local_la.m3u https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_la.m3u
 
-          wget -O "${M3U8_LOCAL_DIR}local_ca.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u"
+          wget -O ${M3U8_LOCAL_DIR}local_ca.m3u https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u
 
-          wget -O "${M3U8_STATIC_DIR}cable.m3u"http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" 
+          wget -O ${M3U8_STATIC_DIR}cable.m3u http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u
  
       - name: Merge Files
         run: |
