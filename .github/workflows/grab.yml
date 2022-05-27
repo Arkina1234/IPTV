@@ -1,6 +1,10 @@
 name: Grab
 
 on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
   workflow_dispatch:
   # Run every 2 hours
   # 12.10 UTC Time, 06.10 Central Time
@@ -56,18 +60,11 @@ jobs:
          
         
       ### SETUP THE ENVIRONMENT
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'
-
       - name: Setup Environment
         # e.g. create work dirst, store in env variables ... https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-commands-for-github-actions
         run: |
           echo "M3U8_DIR=./provider/" >> $GITHUB_ENV
           echo "M3U8_STATIC_DIR=./temp/" >> $GITHUB_ENV
-          # Update pythonpath used for our scripts
-          echo "PYTHONPATH=$PYTHONPATH:${{ github.workspace }}" >> $GITHUB_ENV
       - name: Setup Dirs
         run: |
           echo "M3U8_STATIC_DIR: '${M3U8_STATIC_DIR}'"
