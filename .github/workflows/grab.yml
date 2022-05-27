@@ -90,17 +90,17 @@ jobs:
       - name: Get other m3u8s to add
         run: |
 
-          wget "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ny.m3u" -P "${M3U8_LOCAL_DIR}" -O "local_ny.m3u"
+          wget -O "${M3U8_LOCAL_DIR}local_ny.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ny.m3u"
 
-          wget "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_pi.m3u" -P "${M3U8_LOCAL_DIR}" -O "local_pi.m3u"
+          wget -O "${M3U8_LOCAL_DIR}local_pi.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_pi.m3u"
 
-          wget "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_dfw.m3u" -P "${M3U8_LOCAL_DIR}" -O "local_dfw.m3u"
+          wget -O "${M3U8_LOCAL_DIR}local_dfw.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_dfw.m3u"
 
-          wget "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_la.m3u" -P "${M3U8_LOCAL_DIR}" -O "local_la.m3u"
+          wget -O "${M3U8_LOCAL_DIR}local_la.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_la.m3u"
 
-          wget "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u" -P "${M3U8_LOCAL_DIR}" -0 "local_ca.m3u"
+          wget -O "${M3U8_LOCAL_DIR}local_ca.m3u" "https://raw.githubusercontent.com/Arkina1234/IPTV/main/locals/local_ca.m3u"
 
-          wget "http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" -P "${M3U8_STATIC_DIR}" -0 "cable.m3u"
+          wget -O "${M3U8_STATIC_DIR}cable.m3u"http://m3u4u.com/m3u/p192y71zq4uk2jeymeg3.m3u" 
  
       - name: Merge Files
         run: |
