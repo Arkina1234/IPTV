@@ -140,7 +140,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
          name: workflow_${{ steps.date.outputs.date }}
-         path: .github/workflow/grab.yml
+         path: .github/workflows/grab.yml
           
       - name: Commit All Files
         uses: zwaldowski/git-commit-action@v1
