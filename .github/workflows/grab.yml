@@ -144,12 +144,7 @@ jobs:
           clean: false
 
           
-      - name: Commit All Files
-        uses: zwaldowski/git-commit-action@v1
-        with:
-             commit_message: Updated by Bot - ${{ steps.date.outputs.date }}
-             working_directory: .
-                - uses: repo-sync/pull-request@v2
+      - uses: repo-sync/pull-request@v2
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         id: pull-request
         with:
