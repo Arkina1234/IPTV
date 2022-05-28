@@ -143,11 +143,6 @@ jobs:
           commit-message: 'Deploy to GitHub Pages'
           clean: false
 
-      - name: Create Workflow Artifact #this is created, so if theres an error, you can look back at previous yml
-        uses: actions/upload-artifact@v2
-        with:
-         name: workflow_${{ steps.date.outputs.date }}
-         path: .github/workflows/grab.yml
           
       - name: Commit All Files
         uses: zwaldowski/git-commit-action@v1
