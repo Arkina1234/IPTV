@@ -1,12 +1,7 @@
 name: Grab
 
 on:
-  push:
-    branches: [ gh-pages ]
-  pull_request:
-    branches: [ gh-pages ]
-  workflow_dispatch:
-  # Run every 2 hours
+  # Run every 5 minutes
   # 12.10 UTC Time, 06.10 Central Time
   # Changed to every 5 minutes, due to including Youtube links and Pluto, so those links are always correct and the playlist is always upto date.
   schedule:
@@ -159,4 +154,10 @@ jobs:
         with:
              commit_message: Updated by Bot - ${{ steps.date.outputs.date }}
              working_directory: .
-          
+                - uses: repo-sync/pull-request@v2
+        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+        id: pull-request
+        with:
+          github_token: ${{ steps.create-app-token.outputs.token }}
+          source_branch: ${{ steps.create-branch-name.outputs.branch_name }}
+          destination_branch: 'main'
