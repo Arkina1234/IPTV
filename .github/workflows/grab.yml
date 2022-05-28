@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
   # Run every 2 hours
   # 12.10 UTC Time, 06.10 Central Time
-  # Changed to every 2 hours, due to including Youtube links and Pluto, so those links are always correct and the playlist is always upto date.
+  # Changed to every 5 minutes, due to including Youtube links and Pluto, so those links are always correct and the playlist is always upto date.
   schedule:
-    - cron: "0 0/2 * * *"
+    - cron: "5 0 * * *"
 
 jobs:
 
@@ -136,6 +136,18 @@ jobs:
           cat ./temp/m3u/ca.m3u ./temp/cable.m3u > ./provider/ca.m3u8
           
       
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+        with:
+          branch: gh-pages
+          folder: .gh-pages
+          token: ${{ steps.create-app-token.outputs.token }}
+          git-config-name: GitHub Action
+          git-config-email: action@github.com
+          commit-message: 'Deploy to GitHub Pages'
+          clean: false
+
       - name: Create Workflow Artifact #this is created, so if theres an error, you can look back at previous yml
         uses: actions/upload-artifact@v2
         with:
