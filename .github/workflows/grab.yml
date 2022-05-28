@@ -8,9 +8,6 @@ on:
     - cron: "5 0 * * *"
 
 jobs:
-
-  Generate Token:
-    jobs:
   create_commit:
     runs-on: ubuntu-latest 
     permissions:
