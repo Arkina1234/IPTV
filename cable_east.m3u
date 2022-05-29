@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/iptv-org/epg/blob/gh-pages/guides/us/tvtv.us.epg.xml.gz" x-tvg-url="https://github.com/iptv-org/epg/raw/gh-pages/guides/us/tvtv.us.epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/iptv-org/epg/raw/gh-pages/guides/us/tvtv.us.epg.xml.gz" x-tvg-url="https://github.com/iptv-org/epg/raw/gh-pages/guides/us/tvtv.us.epg.xml.gz"
 
 #EXTINF:-1 tvg-chno="70" tvg-id="HSN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="Shopping",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
