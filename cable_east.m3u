@@ -1,0 +1,295 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-chno="70" tvg-id="HSN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="Shopping",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="HSN2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10270_dark_360w_270h.png" group-title="Shopping",HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="QVC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="Shopping",QVC
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="QVC2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82682_dark_360w_270h.png" group-title="Shopping",QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="QVC3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101260_dark_360w_270h.png" group-title="Shopping",QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="ShopHQ.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14948_dark_360w_270h.png" group-title="Shopping",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="JewelryTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png" group-title="Shopping",Jewelry Television
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="ShopLC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56032_dark_360w_270h.png" group-title="Shopping",Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-id="Newsy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_dark_360w_270h.png" group-title="Station",Newsy
+https://newsy-newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="CourtTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_dark_360w_270h.png" group-title="Station",Court TV
+https://d3iggv7fkpwhad.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="Bounce.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="Station",Bounce
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/bounce.network.us.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="MeTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Station",MeTV
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.network.us.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="Movies.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="Station",Movies!
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/movies.us.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="Dabl.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112157_dark_360w_270h.png" group-title="Station",Dabl
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="NBCLX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114278_dark_360w_270h.png" group-title="Station",LX
+https://d3rbrsmczm4l4v.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="HeroesIconsEast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90401_dark_360w_270h.png" group-title="Station",Heroes & Icons
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/hi.heroes.icons.network.us.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="CoziTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="Station",COZI TV
+https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="TeleXitos.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74299_dark_360w_270h.png" group-title="Station",TeleXitos
+https://v-pi.theus6tv.tk/hls/60.2/playlist.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="Buzzr.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="Station",BUZZR
+https://v-ca.mybtv.net/live/729/768x432.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="Laff.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92091_dark_360w_270h.png" group-title="Station",Laff
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/laff.network.us.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="Grit.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="Station",Grit
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/grit.network.us.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="Charge.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102148_dark_360w_270h.png" group-title="Station",Charge!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad._debug=CHARGE_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1
+#EXTINF:-1 tvg-chno="115" tvg-id="Comet.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="Station",Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=COMET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&adl.output=xml_vmap1
+#EXTINF:-1 tvg-chno="116" tvg-id="TBD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102116_dark_360w_270h.png" group-title="Station",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1
+#EXTINF:-1 tvg-chno="117" tvg-id="AntennaTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70248_dark_360w_270h.png" group-title="Station",Antenna TV
+https://v-ca.mybtv.net/live/735/640x480.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119814_dark_360w_270h.png" group-title="Station",Rewind TV
+https://v-ny.mybtv.net/live/565/640x480.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118781_dark_360w_270h.png" group-title="Station",Twist
+https://v-ny.mybtv.net/live/999/768x432.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="Quest.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106838_dark_360w_270h.png" group-title="Station",Quest
+https://v-ca.mybtv.net/live/213/768x432.m3u8
+#EXTINF:-1 tvg-chno="121" tvg-id="Decades.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91415_dark_360w_270h.png" group-title="Station",Decades
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/decades.network.us.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="StartTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109454_dark_360w_270h.png" group-title="Station",Start TV
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/start.tv.us.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="CourtTVMystery.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_dark_360w_270h.png" group-title="Station",Ion Mystery
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/court.tv.mystery.network.us.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="TrueCrimeNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91496_dark_360w_270h.png" group-title="Station",True Crime Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/true.crime.network.us.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119565_dark_360w_270h.png" group-title="Station",Defy
+https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119564_dark_360w_270h.png" group-title="Station",TrueReal
+https://scripps-truereal-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="127" tvg-id="WeatherNation.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72413_dark_360w_270h.png" group-title="Station",WeatherNation
+https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="Stadium.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104950_dark_360w_270h.png" group-title="Station",Stadium
+https://v-la.mybtv.net/live/180/768x432.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="Circle.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113430_dark_360w_270h.png" group-title="Station",Circle
+https://v-ny.mybtv.net/live/662/768x432.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="GetTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="Station",getTV
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/gettv.us.m3u8
+
+#EXTINF:-1 tvg-chno="152" tvg-id="JBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74978_dark_360w_270h.png" group-title="Undefined",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="JewishLifeTelevision.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60165_dark_360w_270h.png" group-title="Undeified",JLTV
+https://streaming-a-1055.cdn.nextologies.com/ab6b5c32d6ba17d9/47d118670709893b/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1001" tvg-id="3ABNEnglish.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10002_dark_360w_270h.png" group-title="Religious",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1 tvg-chno="1002" tvg-id="TBNEast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",TBN US
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+#EXTINF:-1 tvg-chno="1003" tvg-id="TBNInspire.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",TBN Inspire
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:-1 tvg-chno="1004" tvg-id="Daystar.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",Daystar
+https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
+#EXTINF:-1 tvg-chno="1005" tvg-id="EWTN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1006" tvg-id="CTN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",CTN
+http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="1008" tvg-id="GEBAmerica.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",GEB America
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+#EXTINF:-1 tvg-chno="1009" tvg-id="GodTVUS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 tvg-chno="1010" tvg-id="TCT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",TCT
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/29565692/events/9276365/player
+#EXTINF:-1 tvg-chno="1011" tvg-id="ImpactNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",Impact Network
+https://edge1.lifestreamcdn.com/live/impactroku1/playlist.m3u8
+#EXTINF:-1 tvg-chno="1012" tvg-id="NRBTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Religious",NRB TV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="1013" tvg-id="K17JID2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68985_dark_360w_270h.png" group-title="Religious",3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 tvg-chno="1014" tvg-id="3ABNKids.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99867_dark_360w_270h.png" group-title="Religious",3ABN Kids Network
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-chno="1015" tvg-id="K17JID3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78540_dark_360w_270h.png" group-title="Religious",Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 tvg-chno="1016" tvg-id="K17JID4.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49987_dark_360w_270h.png" group-title="Religious",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 tvg-chno="1017" tvg-id="Smile.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49208_dark_360w_270h.png" group-title="Religious",Smile
+https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
+#EXTINF:-1 tvg-chno="1018" tvg-id="PositivTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89360_dark_360w_270h.png" group-title="Religious",Positiv TV
+https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+#EXTINF:-1 tvg-chno="1019" tvg-id="LivingFaithTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58595_dark_360w_270h.png" group-title="Religious",Living Faith Network
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-chno="1020" tvg-id="TheWordNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21781_dark_360w_270h.png" group-title="Religious",The Word Network
+https://clouditize-lh.akamaihd.net/i/clouditize_live@16871/master.m3u8
+#EXTINF:-1 tvg-chno="1021" tvg-id="WorldHarvestTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11514P_dark_360w_270h.png" group-title="Religious",World Harvest Television
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1121" tvg-chno="1121" tvg-id="MusicChoice70s.us" tvg-name="Music Choice 70s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice 70s
+https://arkina1234.github.io/hls/MusicChoice/audio/70s.m3u8
+#EXTINF:-1 tvg-chno="1122" tvg-id="MusicChoice80s.us" tvg-name="Music Choice 80s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice 80s
+https://arkina1234.github.io/hls/MusicChoice/audio/80s.m3u8
+#EXTINF:-1 tvg-chno="1123" tvg-id="MusicChoice90s.us" tvg-name="Music Choice 90s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice 90s
+https://arkina1234.github.io/hls/MusicChoice/audio/90s.m3u8
+#EXTINF:-1 tvg-chno="1124" tvg-id="MusicChoiceAlternative.us" tvg-name="Music Choice Alternative [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Alternative [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/audio/alternative.m3u8
+#EXTINF:-1 tvg-chno="1125" tvg-id="MusicChoiceClassicRock.us" tvg-name="Music Choice Classic Rock" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Classic Rock
+https://arkina1234.github.io/hls/MusicChoice/audio/classic-rock.m3u8
+#EXTINF:-1 tvg-chno="1126" tvg-id="MusicChoiceCountryHits.us" tvg-name="Music Choice Country Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Country Hits
+https://arkina1234.github.io/hls/MusicChoice/audio/country-hits.m3u8
+#EXTINF:-1 tvg-chno="1127" tvg-id="MusicChoiceDanceEDM.us" tvg-name="Music Choice Dance / EDM [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Dance / EDM [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/audio/dance.m3u8
+#EXTINF:-1 tvg-chno="1128" tvg-id="MusicChoiceGospel.us" tvg-name="Music Choice Gospel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Gospel
+https://arkina1234.github.io/hls/MusicChoice/audio/gospel.m3u8
+#EXTINF:-1 tvg-chno="1129" tvg-id="MusicChoiceHipHopandRB.us" tvg-name="Music Choice Hip-Hop and R&B" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Hip-Hop and R&B
+https://arkina1234.github.io/hls/MusicChoice/audio/hip-hop.m3u8
+#EXTINF:-1 tvg-chno="1130" tvg-id="MusicChoiceHitList.us" tvg-name="Music Choice Hit List" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Hit List
+https://arkina1234.github.io/hls/MusicChoice/audio/hit-list.m3u8
+#EXTINF:-1 tvg-chno="1131" tvg-id="MusicChoiceIndie.us" tvg-name="Music Choice Indie [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Indie [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/audio/indie.m3u8
+#EXTINF:-1 tvg-chno="1132" tvg-id="MusicChoiceJazz.us" tvg-name="Music Choice Jazz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Jazz
+https://arkina1234.github.io/hls/MusicChoice/audio/jazz.m3u8
+#EXTINF:-1 tvg-chno="1133" tvg-id="MusicChoiceKidzOnly.us" tvg-name="Music Choice Kids Only!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Kids Only!
+https://arkina1234.github.io/hls/MusicChoice/audio/kids.m3u8
+#EXTINF:-1 tvg-chno="1134" tvg-id="MusicChoiceLoveSongs.us" tvg-name="Music Choice Love Songs" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Love Songs
+https://arkina1234.github.io/hls/MusicChoice/audio/love-songs.m3u8
+#EXTINF:-1 tvg-chno="1135" tvg-id="MusicChoiceMax.us" tvg-name="Music Choice Max" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Max
+https://arkina1234.github.io/hls/MusicChoice/audio/mc-max.m3u8
+#EXTINF:-1 tvg-chno="1136" tvg-id="MusicChoiceMetal.us" tvg-name="Music Choice Metal [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Metal [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/audio/metal.m3u8
+#EXTINF:-1 tvg-chno="1137" tvg-id="MusicChoiceMexicana.us" tvg-name="Music Choice Mexicana" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Mexicana
+https://arkina1234.github.io/hls/MusicChoice/audio/mexicana.m3u8
+#EXTINF:-1 tvg-chno="1138" tvg-id="MusicChoiceMusicUrbana.us" tvg-name="Music Choice Musica Urbana" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Musica Urbana
+https://arkina1234.github.io/hls/MusicChoice/audio/musica-urbana.m3u8
+#EXTINF:-1 tvg-chno="1139" tvg-id="MusicChoicePopCountry.us" tvg-name="Music Choice Pop & Country" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Pop & Country
+https://arkina1234.github.io/hls/MusicChoice/audio/pop-country.m3u8
+#EXTINF:-1 tvg-chno="1140" tvg-id="MusicChoicePopHits.us" tvg-name="Music Choice Pop Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Pop Hits
+https://arkina1234.github.io/hls/MusicChoice/audio/pop-hits.m3u8
+#EXTINF:-1 tvg-chno="1141" tvg-id="MusicChoicePopLatino.us" tvg-name="Music Choice Pop Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Pop Latino
+https://arkina1234.github.io/hls/MusicChoice/audio/pop-latino.m3u8
+#EXTINF:-1 tvg-chno="1142" tvg-id="MusicChoiceRBClassics.us" tvg-name="Music Choice R&B Classic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice R&B Classic
+https://arkina1234.github.io/hls/MusicChoice/audio/rb-classics.m3u8
+#EXTINF:-1 tvg-chno="1143" tvg-id="MusicChoiceRBSoul.us" tvg-name="Music Choice R&B Soul" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice R&B Soul
+https://arkina1234.github.io/hls/MusicChoice/audio/rb-soul.m3u8
+#EXTINF:-1 tvg-chno="1144" tvg-id="MusicChoiceRap.us" tvg-name="Music Choice Rap [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Rap [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/audio/rap.m3u8
+#EXTINF:-1 tvg-chno="1145" tvg-id="MusicChoiceReggae.us" tvg-name="Music Choice Reggae" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Reggae
+https://arkina1234.github.io/hls/MusicChoice/audio/reggae.m3u8
+#EXTINF:-1 tvg-chno="1146" tvg-id="MusicChoiceRock.us" tvg-name="Music Choice Rock" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Rock
+https://arkina1234.github.io/hls/MusicChoice/audio/rock.m3u8
+#EXTINF:-1 tvg-chno="1147" tvg-id="MusicChoiceSmoothJazz.us" tvg-name="Music Choice Smooth Jazz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Smooth Jazz
+https://arkina1234.github.io/hls/MusicChoice/audio/smooth-jazz.m3u8
+#EXTINF:-1 tvg-chno="1148" tvg-id="MusicChoiceSoftRock.us" tvg-name="Music Choice Soft Rock" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Soft Rock
+https://arkina1234.github.io/hls/MusicChoice/audio/soft-rock.m3u8
+#EXTINF:-1 tvg-chno="1149" tvg-id="MusicChoiceTeenBeats.us" tvg-name="Music Choice Teen Beats" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Teen Beats
+https://arkina1234.github.io/hls/MusicChoice/audio/teen-beats.m3u8
+#EXTINF:-1 tvg-chno="1150" tvg-id="MusicChoiceThrowbackJamz.us" tvg-name="Music Choice Throwback Jamz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Throwback Jamz
+https://arkina1234.github.io/hls/MusicChoice/audio/throwback-jamz.m3u8
+#EXTINF:-1 tvg-chno="1151" tvg-id="MusicChoiceTodaysCountry.us" tvg-name="Music Choice Today's Country" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Today's Country
+https://arkina1234.github.io/hls/MusicChoice/audio/todays-country.m3u8
+#EXTINF:-1 tvg-chno="1152" tvg-id="MusicChoiceToddlerTunes.us" tvg-name="Music Choice Toddler Tunes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Toddler Tunes
+https://arkina1234.github.io/hls/MusicChoice/audio/toddler-tunes.m3u8
+#EXTINF:-1 tvg-chno="1153" tvg-id="MusicChoiceTropicales.us" tvg-name="Music Choice Tropicales" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Tropicales
+https://arkina1234.github.io/hls/MusicChoice/audio/tropicales.m3u8
+#EXTINF:-1 tvg-chno="1154" tvg-id="MusicChoiceY2K.us" tvg-name="Music Choice Y2K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Y2K
+https://arkina1234.github.io/hls/MusicChoice/audio/y2k.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="1351" tvg-id="MusicChoiceAlternative.us" tvg-name="Music Choice Alternative (Video) [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Alternative (Video) [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/video/alternative.m3u8
+#EXTINF:-1 tvg-chno="1352" tvg-id="MusicChoiceDanceEDM.us" tvg-name="Music Choice Dance / EDM (Video) [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Dance / EDM (Video) [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/video/dance.m3u8
+#EXTINF:-1 tvg-chno="1353" tvg-id="MusicChoiceHipHopandRB.us" tvg-name="Music Choice Hip-Hop and R&B (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Hip-Hop and R&B (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/hip-hop.m3u8
+#EXTINF:-1 tvg-chno="1354" tvg-id="MusicChoiceHitList.us" tvg-name="Music Choice Hit List (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Hit List (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/hit-list.m3u8
+#EXTINF:-1 tvg-chno="1355" tvg-id="MusicChoiceKidzOnly.us" tvg-name="Music Choice Kids Only! (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Kids Only! (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/kids.m3u8
+#EXTINF:-1 tvg-chno="1356" tvg-id="MusicChoiceMax.us" tvg-name="Music Choice Max (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Max (Video)
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/music.choice.us.m3u8
+#EXTINF:-1 tvg-chno="1357" tvg-id="MusicChoiceMexicana.us" tvg-name="Music Choice Mexicana (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Mexicana (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/mexicana.m3u8
+#EXTINF:-1 tvg-chno="1358" tvg-id="MusicChoiceMusicUrbana.us" tvg-name="Music Choice Musica Urbana (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Musica Urbana (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/musica-urbana.m3u8
+#EXTINF:-1 tvg-chno="1359" tvg-id="MusicChoicePopCountry.us" tvg-name="Music Choice Pop & Country (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Pop & Country (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/pop-country.m3u8
+#EXTINF:-1 tvg-chno="1360" tvg-id="MusicChoicePopHits.us" tvg-name="Music Choice Pop Hits (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Pop Hits (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/pop-hits.m3u8
+#EXTINF:-1 tvg-chno="1361" tvg-id="MusicChoicePopLatino.us" tvg-name="Music Choice Pop Latino (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Pop Latino (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/pop-latino.m3u8
+#EXTINF:-1 tvg-chno="1362" tvg-id="MusicChoiceRBSoul.us" tvg-name="Music Choice R&B Soul (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice R&B Soul (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/rb-soul.m3u8
+#EXTINF:-1 tvg-chno="1363" tvg-id="MusicChoiceRap.us" tvg-name="Music Choice Rap (Video) [TV-MA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Rap (Video) [TV-MA]
+https://arkina1234.github.io/hls/MusicChoice/video/rap.m3u8
+#EXTINF:-1 tvg-chno="1364" tvg-id="MusicChoiceRock.us" tvg-name="Music Choice Rock (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Rock (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/rock.m3u8
+#EXTINF:-1 tvg-chno="1365" tvg-id="MusicChoiceTeenBeats.us" tvg-name="Music Choice Teen Beats (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Teen Beats (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/teen-beats.m3u8
+#EXTINF:-1 tvg-chno="1366" tvg-id="MusicChoiceThrowbackJamz.us" tvg-name="Music Choice Throwback Jamz (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Throwback Jamz (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/throwback-jamz.m3u8
+#EXTINF:-1 tvg-chno="1367" tvg-id="MusicChoiceTodaysCountry.us" tvg-name="Music Choice Today's Country (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Today's Country (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/todays-country.m3u8
+#EXTINF:-1 tvg-chno="1368" tvg-id="MusicChoiceToddlerTunes.us" tvg-name="Music Choice Toddler Tunes (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Toddler Tunes (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/toddler.m3u8
+#EXTINF:-1 tvg-chno="1369" tvg-id="MusicChoiceTropicales.us" tvg-name="Music Choice Tropicales (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Tropicales (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/tropicales.m3u8
+#EXTINF:-1 tvg-chno="1370" tvg-id="MusicChoiceY2K.us" tvg-name="Music Choice Y2K (Video)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19313_dark_360w_270h.png" group-title="Undefined",Music Choice Y2K (Video)
+https://arkina1234.github.io/hls/MusicChoice/video/y2k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ariang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28452_dark_360w_270h.png" group-title="International",Ariang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24248_dark_360w_270h.png" group-title="International",CCTV-4 0America
+https://cctvcnchww.v.cdn20.com/live/cctvamerica_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104529_dark_360w_270h.png" group-title="International",CGTN
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79318_white_360w_270h.png" group-title="International",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28174_white_360w_270h.png" group-title="International",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="New Tang Dynasty" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47481_dark_360w_270h.png" group-title="International",New Tang Dynasty
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RaiNews24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78803_dark_360w_270h.png" group-title="International",RaiNews24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58333_dark_360w_270h.png" group-title="International",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QelloConcerts.us" tvg-name="Qello Concerts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113296_dark_360w_270h.png" group-title="Music On Demand / Video",Qello Concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-name="Stingray Alternative" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Alternative
+https://ott-linear-channels.stingray.com/hls/roku/102.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/roku/101.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67641_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-name="Stingray Exitos del Montero" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Exitos del Montero
+https://ott-linear-channels.stingray.com/hls/roku/190.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback 70s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/roku/115.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-name="Stingray Greatest Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/hls/roku/155.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-name="Stingray Hip-Hop/R&B" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Hip-Hop/R&B
+https://ott-linear-channels.stingray.com/hls/roku/133.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/roku/107.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/roku/108.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.us" tvg-name="Stingray Karaoke" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110657_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90613_white_360w_270h.png" group-title="Music On Demand / Video",Stingray Naturescape
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-name="Stingray Nothin' But 90s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/roku/104.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-name="Stingray Remember the 80s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-name="Stingray Soul Storm" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png" group-title="Music On Demand / Video",Stingray Soul Storm
+https://ott-linear-channels.stingray.com/hls/roku/134.m3u8
+
+
+
