@@ -3,8 +3,6 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WOR-AM 710
 https://n09a-e2.revma.ihrhls.com/zc5874
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WGN-AM 720
-http://34.105.126.162/wgnam-wgnamaac-ibc2
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WABC-AM 770
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYC-AM 820
@@ -34,16 +32,12 @@ http://vorbis.wsia.fm:8000/wsia.mp3
 http://peridot.streamguys1.com:5350/iheart
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYC-FM 89.2
 http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WGBH-FM 89.7
-https://streams.audio.wgbh.org/wgbh
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WKCR-FM 89.9
 https://wkcr.streamguys1.com/live
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WFUV-FM 90.7
 https://onair.wfuv.org/onair-hi
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WLNG-FM 92.1
 http://sc7.shoutcaststreaming.us:8100/stream
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WLNG-FM 92.1
-http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYL-FM 92.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WQBU-FM 92.7
@@ -86,28 +80,4 @@ http://stream.wqxr.org/wqxr
 https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST.mp3
 #EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WLTW-FM 106.7
 https://n45a-e2.revma.ihrhls.com/zc1477
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="News (Radio)" radio="true",FOX News Radio
-https://streaming-ent.shoutcast.com/foxnews
-#EXTINF:-1 tvg-logo="" group-title="News (Radio)",FOX News Radio
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",CBS Sports Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTSAAC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",ESPN Radio
-http://live.wostreaming.net/direct/espn-networkmp3-48
-#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",ESPN Deportes Radio
-http://live.wostreaming.net/direct/espn-deportesmp3-48
-#EXTINF:-1 tvg-logo="" group-title="Sports (Radio)" radio="true",TUDN Radio
-https://live.wostreaming.net/direct/univision-deportesaac-ibc2
-#EXTINF:-1 tvg-logo="" group-title="Financial (Radio)" radio="true",Bloomberg Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC48.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",BBC World Service
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",World Radio Network
-http://streaming.edmradio.online:8025/NAMAAP
-#EXTINF:-1 tvg-logo="" group-title="General (Radio)" radio="true",USA Radio
-https://d2a481t1usahi0.cloudfront.net/live/14949974.mp3
-#EXTINF:-1 tvg-logo="" group-title="Religious (Radio)" radio="true",K-LOVE
-https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
 
