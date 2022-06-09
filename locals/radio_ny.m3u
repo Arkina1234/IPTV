@@ -1,83 +1,85 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WFAN-AM 660
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WOR-AM 710
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://images.radio.com/logos/WFANAM.jpg?width=500&height=500" radio="true",WFAN-AM 660
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/8b13c99e-b4e6-4cfc-bf3f-d71ed893b6a2.png?ops=fit(500%2C500)" radio="true",WOR-AM 710
 https://n09a-e2.revma.ihrhls.com/zc5874
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WABC-AM 770
-https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYC-AM 820
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WABC-AM 770
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://media.demo.nypr.digital/i/500/500/c/80/1/wnyc_2_1.png" radio="true",WNYC-AM 820
 http://am820.wnyc.org/wnycam
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WCBS-AM 880
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAM
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WWGB-AM 1030
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://images.radio.com/logos/WCBSAM.jpg?width=500&height=500" radio="true",WCBS-AM 880
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://www.wpat930am.com/img/wpat-toplogo.jpg" radio="true",WPAT-AM 930
+http://mobilestream1.serverroom.us:9772/;stream.mp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://fitz.tmsimg.com/assets/s112131_ld_h6_aa.png?w=500" radio="true",WWGB-AM 1030
 http://ic1.christiannetcast.com/wwgb-am.m3u
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WINS-AM 1010
-https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WBBR-AM 1130
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://images.radio.com/logos/WINSAM.jpg?width=500&height=500" radio="true",WINS-AM 1010
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://assets.bbhub.io/media/sites/16/2016/12/bloomberg-radio-new-york-stacked-blk.png" radio="true",WBBR-AM 1130
 https://26103.live.streamtheworld.com:443/WBBRAM
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WADO-AM 1280
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WADO-AM 1280
 https://live.wostreaming.net/direct/univision-wadoamaac-imc1
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WBTK-AM 1380
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://fitz.tmsimg.com/assets/s112132_ld_h6_aa.png?w=500" radio="true",WBTK-AM 1380
 http://ic1.christiannetcast.com/wbtk-am.m3u
 
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WCWP-FM 88.1
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://www.wcwp.org/uploads/8/0/4/2/80420670/editor/new-fm-logo-jul-2019-no-bkgnd-750-px_5.png" radio="true",WCWP-FM 88.1
 https://wcwp.liu.edu/hls-live/livepkgr/_wcwpfmhls_/wcwpfmhls/livestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WBGO-FM 88.3
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://npr-brightspot.s3.amazonaws.com/07/cb/e2a4fdaf4a2897243c9cae456529/wbgo-no-saxman-white.png" radio="true",WBGO-FM 88.3
 http://wbgo.streamguys.net/wbgo
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WRHU-FM 88.7
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://streamwrhu.net/newPlayer/images/logo.png" radio="true",WRHU-FM 88.7
 http://streamwrhu.net:8500/wrhu.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WSIA-FM 88.9
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WSIA-FM 88.9
 http://vorbis.wsia.fm:8000/wsia.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WFDU-FM 89.1
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WFDU-FM 89.1
 http://peridot.streamguys1.com:5350/iheart
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYC-FM 89.2
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WNYU-FM 89.2
 http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WKCR-FM 89.9
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WKCR-FM 89.9
 https://wkcr.streamguys1.com/live
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WFUV-FM 90.7
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://wfuv.org/sites/all/themes/wfuv_beep/logo.png" radio="true",WFUV-FM 90.7
 https://onair.wfuv.org/onair-hi
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WLNG-FM 92.1
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://www.wlng.com/images/logo2020.png" radio="true",WLNG-FM 92.1
 http://sc7.shoutcaststreaming.us:8100/stream
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYL-FM 92.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WQBU-FM 92.7
-https://live.wostreaming.net/direct/univision-wqbufmaac-imc1
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WPAT-FM 93.1
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://www.wlng.com/images/logo2020.png" radio="true",WLNG-FM 92.1
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://stg-images.radio.com/aiu-media/RDCStationMigrationLogoWNYLFM-fd2fa7e2-9dad-4afd-9403-b4c6a226601c.png?width=500" radio="true",WNYL-FM 92.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://pwaimg.listenlive.co/FAMILYRADIO_EAST_1840841_config_station_logo_image_1560806409.png" radio="true",WFME-FM 92.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EASTAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WPAT-FM 93.1
 https://live.wostreaming.net/direct/sbsystems-wpatfmaac-imc1
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNYC-FM 93.9
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://media.demo.nypr.digital/i/500/500/c/80/1/wnyc_2_1.png" radio="true",WNYC-FM 93.9
 http://fm939.wnyc.org/wnycfm
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WPLJ-FM 95.5
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WPLJ-FM 95.5
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WXNY-FM 96.3
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WXNY-FM 96.3
 https://live.wostreaming.net/direct/univision-wxnyfmaac-imc1
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WKLV-FM 96.7
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WKLV-FM 96.7
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WQHT-FM 97.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WSKQ-FM 97.9
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WQHT-FM 97.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WSKQ-FM 97.9
 https://live.wostreaming.net/direct/sbsystems-wskqfmaac-imc1
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WEPN-FM 98.7
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WEPN-FM 98.7
 http://live.wostreaming.net/direct/espn-wepnmp3-32
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WBAI-FM 99.5
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WBAI-FM 99.5
 http://stream.wbai.org:8000/wbai_128
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WHTZ-FM 100.3
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/1469.png?ops=fit(500%2C500)" radio="true",WHTZ-FM 100.3
 https://n2ba-e2.revma.ihrhls.com/zc1469
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WCBS-FM 101.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WFAN-FM 101.9
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://images.radio.com/logos/WCBSFM.jpg?width=500&height=500" radio="true",WCBS-FM 101.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://images.radio.com/logos/WFANFM.png?width=1000&height=1000" radio="true",WFAN-FM 101.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WNEW-FM 102.7
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://images.radio.com/logos/WNEWFM.jpg?width=500&height=500" radio="true",WNEW-FM 102.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WKTU-FM 103.5
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/8eb2b83b-8490-47eb-bea1-f0309b1b9978.png?ops=fit(500%2C500)" radio="true",WKTU-FM 103.5
 https://n09a-e2.revma.ihrhls.com/zc5874
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WAXQ-FM 104.3
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/1465.png?ops=fit(500%2C500)" radio="true",WAXQ-FM 104.3
 https://n28a-e2.revma.ihrhls.com/zc1465
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WWPR-FM 105.1
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png?ops=fit(500%2C500)" radio="true",WWPR-FM 105.1
 https://n01a-e2.revma.ihrhls.com/zc1477
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WQXR-FM 105.9
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="" radio="true",WQXR-FM 105.9
 http://stream.wqxr.org/wqxr
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WYMK-FM 106.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST.mp3
-#EXTINF:-1 tvg-logo="" group-title="Local (Radio)" radio="true",WLTW-FM 106.7
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="http://pwaimg.listenlive.co/FAMILYSTATIONS_NY_1840841_config_station_logo_image_1604085606.png" radio="true",WYMK-FM 106.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST_SC.aac
+#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-logo="https://i.iheart.com/v3/re/new_assets/61c0f958bf55fdc2f4b19097?ops=fit(500%2C500)" radio="true",WLTW-FM 106.7
 https://n45a-e2.revma.ihrhls.com/zc1477
-
