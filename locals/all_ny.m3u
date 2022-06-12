@@ -43,6 +43,8 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ion.central.
 https://v-ny.mybtv.net/live/637/768x432.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT1.us" tvg-name="WJLP-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",WJLP-DT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/metv.wjlp.new.jerseynew.york.us.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="KSKJCD1.us" tvg-name="WNYN-LD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113143_dark_360w_270h.png" group-title="Local",WNYN-LD
+https://iptv.arkina1234.repl.co/mybtv.php/mybtv.m3u8?v=pi&id=341&r=1280x720
 #EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="WXTV-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",WXTV-DT
 https://iptv.arkina1234.repl.co/mybtv.php/mybtv.m3u8?v=ny&id=643&r=1280x720
 #EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-name="WXTV-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",WXTV-DT
@@ -64,7 +66,7 @@ https://v-ny.mybtv.net/live/661/768x432.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-name="WFUT-DT" catchup-source="https://iptv.arkina1234.repl.co/mybtv.php?v=ny&id=713" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",WFUT-DT
 https://iptv.arkina1234.repl.co/mybtv.php/mybtv.m3u8?v=ny&id=713&r=1280x720
 #EXTINF:-1 tvg-chno="12" tvg-id="News12LongIsland.us" tvg-name="News12 Long Island" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Long Island
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.long.island.us.m3u8
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/163727
 #EXTINF:-1 tvg-chno="12" tvg-id="News12NJ.us" tvg-name="News12 New Jersey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 New Jersey
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/news.12.new.jersey.us.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="News12Westchester.us" tvg-name="News12 Westchester" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16143_dark_360w_270h.png" group-title="Local",News12 Westchester
