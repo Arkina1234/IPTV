@@ -1,12 +1,4 @@
 #EXTM3U
-https://iptv.arkina1234.repl.co/mybtv.php/mybtv.m3u8?v=ny&id=545&r=1280x720
-#EXTINF:-1,US: WCBS TV
-
-#EXTINF:-1,US: NBC New York
-
-#EXTINF:-1,US: WNYW TV
-
-
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",WCBS-TV
 https://iptv.arkina1234.repl.co/mybtv.php/mybtv.m3u8?v=ny&id=545&r=1280x720
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",WCBS-TV
