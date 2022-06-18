@@ -90,7 +90,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mtv.classic.
 #EXTINF:-1 tvg-chno="195" tvg-id="FuseEast.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Entertainment",Fuse
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fuse.tv.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="196" tvg-id="NickelodeonUSEast.us" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon
-https://tvnow.best/api/stream/aridaddy803@icloud.com/812448/livetv.epg/nickelodeon.usa.east.us.m3u8
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796//livetv.epg/nickelodeon.usa.east.us.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-id="NickJrUSEast.us" tvg-name="Nick Jr." tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",Nick Jr.
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nick.jr.us.m3u8
 #EXTINF:-1 tvg-chno="198" tvg-id="NicktoonsUSEast.us" tvg-name="NickToons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kids",NickToons
