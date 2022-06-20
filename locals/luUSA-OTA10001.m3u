@@ -42,7 +42,7 @@ https://v-ny.mybtv.net/live/565.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",WNET
 https://v-ny.mybtv.net/live/567.m3u8
 #EXTINF:-1 tvg-chno="13.2" tvg-id="WNETDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS Kids
-https://v-ny.mybtv.net/live/568.m3u8
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",WLIW
 https://v-ny.mybtv.net/live/575.m3u8
 #EXTINF:-1 tvg-chno="21.2" tvg-id="WLIWDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",Create
