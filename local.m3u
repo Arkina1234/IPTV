@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.wsbtv.com/pf/resources/images/sites/cmg-tv-10010/station-logo.png?d=412" tvg-chno="",WSB Now Atlanta
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.wpxi.com/pf/resources/images/sites/cmg-tv-10080/station-logo.png?d=412" tvg-chno="",WPXI Now Pittsburgh
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.whio.com/pf/resources/images/sites/cmg-tv-10040/station-logo.png?d=412" tvg-chno="",WHIO Dayton
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.wftv.com/pf/resources/images/sites/cmg-tv-10070/station-logo.png?d=412" tvg-chno="",WFTV 9 Orlando
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.actionnewsjax.com/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=412" tvg-chno="",Action News Jax
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.kiro7.com/pf/resources/images/sites/cmg-tv-10090/station-logo.png?d=412" tvg-chno="",KIRO
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.wsoctv.com/pf/resources/images/sites/cmg-tv-10030/station-logo.png?d=412" tvg-chno="",WSOC Channel 9
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsoctv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.fox13memphis.com/pf/resources/images/sites/cmg-tv-10060/station-logo.png?d=412" tvg-chno="",FOX13 Memphis
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whbqtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.boston25news.com/pf/resources/images/sites/cmg-tv-10020/station-logo.png?d=412" tvg-chno="",Boston 25 News
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://www.wsoctv.com/pf/resources/images/sites/cmg-tv-10030/station-logo.png?d=412" tvg-chno="",FOX23 Tulsa
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/kcci/logo.png" tvg-chno="",KCCI Iowa Des Moines
+https://content.uplynk.com/channel/b7fea39aaff14c9aa9ab46db28c74fab.m3u8?gamstreamid=023133aa-68e5-4b13-916a-837551dbbb8c:TPE&ad=kcci_vmp_gam&boundary.adx=replace_as_ad
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcwb/logo.png" tvg-chno="",Very Boston WCVB
+https://content.uplynk.com/ext/d8c39d2c78e84da59e318c445811aabf/220627_100003_1_wcvb.m3u8?ad=wcvbmidroll&boundary.adx=skip
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/kcra/logo.png" tvg-chno="",Very Sacramento KCRA
+https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8?gamstreamid=c07db0ff-0800-4bc2-a2f1-01c22eaefb66:TPE&ad=kcra_vmp_gam&boundary.adx=replace_as_ad
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wtae/logo.png" tvg-chno="",Very Pittsburg by WTAE
+https://content.uplynk.com/ext/0985b030a3cd48dc92f31734a3cbd19f/220627_095915_1_wtae.m3u8?ad=wtaemidroll&boundary.adx=skip
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wbal/logo.png" tvg-chno="",Very Baltimore by WBAL
+https://content.uplynk.com/ext/ffd461ae1f1e4c39a7da0f9420bf87fe/220627_100004_1_wbal.m3u8?ad=wbalmidroll&boundary.adx=skip
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wmur/logo.png" tvg-chno="",WMUR New Hampshire
+https://content.uplynk.com/ext/ea505bf1112b4dfa99146f66db1986a9/220627_100011_1_wmur.m3u8?ad=wmurmidroll&boundary.adx=skip
