@@ -202,23 +202,23 @@ https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/cnn.interna
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26849_dark_360w_270h.png" group-title="World",CNBC World
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/cnbc.world.us.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="HSN.us" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="Shopping",HSN
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=1ph8qQnjXts
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=1ph8qQnjXts&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10270_dark_360w_270h.png" group-title="Shopping",HSN 2
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=q-BvtDrTnxc
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=q-BvtDrTnxc&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="QVC.us" tvg-name="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="Shopping",QVC
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=UqFzfqlb60g
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=UqFzfqlb60g&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="QVC2.us" tvg-name="QVC 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82682_dark_360w_270h.png" group-title="Shopping",QVC 2
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=_v_wMS-uACE
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=_v_wMS-uACE&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="QVC3.us" tvg-name="QVC 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101260_dark_360w_270h.png" group-title="Shopping",QVC 3
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=Qt2c93O1p_c
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/watch?v=Qt2c93O1p_c&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="ShopHQ.us" tvg-name="ShopHQ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14948_dark_360w_270h.png" group-title="Shopping",ShopHQ
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/user/evinelive/live
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/user/evinelive/live&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="JewelryTV.us" tvg-name="Jewelry Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png" group-title="Shopping",Jewelry Television
-https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCv7IxJXF5EMgzZ77DVSx4IQ/live&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="ShopLC.us" tvg-name="Shop LC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56032_dark_360w_270h.png" group-title="Shopping",Shop LC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCP_T_GqYquLmsIpmDpJvULw/live&quality=720p
 #EXTINF:-1 tvg-chno="" tvg-id="GemShoppingNetwork.us" tvg-name="Gem Shopping Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26643_dark_360w_270h.png" group-title="Shopping",Gem Shopping Network
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCBROhZBlBQTxRW_3h6H-rlg/live
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCBROhZBlBQTxRW_3h6H-rlg/live&quality=720p
 #EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="3ABN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10002_dark_360w_270h.png" group-title="Religious",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 tvg-id="CTN.us" tvg-name="CTN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49128_dark_360w_270h.png" group-title="Religious",CTN
