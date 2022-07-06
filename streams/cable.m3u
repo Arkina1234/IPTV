@@ -271,6 +271,8 @@ https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/up.us.m3u8
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/aspire.tv.us.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="General",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="Real America's Voice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116186_dark_360w_270h.png" group-title="General",Real America's Voice
+https://content.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6.m3u8
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="Weather",AccuWeather
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/accuweather.us.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72413_dark_360w_270h.png" group-title="Weather",WeatherNation
