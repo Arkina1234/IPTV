@@ -1,44 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KCBS-DT (CBS)
-https://v-la.mybtv.net/live/161.m3u8
-#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KCBS-DT (CBS)
+#EXTINF:-1 tvg-chno="2" tvg-id="KCBSDT1.us" tvg-name="KCBSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KCBSDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=161&r=1280x720
+#EXTINF:-1 tvg-chno="2" tvg-id="KCBSDT1.us" tvg-name="KCBSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="Local",KCBSDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.kcbs.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KNBC-DT (NBC)
-https://v-la.mybtv.net/live/82.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KNBC-DT (NBC)
+#EXTINF:-1 tvg-chno="4" tvg-id="KNBCDT1.us" tvg-name="KNBCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KNBCDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=82&r=1280x720
+#EXTINF:-1 tvg-chno="4" tvg-id="KNBCDT1.us" tvg-name="KNBCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Local",KNBCDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLA5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10724_dark_360w_270h.png" group-title="Local",KTLA5
-https://v-la.mybtv.net/live/164.m3u8
-#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLA5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10724_dark_360w_270h.png" group-title="Local",KTLA5
+#EXTINF:-1 tvg-chno="5" tvg-id="KTLADT1.us" tvg-name="KTLADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10724_dark_360w_270h.png" group-title="Local",KTLADT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=164&r=1280x720
+#EXTINF:-1 tvg-chno="5" tvg-id="KTLADT1.us" tvg-name="KTLADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10724_dark_360w_270h.png" group-title="Local",KTLADT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ktla.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",KABC-TV (ABC)
-https://v-la.mybtv.net/live/88.m3u8
-#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",KABC-TV (ABC)
+#EXTINF:-1 tvg-chno="7" tvg-id="KABCDT1.us" tvg-name="KABCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",KABCDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=88&r=1280x720
+#EXTINF:-1 tvg-chno="7" tvg-id="KABCDT1.us" tvg-name="KABCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local",KABCDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCAL9" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10362_dark_360w_270h.png" group-title="Local",KCAL9
-https://v-la.mybtv.net/live/259.m3u8
-#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCAL9" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10362_dark_360w_270h.png" group-title="Local",KCAL9
+#EXTINF:-1 tvg-chno="9" tvg-id="KCALDT1.us" tvg-name="KCALDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10362_dark_360w_270h.png" group-title="Local",KCALDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=259&r=1280x720
+#EXTINF:-1 tvg-chno="9" tvg-id="KCALDT1.us" tvg-name="KCALDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10362_dark_360w_270h.png" group-title="Local",KCALDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/kcal.los.angeles.us.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KTTV-DT (FOX)
-https://v-la.mybtv.net/live/166.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KTTV-DT (FOX)
+#EXTINF:-1 tvg-chno="11" tvg-id="KTTVDT1.us" tvg-name="KTTVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KTTVDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=166&r=1280x720
+#EXTINF:-1 tvg-chno="11" tvg-id="KTTVDT1.us" tvg-name="KTTVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",KTTVDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="MyNetworkTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",KCOP13 (MyNet)
-https://v-la.mybtv.net/live/270.m3u8
-#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="MyNetworkTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",KCOP13 (MyNet)
+#EXTINF:-1 tvg-chno="13" tvg-id="KCOPDT1.us" tvg-name="KCOPDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",KCOPDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=270&r=1280x720
+#EXTINF:-1 tvg-chno="13" tvg-id="KCOPDT1.us" tvg-name="KCOPDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local",KCOPDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mnt.kcop.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KWHYDT1.us" tvg-name="Milenio" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10820_dark_360w_270h.png" group-title="Local",KWHY-TV
-https://v-la.mybtv.net/live/298.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KMEX-DT (Univision)
-https://v-la.mybtv.net/live/178.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KMEX-DT (Univision)
+#EXTINF:-1 tvg-chno="18" tvg-id="KSCIDT1.us" tvg-name="KSCIDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14948_dark_360w_270h.png" group-title="Local",KSCIDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=62&r=1280x720
+#EXTINF:-1 tvg-chno="22" tvg-id="KWHYDT1.us" tvg-name="KWHYDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10820_dark_360w_270h.png" group-title="Local",KWHYDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=298&r=1280x720
+#EXTINF:-1 tvg-chno="24" tvg-id="KVCRDT1.us" tvg-name="KVCRDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="Local",KVCRDT
+https://kvcrdt.lls.pbs.org/out/v1/5114aad2d1844ccba15d559173feec19/index.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="KCETDT1.us" tvg-name="KCETDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png" group-title="Local",KCETDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=262&r=1280x720
+#EXTINF:-1 tvg-chno="31" tvg-id="KVMDDT1.us" tvg-name="KVMDDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118335_dark_360w_270h.png" group-title="Local",KVMDDT
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="KMEXDT1.us" tvg-name="KMEXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KMEXDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=178&r=1280x720
+#EXTINF:-1 tvg-chno="34" tvg-id="KMEXDT1.us" tvg-name="KMEXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local",KMEXDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/uni.kmex.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KFTRDT1.us" tvg-name="UniMás" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",KFTR-DT (UniMás)
-https://v-la.mybtv.net/live/299.m3u8
-#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KVEA-DT (Telemundo)
-https://v-la.mybtv.net/live/267.m3u8
-#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KVEA-DT (Telemundo)
+#EXTINF:-1 tvg-chno="46" tvg-id="KFTRDT1.us" tvg-name="KFTRDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Local",KFTRDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=299&r=1280x720
+#EXTINF:-1 tvg-chno="50" tvg-id="KOCEDT1.us" tvg-name="KOCEDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="Local",KOCEDT
+https://kocedt.lls.pbs.org/out/v1/75f564cba25e4053a8789a1a14d13344/index.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="KVEADT1.us" tvg-name="KVEADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KVEADT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=267&r=1280x720
+#EXTINF:-1 tvg-chno="52" tvg-id="KVEADT1.us" tvg-name="KVEADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local",KVEADT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/telemundo.kvea.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KAZADT1.us" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",KAZA-TV (MeTV)
-https://v-la.mybtv.net/live/268.m3u8
-
+#EXTINF:-1 tvg-chno="54" tvg-id="KAZADT1.us" tvg-name="KAZADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Local",KAZADT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=268&r=1280x720
+#EXTINF:-1 tvg-chno="56" tvg-id="KDOCDT1.us" tvg-name="KDOCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10410_dark_360w_270h.png" group-title="Local",KDOCDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=732&r=1280x720
+#EXTINF:-1 tvg-chno="58" tvg-id="KLCSDT1.us" tvg-name="KLCSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="Local",KLCSDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=109&r=768x432
