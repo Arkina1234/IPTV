@@ -418,7 +418,7 @@ https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/starz.kids.fami
 #EXTINF:-1 tvg-id="StarzKidsFamilyWest.us" tvg-name="Starz Kids & Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="Movies",Starz Kids & Family
 https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/starz.kids.family.pacific.us.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-name="Starz Encore" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="Movies",Starz Encore
-https://tvnow.best/api/stream/Lwhittingahan@gmail.com/AKvEgb/livetv.epg/starz.encore.eastern.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.eastern.us.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreWest.us" tvg-name="Starz Encore" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="Movies",Starz Encore
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.pacific.us.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-name="Starz Encore Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14871_dark_360w_270h.png" group-title="Movies",Starz Encore Action
@@ -446,11 +446,11 @@ https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encor
 #EXTINF:-1 tvg-id="StarzEncoreWesternsWest.us" tvg-name="Starz Encore Westerns" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14765_dark_360w_270h.png" group-title="Movies",Starz Encore Westerns
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.westerns.pacific.us.m3u8
 #EXTINF:-1 tvg-id="MoviePlexEast.us" tvg-name="MoviePlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15295_dark_360w_270h.png" group-title="Movies",MoviePlex
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/movieplex.eastern.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/movieplex.eastern.us.m3u8
 #EXTINF:-1 tvg-id="RetroPlexEast.us" tvg-name="RetroPlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49767_dark_360w_270h.png" group-title="Movies",RetroPlex
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/retroplex.eastern.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/retroplex.eastern.us.m3u8
 #EXTINF:-1 tvg-id="IndiePlexEast.us" tvg-name="IndiePlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49751_dark_360w_270h.png" group-title="Movies",IndiePlex
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/indieplex.eastern.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/indieplex.eastern.us.m3u8
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.eastern.us.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime
@@ -484,27 +484,27 @@ https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.w
 #EXTINF:-1 tvg-id="ShowtimeWomenWest.us" tvg-name="Showtime Women" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25272_dark_360w_270h.png" group-title="Movies",Showtime Women
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.women.eastern.us.m3u8
 #EXTINF:-1 tvg-id="FlixEast.us" tvg-name="Flix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10201_dark_360w_270h.png" group-title="Movies",Flix
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/flix.eastern.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/flix.eastern.us.m3u8
 #EXTINF:-1 tvg-id="TheMovieChannelEast.us" tvg-name="The Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11160_dark_360w_270h.png" group-title="Movies",The Movie Channel
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/movie.channel.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/movie.channel.us.m3u8
 #EXTINF:-1 tvg-id="TheMovieChannelXtraEast.us" tvg-name="The Movie Channel Extra" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17663_dark_360w_270h.png" group-title="Movies",The Movie Channel Extra
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/movie.channel.extra.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/movie.channel.extra.us.m3u8
 #EXTINF:-1 tvg-id="EpixEast.us" tvg-name="Epix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65669_dark_360w_270h.png" group-title="Movies",Epix
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/epix.east.us.m3u8
-#EXTINF:-1 tvg-id="Epix2East.us" tvg-name="Epix 2" tvg-logo="http:/https://tv4.live/api/stream/dean_murray@hotmail.com/401233/schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="Movies",Epix 2
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/epix2.east.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/epix.east.us.m3u8
+#EXTINF:-1 tvg-id="Epix2East.us" tvg-name="Epix 2" tvg-logo="http:/https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="Movies",Epix 2
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/epix2.east.us.m3u8
 #EXTINF:-1 tvg-id="EpixDriveIn.us" tvg-name="Epix Drive-in" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68409_dark_360w_270h.png" group-title="Movies",Epix Drive-in
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/epix.drive.in.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/epix.drive.in.us.m3u8
 #EXTINF:-1 tvg-id="EpixHits.us" tvg-name="Epix Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74073_dark_360w_270h.png" group-title="Movies",Epix Hits
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/epix.hits.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/epix.hits.us.m3u8
 #EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="ScreenPix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113001_dark_360w_270h.png" group-title="Movies",ScreenPix
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/screenpix.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/screenpix.us.m3u8
 #EXTINF:-1 tvg-id="ScreenPixAction.us" tvg-name="ScreenPix Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113003_dark_360w_270h.png" group-title="Movies",ScreenPix Action
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/screenpix.action.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/screenpix.action.us.m3u8
 #EXTINF:-1 tvg-id="ScreenPixVoices.us" tvg-name="ScreenPix Voices" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113004_dark_360w_270h.png" group-title="Movies",ScreenPix Voices
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/screenpix.voices.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/screenpix.voices.us.m3u8
 #EXTINF:-1 tvg-id="ScreenPixWesterns.us" tvg-name="ScreenPix Westerns" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113002_dark_360w_270h.png" group-title="Movies",ScreenPix Westerns
-https://tv4.live/api/stream/dean_murray@hotmail.com/401233/livetv.epg/screenpix.westerns.us.m3u8
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/screenpix.westerns.us.m3u8
 # Atlanta
 #EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="Bally Sports (South)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12410_dark_360w_270h.png" group-title="Sports Regional",Bally Sports South
 https://tvnow.best/api/stream/Lwhittingahan@gmail.com/AKvEgb/livetv.epg/fox.sports.south.us.m3u8
