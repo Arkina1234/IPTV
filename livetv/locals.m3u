@@ -1,88 +1,88 @@
 #EXTM3U
 #EXTGRP: Local Regional
-# Bay Area
-#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-name="KTVUDT" tvg-logo="" group-title="Local Regional",KTVUDT
+# San Francisco/Bay Area
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-name="KTVUDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local Regional",KTVUDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-id="KPIXDT1.us" tvg-name="KPIXDT" tvg-logo="" group-title="Local Regional",KPIXDT
+#EXTINF:-1 tvg-id="KPIXDT1.us" tvg-name="KPIXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local Regional",KPIXDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.kpix.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-id="KGODT1.us" tvg-name="KGODT" tvg-logo="" group-title="Local Regional",KGODT
+#EXTINF:-1 tvg-id="KGODT1.us" tvg-name="KGODT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local Regional",KGODT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="KNTVDT" tvg-logo="" group-title="Local Regional",KNTVDT
+#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="KNTVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Local Regional",KNTVDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.kntv.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-id="KDTVDT1.us" tvg-name="KDTVDT" tvg-logo="" group-title="Local Regional",KDTVDT
+#EXTINF:-1 tvg-id="KDTVDT1.us" tvg-name="KDTVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local Regional",KDTVDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.kdtv.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-id="KSTSDT1.us" tvg-name="KSTSDT" tvg-logo="" group-title="Local Regional",KSTSDT
+#EXTINF:-1 tvg-id="KSTSDT1.us" tvg-name="KSTSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local Regional",KSTSDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.ksts.san.jose.ca.us.m3u8
 # Chicago
-#EXTINF:-1 tvg-id="WBBMDT1.us" tvg-name="WBBMDT" tvg-logo="" group-title="Local Regional",WBBMDT
+#EXTINF:-1 tvg-id="WBBMDT1.us" tvg-name="WBBMDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local Regional",WBBMDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.wbbm.chicago.il.us.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="WMAQDT" tvg-logo="" group-title="Local Regional",WMAQDT
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="WMAQDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Local Regional",WMAQDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.wmaq.chicago.il.us.m3u8
-#EXTINF:-1 tvg-id="WLSDT1.us" tvg-name="WLSDT" tvg-logo="" group-title="Local Regional",WLSDT
+#EXTINF:-1 tvg-id="WLSDT1.us" tvg-name="WLSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local Regional",WLSDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.wls.chicago.il.us.m3u8
-#EXTINF:-1 tvg-id="WGNDT1.us" tvg-name="WGNDT" tvg-logo="" group-title="Local Regional",WGNDT
+#EXTINF:-1 tvg-id="WGNDT1.us" tvg-name="WGNDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11474_dark_360w_270h.png" group-title="Local Regional",WGNDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/wgn.chicago.local.us.m3u8
-#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-name="WFLDDT" tvg-logo="" group-title="Local Regional",WFLDDT
+#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-name="WFLDDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local Regional",WFLDDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.wfld.chicago.il.us.m3u8
-#EXTINF:-1 tvg-id="WSNSDT1.us" tvg-name="WSNSDT" tvg-logo="" group-title="Local Regional",WSNSDT
+#EXTINF:-1 tvg-id="WSNSDT1.us" tvg-name="WSNSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local Regional",WSNSDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.wsns.chicago.il.us.m3u8
-#EXTINF:-1 tvg-id="WGBODT1.us" tvg-name="WGBODT" tvg-logo="" group-title="Local Regional",WGBODT
+#EXTINF:-1 tvg-id="WGBODT1.us" tvg-name="WGBODT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local Regional",WGBODT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.wgbo.chicago.il.us.m3u8
 # Los Angeles
-#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="KCBSDT" tvg-logo="" group-title="Local Regional",KCBSDT
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="KCBSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local Regional",KCBSDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.kcbs.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="KNBCDT" tvg-logo="" group-title="Local Regional",KNBCDT
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="KNBCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Local Regional",KNBCDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLADT" tvg-logo="" group-title="Local Regional",KTLADT
+#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10724_dark_360w_270h.png" group-title="Local Regional",KTLADT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/ktla.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="KABCDT" tvg-logo="" group-title="Local Regional",KABCDT
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="KABCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local Regional",KABCDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCALDT" tvg-logo="" group-title="Local Regional",KCALDT
+#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCALDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10362_dark_360w_270h.png" group-title="Local Regional",KCALDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/kcal.los.angeles.us.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="KTTVDT" tvg-logo="" group-title="Local Regional",KTTVDT
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="KTTVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local Regional",KTTVDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="KCOPDT" tvg-logo="" group-title="Local Regional",KCOPDT
+#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="KCOPDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local Regional",KCOPDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mnt.kcop.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="KMEXDT" tvg-logo="" group-title="Local Regional",KMEXDT
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="KMEXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local Regional",KMEXDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.kmex.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="KVEADT" tvg-logo="" group-title="Local Regional",KVEADT
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="KVEADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local Regional",KVEADT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.kvea.los.angeles.ca.us.m3u8
 # New York
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBSDT" tvg-logo="" group-title="Local Regional",WCBSDT
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local Regional",WCBSDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBCDT" tvg-logo="" group-title="Local Regional",WNBCDT
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Local Regional",WNBCDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="WNYWDT" tvg-logo="" group-title="Local Regional",WNYWDT
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="WNYWDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local Regional",WNYWDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="WABCDT" tvg-logo="" group-title="Local Regional",WABCDT
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="WABCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local Regional",WABCDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.wabc.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="WWORDT1.us" tvg-name="WWORDT" tvg-logo="" group-title="Local Regional",WWORDT
+#EXTINF:-1 tvg-id="WWORDT1.us" tvg-name="WWORDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="Local Regional",WWORDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mnt.wwor.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="WPIXDT" tvg-logo="" group-title="Local Regional",WPIXDT
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="WPIXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="Local Regional",WPIXDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/wpix.new.york.superstation.us.m3u8
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="WXTVDT" tvg-logo="" group-title="Local Regional",WXTVDT
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="WXTVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Local Regional",WXTVDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.wxtv.teaneck.nj.us.m3u8
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="WNJUDT" tvg-logo="" group-title="Local Regional",WNJUDT
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="WNJUDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local Regional",WNJUDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.wnju.teterboro.nj.us.m3u8
-#EXTINF:-1 tvg-id="WLNYDT1.us" tvg-name="WLNYDT" tvg-logo="" group-title="Local Regional",WLNYDT
+#EXTINF:-1 tvg-id="WLNYDT1.us" tvg-name="WLNYDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s31225_dark_360w_270h.png" group-title="Local Regional",WLNYDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/wlny.tv1055.riverhead.ny.us.m3u8
 # Philadelphia
-#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="KYWDT" tvg-logo="" group-title="Local Regional",KYWDT
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="KYWDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local Regional",KYWDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.kyw.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVIDT" tvg-logo="" group-title="Local Regional",WPVIDT
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVIDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Local Regional",WPVIDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.wpvi.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="WCAUDT" tvg-logo="" group-title="Local Regional",WCAUDT
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="WCAUDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Local Regional",WCAUDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="WTXFDT" tvg-logo="" group-title="Local Regional",WTXFDT
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="WTXFDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local Regional",WTXFDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-id="WWSIDT1.us" tvg-name="WWSIDT" tvg-logo="" group-title="Local Regional",WWSIDT
+#EXTINF:-1 tvg-id="WWSIDT1.us" tvg-name="WWSIDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Local Regional",WWSIDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.wwsi.philadelphia.pa.us.m3u8
-#EXTINF:-1 tvg-id="WPSGDT1.us" tvg-name="WPSGDT" tvg-logo="" group-title="Local Regional",WPSGDT
+#EXTINF:-1 tvg-id="WPSGDT1.us" tvg-name="WPSGDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" group-title="Local Regional",WPSGDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cw.wpsg.philadelphia.pa.us.m3u8
 # Dallas/Fort Worth
-#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-name="KDFWDT" tvg-logo="" group-title="Local Regional",KDFWDT
+#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-name="KDFWDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local Regional",KDFWDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
-#EXTINF:-1 tvg-id="KTVTDT1.us" tvg-name="KTVTDT" tvg-logo="" group-title="Local Regional",KTVTDT
+#EXTINF:-1 tvg-id="KTVTDT1.us" tvg-name="KTVTDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local Regional",KTVTDT
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.ktvt.fort.worth.tx.us.m3u8
 
 #EXTGRP: News Regional
