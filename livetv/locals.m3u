@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTGRP: Local Regional
+# Bay Area
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-name="KTVUDT" tvg-logo="" group-title="Local Regional",KTVUDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-id="KPIXDT1.us" tvg-name="KPIXDT" tvg-logo="" group-title="Local Regional",KPIXDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.kpix.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-id="KGODT1.us" tvg-name="KGODT" tvg-logo="" group-title="Local Regional",KGODT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-id="KNTVDT1.us" tvg-name="KNTVDT" tvg-logo="" group-title="Local Regional",KNTVDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.kntv.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-id="KDTVDT1.us" tvg-name="KDTVDT" tvg-logo="" group-title="Local Regional",KDTVDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.kdtv.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-id="KSTSDT1.us" tvg-name="KSTSDT" tvg-logo="" group-title="Local Regional",KSTSDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.ksts.san.jose.ca.us.m3u8
+# Chicago
+#EXTINF:-1 tvg-id="WBBMDT1.us" tvg-name="WBBMDT" tvg-logo="" group-title="Local Regional",WBBMDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.wbbm.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="WMAQDT" tvg-logo="" group-title="Local Regional",WMAQDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.wmaq.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="WLSDT1.us" tvg-name="WLSDT" tvg-logo="" group-title="Local Regional",WLSDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.wls.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us" tvg-name="WGNDT" tvg-logo="" group-title="Local Regional",WGNDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/wgn.chicago.local.us.m3u8
+#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-name="WFLDDT" tvg-logo="" group-title="Local Regional",WFLDDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.wfld.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="WSNSDT1.us" tvg-name="WSNSDT" tvg-logo="" group-title="Local Regional",WSNSDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.wsns.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="WGBODT1.us" tvg-name="WGBODT" tvg-logo="" group-title="Local Regional",WGBODT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.wgbo.chicago.il.us.m3u8
+# Los Angeles
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="KCBSDT" tvg-logo="" group-title="Local Regional",KCBSDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.kcbs.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-name="KNBCDT" tvg-logo="" group-title="Local Regional",KNBCDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KTLADT1.us" tvg-name="KTLADT" tvg-logo="" group-title="Local Regional",KTLADT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/ktla.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="KABCDT" tvg-logo="" group-title="Local Regional",KABCDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KCALDT1.us" tvg-name="KCALDT" tvg-logo="" group-title="Local Regional",KCALDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/kcal.los.angeles.us.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="KTTVDT" tvg-logo="" group-title="Local Regional",KTTVDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KCOPDT1.us" tvg-name="KCOPDT" tvg-logo="" group-title="Local Regional",KCOPDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mnt.kcop.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-name="KMEXDT" tvg-logo="" group-title="Local Regional",KMEXDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.kmex.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-name="KVEADT" tvg-logo="" group-title="Local Regional",KVEADT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.kvea.los.angeles.ca.us.m3u8
+# New York
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBSDT" tvg-logo="" group-title="Local Regional",WCBSDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBCDT" tvg-logo="" group-title="Local Regional",WNBCDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="WNYWDT" tvg-logo="" group-title="Local Regional",WNYWDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="WABCDT" tvg-logo="" group-title="Local Regional",WABCDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-id="WWORDT1.us" tvg-name="WWORDT" tvg-logo="" group-title="Local Regional",WWORDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mnt.wwor.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-name="WPIXDT" tvg-logo="" group-title="Local Regional",WPIXDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/wpix.new.york.superstation.us.m3u8
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="WXTVDT" tvg-logo="" group-title="Local Regional",WXTVDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/uni.wxtv.teaneck.nj.us.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="WNJUDT" tvg-logo="" group-title="Local Regional",WNJUDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.wnju.teterboro.nj.us.m3u8
+#EXTINF:-1 tvg-id="WLNYDT1.us" tvg-name="WLNYDT" tvg-logo="" group-title="Local Regional",WLNYDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/wlny.tv1055.riverhead.ny.us.m3u8
+# Philadelphia
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="KYWDT" tvg-logo="" group-title="Local Regional",KYWDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.kyw.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="WPVIDT" tvg-logo="" group-title="Local Regional",WPVIDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abc.wpvi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="WCAUDT" tvg-logo="" group-title="Local Regional",WCAUDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.wcau.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="WTXFDT" tvg-logo="" group-title="Local Regional",WTXFDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="WWSIDT1.us" tvg-name="WWSIDT" tvg-logo="" group-title="Local Regional",WWSIDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/telemundo.wwsi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="WPSGDT1.us" tvg-name="WPSGDT" tvg-logo="" group-title="Local Regional",WPSGDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cw.wpsg.philadelphia.pa.us.m3u8
+# Dallas/Fort Worth
+#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-name="KDFWDT" tvg-logo="" group-title="Local Regional",KDFWDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
+#EXTINF:-1 tvg-id="KTVTDT1.us" tvg-name="KTVTDT" tvg-logo="" group-title="Local Regional",KTVTDT
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cbs.ktvt.fort.worth.tx.us.m3u8
+
+#EXTGRP: News Regional
+# New Jersey
+#EXTINF:-1 tvg-id="News12Bronx.us" tvg-name="News 12 Bronx" group-title="News Regional" tvg-logo="",News 12 Bronx
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/news.12.bronx.us.m3u8
+#EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News 12 Brooklyn" group-title="News Regional" tvg-logo="",News 12 Brooklyn
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/news.12.brooklyn.us.m3u8
+#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News 12 Connecticut" group-title="News Regional" tvg-logo="",News 12 Connecticut
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/news.12.connecticut.us.m3u8
+#EXTINF:-1 tvg-id="News12LongIsland.us" tvg-name="News 12 Long Island" group-title="News Regional" tvg-logo="",News 12 Long Island
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/news.12.long.island.us.m3u8
+#EXTINF:-1 tvg-id="News12NewJersey.us" tvg-name="News 12 New Jersey" group-title="News Regional" tvg-logo="",News 12 New Jersey
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/news.12.new.jersey.us.m3u8
+#EXTINF:-1 tvg-id="News12Westchester.us" tvg-name="News 12 Westchester" group-title="News Regional" tvg-logo="",News 12 Westchester
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/news.12.westchester.us.m3u8
+
+#EXTGRP: Sports Regional
+# Atlanta
+#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="Bally Sports (South)" tvg-logo="" group-title="Sports Regional",Bally Sports South
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.south.us.m3u8
+#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-name="Bally Sports (Southeast)" tvg-logo="" group-title="Sports Regional",Bally Sports Southeast
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.southeast.us.m3u8
+# Arizona
+#EXTINF:-1 tvg-id="BallySportsArizona.us" tvg-name="Bally Sports Arizona" tvg-logo="" group-title="Sports Regional",Bally Sports Arizona
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.arizona.us.m3u8
+#EXTINF:-1 tvg-id="Pac12Arizona.us" tvg-name="Pac12 Arizona" tvg-logo="" group-title="Sports Regional",Pac12 Arizona
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pac.12.arizona.us.m3u8
+# Baltimore
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN" tvg-logo="" group-title="Sports Regional",MASN
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mid.atlantic.sports.network.us.m3u8
+#EXTINF:-1 tvg-id="MASN2.us" tvg-name="MASN 2" tvg-logo="" group-title="Sports Regional",MASN 2
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+# Bay Area / California
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="Sports Regional",NBC Sports Bay Area
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.sports.bay.area.us.m3u8
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaSAT.us" tvg-name="NBC Sports California" tvg-logo="" group-title="Sports Regional",NBC Sports California
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.sports.california.us.m3u8
+#EXTINF:-1 tvg-id="Pac12BayArea.us" tvg-name="Pac12 Bay Area" tvg-logo="" group-title="Sports Regional",Pac12 Bay Area
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pac.12.bay.area.us.m3u8
+# Boston
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="" group-title="Sports Regional",NBC Sports Boston
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.sports.boston.us.m3u8
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="NESN" tvg-logo="" group-title="Sports Regional",NESN
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/new.england.sports.network.us.m3u8
+#EXTINF:-1 tvg-id="NESNPlus.us" tvg-name="NESN+" tvg-logo="" group-title="Sports Regional",NESN+
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/new.england.sports.network.plus.us.m3u8
+# Chicago
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" tvg-logo="" group-title="Sports Regional",Marquee Sports Network
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/marquee.sports.network.us.m3u8
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="" group-title="Sports Regional",NBC Sports Chicago
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.sports.chicago.us.m3u8
+# Colorado
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" tvg-logo="" group-title="Sports Regional",Altitude Sports
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/altitude.sports.us.m3u8
+#EXTINF:-1 tvg-id="ATTSportsNetRockyMountain.us" tvg-name="AT&T SportsNet Rocky Mountain" tvg-logo="" group-title="Sports Regional",AT&T SportsNet Rocky Mountain
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/att.sportsnet.rocky.mountains.us.m3u8
+#EXTINF:-1 tvg-id="Pac12Mountain.us" tvg-name="Pac12 Mountain" tvg-logo="" group-title="Sports Regional",Pac12 Mountain
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pac.12.mountain.us.m3u8
+# Detroit
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="" group-title="Sports Regional",Bally Sports Detroit
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.detroit.us.m3u8
+# Florida
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="Bally Sports Florida" tvg-logo="" group-title="Sports Regional",Bally Sports Florida
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.florida.us.m3u8
+#EXTINF:-1 tvg-id="BallySportsSun.us" tvg-name="Bally Sports SUN" tvg-logo="" group-title="Sports Regional",Bally Sports SUN
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/bally.sports.sun.us.m3u8
+# Los Angeles
+#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-name="Bally Sports (West)" tvg-logo="" group-title="Sports Regional",Bally Sports West
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.west.us.m3u8
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="Spectrum SportsNet" tvg-logo="" group-title="Sports Regional",Spectrum SportsNet
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/spectrum.sportsnet.la.us.m3u8
+#EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum SportsNet LA" tvg-logo="" group-title="Sports Regional",Spectrum SportsNet LA
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/spectrum.sportsnet.la.dodgers.us.m3u8
+#EXTINF:-1 tvg-id="Pac12LosAngeles.us" tvg-name="Pac12 Los Angeles" tvg-logo="" group-title="Sports Regional",Pac12 Los Angeles
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pac.12.la.us.m3u8
+# Minnesota
+#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="Bally Sports (North)" tvg-logo="" group-title="Sports Regional",Bally Sports North
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.north.us.m3u8
+# Missouri
+#EXTINF:-1 tvg-id="BallySportsMidwest.us" tvg-name="Bally Sports (Midwest)" tvg-logo="" group-title="Sports Regional",Bally Sports Midwest
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.midwest.us.m3u8
+# New York / New Jersey
+#EXTINF:-1 tvg-id="MSG.us" tvg-name="MSG" tvg-logo="" group-title="Sports Regional",MSG
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/msg.us.m3u8
+#EXTINF:-1 tvg-id="MSG2.us" tvg-name="MSG 2" tvg-logo="" group-title="Sports Regional",MSG 2
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/msg.2.us.m3u8
+#EXTINF:-1 tvg-id="MSGPlus.us" tvg-name="MSG+" tvg-logo="" group-title="Sports Regional",MSG+
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/msg.plus.us.m3u8cl
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="SportsNet NY" tvg-logo="" group-title="Sports Regional",SportsNet NY
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/sny.sportsnet.new.york.us.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="" group-title="Sports Regional",YES Network
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/yes.network.us.m3u8
+# Ohio
+#EXTINF:-1 tvg-id="BallySportsGreatLakes.us" tvg-name="Bally Sports Great Lakes" tvg-logo="" group-title="Sports Regional",Bally Sports Great Lakes
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/bally.sports.great.lakes.us.m3u8
+#EXTINF:-1 tvg-id="BallySportsOhio.us" tvg-name="Bally Sports Ohio" tvg-logo="" group-title="Sports Regional",Bally Sports Ohio
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.ohio.us.m3u8
+# Oklahoma
+#EXTINF:-1 tvg-id="BallySportsOklahoma.us" tvg-name="Bally Sports Oklahoma" tvg-logo="" group-title="Sports Regional",Bally Sports Oklahoma
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.oklahoma.us.m3u8
+# Oregon
+#EXTINF:-1 tvg-id="Pac12Oregon.us" tvg-name="Pac12 Oregon" tvg-logo="" group-title="Sports Regional",Pac12 Oregon
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pac.12.oregon.us.m3u8
+# Philadelphia
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="Sports Regional",NBC Sports Philadelphia
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.sports.philadelphia.us.m3u8
+# Pittsburgh
+#EXTINF:-1 tvg-id="ATTSportsNetPittsburgh.us" tvg-name="AT&T SportsNet Pittsburgh" tvg-logo="" group-title="Sports Regional",AT&T SportsNet Pittsburgh
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/att.sportsnet.pittsburgh.us.m3u8
+# San Diego
+#EXTINF:-1 tvg-id="BallySportsSanDiego.us" tvg-name="Bally Sports San Diego" tvg-logo="" group-title="Sports Regional",Bally Sports San Diego
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.san.diego.us.m3u8
+# Texas
+#EXTINF:-1 tvg-id="ATTSportsNetSouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="" group-title="Sports Regional",AT&T SportsNet Southwest
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/att.sportsnet.southwest.houston.us.m3u8
+#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="Bally Sports (Southwest)" tvg-logo="" group-title="Sports Regional",Bally Sports Southwest
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/fox.sports.southwest.us.m3u8
+# Washington
+#EXTINF:-1 tvg-id="NBCSportsWashington.us" tvg-name="NBC Sports Washington" tvg-logo="" group-title="Sports Regional",NBC Sports Washington
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/nbc.sports.washington.us.m3u8
+#EXTINF:-1 tvg-id="Pac12Washington.us" tvg-name="Pac12 Washington" tvg-logo="" group-title="Sports Regional",Pac12 Washington
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pac.12.washington.us.m3u8
+#EXTINF:-1 tvg-id="RootSportsNorthwest.us" tvg-name="Root Sports Northwest" tvg-logo="" group-title="Sports Regional",Root Sports Northwest
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/root.sports.northwest.us.m3u8
