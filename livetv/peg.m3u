@@ -1,0 +1,21 @@
+#EXTM3U url-tvg="http://m3u4u.com/xml/d5k2nvwmx8c1mejy984z.xml"
+#EXTINF:-1 tvg-id="GovernmentAccessGOAC1301.us" tvg-name="BCTV24" tvg-logo="" group-title="",BCTV24
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCImopNmmU11qfuWBbiXdowQ/live
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="BX67" tvg-logo="" group-title="",BX67
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="BX68" tvg-logo="" group-title="",BX68
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="BX69" tvg-logo="" group-title="",BX69
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="BX70" tvg-logo="" group-title="",BX70
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="BX951" tvg-logo="" group-title="",BX951
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="DCC019" tvg-logo="" group-title="",DCC019
+http://video.oct.dc.gov/out/u/DCC.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="DCN013" tvg-logo="" group-title="",DCN013
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="DKN016" tvg-logo="" group-title="",DKN016
+http://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1 tvg-id="LocalAccess.us" tvg-name="NYXT952" tvg-logo="" group-title="",NYXT952
+https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
