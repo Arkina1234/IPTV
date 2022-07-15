@@ -13,10 +13,6 @@ https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/bloomberg.
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/cnbc.usa.us.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="Financial",FOX Business
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/fox.business.us.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Legislative",C-SPAN
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/cspan.us.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10162_dark_360w_270h.png" group-title="Legislative",C-SPAN 2
-https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/c.span.2.us.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11187_dark_360w_270h.png" group-title="Weather",The Weather Channel
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/the.weather.channel.us.m3u8
 #EXTINF:-1 tvg-id="BETEast.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entertainment",BET
@@ -277,6 +273,10 @@ https://content.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6.m3u8
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/accuweather.us.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72413_dark_360w_270h.png" group-title="Weather",WeatherNation
 https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Educational",C-SPAN
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/cspan.us.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10162_dark_360w_270h.png" group-title="Educational",C-SPAN 2
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/c.span.2.us.m3u8
 #EXTINF:-1 tvg-id="PBSEast.us" tvg-name="PBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33453_dark_360w_270h.png" group-title="Educational",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="JBS.us" tvg-name="JBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74978_dark_360w_270h.png" group-title="General",JBS
