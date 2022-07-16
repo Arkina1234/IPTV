@@ -1,5 +1,6 @@
-#EXTM3U url-tvg="http://m3u4u.com/xml/d5k2nvwmx8c1mejy984z.xml"
-#EXTINF:-1 tvg-id="GovernmentAccessGOAC1301.us" tvg-name="BCTV24" tvg-logo="" group-title="",BCTV24
+#EXTM3U url-tvg="https://arkina1234.github.com/epg/test/tvtv.us.guide.xml"
+# url-tvg="http://m3u4u.com/xml/d5k2nvwmx8c1mejy984z.xml"
+#EXTINF:-1 tvg-id="GovernmentAccess.us" tvg-name="BCTV24" tvg-logo="" group-title="",BCTV24
 https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCImopNmmU11qfuWBbiXdowQ/live
 #EXTINF:-1 tvg-id="PublicEducationalGovernmentPEG.us" tvg-name="BX67" tvg-logo="" group-title="",BX67
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
