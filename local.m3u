@@ -31,3 +31,8 @@ https://content.uplynk.com/ext/0985b030a3cd48dc92f31734a3cbd19f/220627_095915_1_
 https://content.uplynk.com/ext/ffd461ae1f1e4c39a7da0f9420bf87fe/220627_100004_1_wbal.m3u8?ad=wbalmidroll&boundary.adx=skip
 #EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wmur/logo.png" tvg-chno="",WMUR New Hampshire
 https://content.uplynk.com/ext/ea505bf1112b4dfa99146f66db1986a9/220627_100011_1_wmur.m3u8?ad=wmurmidroll&boundary.adx=skip
+#EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="" tvg-chno="",WDRB Louisville
+https://dai.google.com/linear/hls/event/tfWOw8_2T6Kkp6Yfj3OcGg/master.m3u8
+
+
+# EXTINF:-1 tvg-id="LocalNews.us" tvg-logo="" tvg-chno="",
