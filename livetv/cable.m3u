@@ -285,10 +285,6 @@ http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-id="I24NewsEnglish.il" tvg-name="i24 News English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87376_dark_360w_270h.png" group-title="World",i24 News English
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/i24.us.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="World",NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="World",France 24 English
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16062_dark_360w_270h.png" group-title="Scripted",GAC Family
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/gac.great.american.country.us.m3u8
 #EXTINF:-1 tvg-id="DogTV.us" tvg-name="Dog TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82446_dark_360w_270h.png" group-title="Relaxing",Dog TV
@@ -836,6 +832,8 @@ https://dai.google.com/linear/hls/event/8BmMXuLuTHS1U3jtBnHmaQ/master.m3u8
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="France24(French).us" tvg-name="France 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58685_dark_360w_270h.png" group-title="World",France 24
 https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/france24/live
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="World",France 24 English
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-id="RT.us" tvg-name="RT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58333_dark_360w_270h.png" group-title="World",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="DWDeutschplus(German).us" tvg-name="DW Deutsch+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74479_dark_360w_270h.png" group-title="World",DW Deutsch+
@@ -848,44 +846,16 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="CCTV4ChinaCentralTV(English).ch" tvg-name="CCTV-4 America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24248_dark_360w_270h.png" group-title="World",CCTV-4 America
 https://cctvcnchww.v.cdn20.com/live/cctvamerica_1/index.m3u8
-#EXTINF:-1 tvg-id="SkyLinkTV.us" tvg-name="Sky Link TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49492_dark_360w_270h.png" group-title="World",Sky Link TV
-https://iptv.arkina1234.repl.co/mybtv.php/chunks.m3u8?v=ca&id=728&r=768x432
 #EXTINF:-1 tvg-id="PhoenixSatelliteTV.us" tvg-name="Phoenix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24935_dark_360w_270h.png" group-title="World",Phoenix
 http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/290361.m3u8
 #EXTINF:-1 tvg-id="CTIZhongTianChannel.us" tvg-name="CTI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20655_dark_360w_270h.png" group-title="World",CTI
 https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
-#EXTINF:-1 tvg-id="ABSCBNNewsChannel.us" tvg-name="ABS-CBN News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47174_dark_360w_270h.png" group-title="World",ABS-CBN News Channel
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/abs.cbn.news.ph.m3u8
-#EXTINF:-1 tvg-id="CinemaOne.us" tvg-name="Cinema One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46736_dark_360w_270h.png" group-title="World",Cinema One
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/cinema.one.ph.m3u8
-#EXTINF:-1 tvg-id="DZMMRadyoPatrol.us" tvg-name="DZMM TeleRadyo" tvg-logo="" group-title="World",DZMM TeleRadyo
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheFilipinoChannel.us" tvg-name="TFC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72601_dark_360w_270h.png" group-title="World",TFC
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/tfc.ph.m3u8
-#EXTINF:-1 tvg-id="PinoyBoxOffice.us" tvg-name="PBO" tvg-logo="" group-title="World",PBO
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/pbo.ph.m3u8
-#EXTINF:-1 tvg-id="GMAPinoyTV.us" tvg-name="GMA Pinoy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46463_dark_360w_270h.png" group-title="World",GMA Pinoy TV
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/gma.pinoy.ph.m3u8
-#EXTINF:-1 tvg-id="GMALifeTV(English).ca" tvg-name="GMA Life TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60152_dark_360w_270h.png" group-title="World",GMA Life TV
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/gma.life.ph.m3u8
-#EXTINF:-1 tvg-id="Kapatid.us" tvg-name="Kapatid" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75621_dark_360w_270h.png" group-title="World",Kapatid
-http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/171991.m3u8
-#EXTINF:-1 tvg-id="VIETV.us" tvg-name="VIETV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87690_dark_360w_270h.png" group-title="World",VIETV
-https://iptv.arkina1234.repl.co/mybtv.php/chunks.m3u8?v=ca&id=230&r=768x432
 #EXTINF:-1 tvg-id="ARANG(ArirangTVKoreaWorldNetwork).us" tvg-name="Arirang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28452_dark_360w_270h.png" group-title="World",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s50270_dark_360w_270h.png" group-title="World",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/manifest.m3u8?p=79&s=1654238111&e=1654238231&h=06f7b701dbf2bd4a3c9484182c2e641a
-#EXTINF:-1 tvg-id="KBSWorld(src01).kr" tvg-name="KBS World" tvg-logo="" group-title="World",KBS World
-http://quality-restream.com:8080/live/ce1eb8b3/fd28c06f6f/284633.m3u8
-#EXTINF:-1 tvg-id="NHK1.us" tvg-name="NHK" tvg-logo="" group-title="World",NHK
-https://nhk2.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NHKTVWorldPremium(English).mx" tvg-name="NHK World Premium" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19733_dark_360w_270h.png" group-title="World",NHK World Premium
-https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index.m3u8
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="World",Globo
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/globo.brasilia.br.m3u8
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="World",SporTV
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/sportv.br.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png" group-title="World",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Music",MTV Live HD [International]
 https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/mtv.live.co.m3u8
 #EXTINF:-1 tvg-id="StingrayQello.ca" tvg-name="Qello Concerts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113296_dark_360w_270h.png" group-title="Music",Qello Concerts
