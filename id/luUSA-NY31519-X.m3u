@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png",WCBS
+https://v-ny.mybtv.net/live/545/768x432.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png",WNBC
+https://v-ny.mybtv.net/live/548/1280x720.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png",WNYW
+https://v-ny.mybtv.net/live/550/1280x720.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png",WABC
+https://v-ny.mybtv.net/live/554/1280x720.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="WWORDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_dark_360w_270h.png",BUZZR
+https://v-ca.mybtv.net/live/729/768x432.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png",WPIX
+https://v-ny.mybtv.net/live/562/1280x720.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",WNET
+https://v-ny.mybtv.net/live/567/1280x720.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="WLIWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png",WLIW
+https://v-ny.mybtv.net/live/575/1280x720.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="WNYEDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11744_dark_360w_270h.png",WNYE
+https://v-ny.mybtv.net/live/591/1280x720.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="WPXNDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png",WPXN
+https://v-ny.mybtv.net/live/608/1280x720.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="WXTVDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png",WXTV
+https://v-ny.mybtv.net/live/643/1280x720.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="WNJUDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png",WNJU
+https://v-ny.mybtv.net/live/659/1280x720.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id=".us" tvg-logo="",PA34NY
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6480540/events/9321159/player
+#EXTINF:-1 tvg-chno="56" tvg-id=".us" tvg-logo="",PA56NY
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478976/events/2616018/player
+#EXTINF:-1 tvg-chno="67" tvg-id=".us" tvg-logo="",PA67NY
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478935/events/9784595/player
+#EXTINF:-1 tvg-chno="74" tvg-id="WNYEDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11744_dark_360w_270h.png",WNYEDT2
+https://v-ny.mybtv.net/live/592/768x432.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="WNYEDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11744_dark_360w_270h.png",WNYEDT3
+https://v-ny.mybtv.net/live/593/768x432.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="WRNNDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11933_dark_360w_270h.png",WRNN
+https://v-ny.mybtv.net/live/661/1280x720.m3u8
+#EXTINF:-1 tvg-chno="186" tvg-id=".us" tvg-logo="",YTA
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id=".us" tvg-logo="",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-id=".us" tvg-logo="",Cheddar News
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-id=".us" tvg-logo="",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id=".us" tvg-logo="",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id=".us" tvg-logo="",United Nations
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
+
+
+
+
