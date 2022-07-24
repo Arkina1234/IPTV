@@ -123,6 +123,14 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-chno="58.2" tvg-id="NHKWorldJapan.jp" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png",WNJNDT2
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-chno="63.8" tvg-id="" tvg-logo="",88.1 FM - WDNJ
+https://ic2.sslstream.com/wdnj-fm
+#EXTINF:-1 tvg-chno="63.9" tvg-id="" tvg-logo="",98.1 FM - KCBN
+http://aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="63.11" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112131_dark_360w_270h.png",1030 AM - WWGB
+http://147.135.84.27:80/wwgb-am
+#EXTINF:-1 tvg-chno="63.12" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112132_dark_360w_270h.png",1380 AM - WBTK
+http://147.135.84.27:80/wbtk-am
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",WFUT
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
 #EXTINF:-1 tvg-chno="68.2" tvg-id="WFUTDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91496_dark_360w_270h.png",WFUTDT2
