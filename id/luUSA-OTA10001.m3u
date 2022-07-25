@@ -96,7 +96,7 @@ https://v-ny.mybtv.net/live/629/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.7" tvg-id="WJLPDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122968_dark_360w_270h.png",WJLPDT7
 https://v-ny.mybtv.net/live/634/640x480.m3u8
 #EXTINF:-1 tvg-chno="33.8" tvg-id="WJLPDT8.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119266_dark_360w_270h.png",WJLPDT8
-https://v-la.mybtv.net/live/101/640x480.m3u8
+https://lb.privatevps.org/play/hyGmToSmc-Nyl9MmOFtKvW1ILuvvE4uEYbpeUjUB3as/.ts
 #EXTINF:-1 tvg-chno="33.9" tvg-id="WJLPDT9.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",WJLPDT9
 https://v-ny.mybtv.net/live/630/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.10" tvg-id="WJLPDT10.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",WJLPDT10
