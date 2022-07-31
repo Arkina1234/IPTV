@@ -14,11 +14,11 @@ https://arkina1234.github.io/hls/live/locals/wabc.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="WWORTVChannel9(LocalNewYork).us(m3u4u)" tvg-name="WWOR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="",WWOR
 https://arkina1234.github.io/hls/live/locals/wwor.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="HSN.us(m3u4u)" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="",HSN
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uscln/master.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="WPIX.us(m3u4u)" tvg-name="WPIX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="",WPIX
 https://arkina1234.github.io/hls/live/locals/wpix.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="QVC.us(m3u4u)" tvg-name="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="",QVC
-https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="WNET.us(m3u4u)" tvg-name="WNET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_dark_360w_270h.png" group-title="",WNET
 https://arkina1234.github.io/hls/live/locals/wnet.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="WLNYSD.us(m3u4u)" tvg-name="WLNY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75363_dark_360w_270h.png" group-title="",WLNY
@@ -49,6 +49,8 @@ https://v-ny.mybtv.net/live/1000/768x432.m3u8
 https://v-ny.mybtv.net/live/549/768x432.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT.us(m3u4u)" tvg-name="WJLP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="",WJLP
 https://arkina1234.github.io/hls/live/locals/wjlp.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="HSN2.us(m3u4u)" tvg-name="HSN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="",HSN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="WNYWDT2.us(m3u4u)" tvg-name="WNYWDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_dark_360w_270h.png" group-title="",WNYWDT2
 https://v-ny.mybtv.net/live/551/768x432.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="WNJUDT2(Spanish).us(m3u4u)" tvg-name="WNJUDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74299_dark_360w_270h.png" group-title="",WNJUDT2
@@ -68,19 +70,21 @@ https://v-ny.mybtv.net/live/546/768x432.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="WPXNDT2.us(m3u4u)" tvg-name="WPXNDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="",WPXNDT2
 https://v-ny.mybtv.net/live/581/768x432.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="QVC.us(m3u4u)" tvg-name="QVC [SD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="",QVC [SD]
-https://qvc.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/med.m3u8
 #EXTINF:-1 tvg-chno="191" tvg-id="HSN.us(m3u4u)" tvg-name="HSN [SD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="",HSN [SD]
-https://hsn.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uscln/med.m3u8
 #EXTINF:-1 tvg-chno="192" tvg-id="JewelryTelevision.us(m3u4u)" tvg-name="Jewelry Television [SD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png" group-title="",Jewelry Television [SD]
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/nvg4j9p4/1728/chunklist.m3u8
-#EXTINF:-1 tvg-chno="193" tvg-id="ShopHQ.us(m3u4u)" tvg-name="ShopHQ [SD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14948_dark_360w_270h.png" group-title="",ShopHQ [SD]
-https://aos01-evine.secure.footprint.net/evine/clean/VIDEO_1_1564000.m3u8
+#EXTINF:-1 tvg-chno="193" tvg-id="ShopHQ.us(m3u4u)" tvg-name="ShopHQ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14948_dark_360w_270h.png" group-title="",ShopHQ [SD]
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="QVC.us(m3u4u)" tvg-name="QVC 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="",QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-chno="253" tvg-id="WNETDT2.us(m3u4u)" tvg-name="WNETDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="",WNETDT2
 https://v-ny.mybtv.net/live/568/768x432.m3u8
 #EXTINF:-1 tvg-chno="261" tvg-id="TrinityBroadcastingNetwork.us(m3u4u)" tvg-name="Trinity Broadcasting Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_dark_360w_270h.png" group-title="",Trinity Broadcasting Network
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 tvg-chno="601" tvg-id="HSN.us(m3u4u)" tvg-name="HSN [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="",HSN [HD]
-https://hsn.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8
 #EXTINF:-1 tvg-chno="602" tvg-id="WCBSDT.us(m3u4u)" tvg-name="WCBSDT [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="",WCBSDT [HD]
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-id="WNBCDT.us(m3u4u)" tvg-name="WNBCDT [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="",WNBCDT [HD]
@@ -96,7 +100,7 @@ https://v-ny.mybtv.net/live/559/1280x720.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-id="WPIXDT.us(m3u4u)" tvg-name="WPIXDT [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20373_dark_360w_270h.png" group-title="",WPIXDT [HD]
 https://v-ny.mybtv.net/live/562/1280x720.m3u8
 #EXTINF:-1 tvg-chno="612" tvg-id="QVC.us(m3u4u)" tvg-name="QVC [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="",QVC [HD]
-https://qvc.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8
 #EXTINF:-1 tvg-chno="613" tvg-id="WNETDT.us(m3u4u)" tvg-name="WNETDT [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="",WNETDT [HD]
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index_2.m3u8
 #EXTINF:-1 tvg-chno="614" tvg-id="WFUTDT(Spanish).us(m3u4u)" tvg-name="WFUTDT [HD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="",WFUTDT [HD]
