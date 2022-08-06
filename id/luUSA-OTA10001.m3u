@@ -39,6 +39,16 @@ https://v-ny.mybtv.net/live/559/768x432.m3u8
 https://v-ca.mybtv.net/live/729/768x432.m3u8
 #EXTINF:-1 tvg-chno="9.4" tvg-id="WWORDT4.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90401_dark_360w_270h.png",WWORDT4
 https://v-ny.mybtv.net/live/561/768x432.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="LocalNow.us" tvg-logo="",LOCAL
+https://ottmanifest.weathergroup.com/ssai/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=nyManhattanNYC&seid=c4a584cd-86f8-45a1-8821-3ac8e2068902&showlocalnow=false&cdn=https://ottcdn-a.akamaihd.net&sessionId=XumoV3_playback&format=HLS&tpp=10443
+#EXTINF:-1 tvg-chno="10.2" tvg-id="LocalNow.us" tvg-logo="",LOCALD2
+https://ottmanifest.weathergroup.com/ssai/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=Default&seid=ab361ad5-ef58-4f0e-9bf8-e47579abb29e&showlocalnow=false&cdn=https://ottcdn-a.akamaihd.net&sessionId=XumoV3_playback&format=HLS&tpp=10443
+#EXTINF:-1 tvg-chno="10.3" tvg-id="LocalNow.us" tvg-logo="",LOCALD3
+https://ottmanifest.weathergroup.com/ssai/10.233.185.101:58081/api/v1/live/hls/localnow/.swn4b13737e-112c-4760-8def-000000000000apple2apple/.rate_1813000/index_v_1813000_3.m3u8
+#EXTINF:-1 tvg-chno="10.4" tvg-id="LocalNow.us" tvg-logo="",LOCALD4
+https://ottmanifest.weathergroup.com/ssai/10.233.185.101:58081/api/v1/live/hls/localnow/.swn0005fc6a-992d-43ac-9d49-000000000000apple2apple/.rate_1813000/index_v_1813000_3.m3u8
+#EXTINF:-1 tvg-chno="10.5" tvg-id="Weatherscan.us" tvg-logo="",LOCALD5
+https://weatherscan.tk/?new_york
 #EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png",WPIX
 https://arkina1234.github.io/hls/live/locals/wpix.m3u8
 #EXTINF:-1 tvg-chno="11.2" tvg-id="WPIXDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70248_dark_360w_270h.png",WPIXDT2
