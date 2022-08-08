@@ -49,5 +49,9 @@ https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=la&id=112&r=1280x720
 https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=591&r=1280x720
 #EXTINF:-1 tvg-chno="26" tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12553_dark_360w_270h.png" group-title="Educational",NASA TV
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/nasa_540p/chunks.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="DWDeutschPlus.de" tvg-name="DW Deutsch+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74479_dark_360w_270h.png" group-title="World",DW Deutsch+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="World",France 24 English
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-chno="29" tvg-id="WTXFDT1.us" tvg-name="WTXF-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Local",WTXFDT
 https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=pi&id=369&r=1280x720
