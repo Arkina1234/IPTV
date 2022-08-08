@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="WeatherScan.us" tvg-name="WeatherScan" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21586_dark_360w_270h.png" group-title="",WeatherScan
+https://weatherscan.tk/?new_jersey
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBSDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="",WCBSDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=545&r=768x432
+#EXTINF:-1 tvg-chno="3" tvg-id="KYWDT1.us" tvg-name="KYWDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="",KYWDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=pi&id=318&r=768x432
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBCDT1.us" tvg-name="WNBCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="",WNBCDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=548&r=768x432
+#EXTINF:-1 tvg-chno="5" tvg-id="WNYWDT1.us" tvg-name="WNYWDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="",WNYWDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=550&r=768x432
+#EXTINF:-1 tvg-chno="6" tvg-id="WPVIDT1.us" tvg-name="WPVIDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28708_dark_360w_270h.png" group-title="",WPVIDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=pi&id=333&r=768x432
+#EXTINF:-1 tvg-chno="7" tvg-id="WABCDT1.us" tvg-name="WABCDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28708_dark_360w_270h.png" group-title="",WABCDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=554&r=768x432
+#EXTINF:-1 tvg-chno="8" tvg-id="HSN.us" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_dark_360w_270h.png" group-title="",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uscln/med.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="WWORDT1.us" tvg-name="WWORDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="",WWORDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=559&r=768x432
+#EXTINF:-1 tvg-chno="10" tvg-id="WCAUDT1.us" tvg-name="WCAUDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="",WCAUDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=pi&id=345&r=768x432
+#EXTINF:-1 tvg-chno="11" tvg-id="WPIXDT1.us" tvg-name="WPIXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_dark_360w_270h.png" group-title="",WPIXDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=562&r=768x432
+#EXTINF:-1 tvg-chno="12" tvg-id="WHYYDT1.us" tvg-name="WHYY-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24114_dark_360w_270h.png" group-title="",WHYYDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=pi&id=347&r=768x432
+#EXTINF:-1 tvg-chno="16" tvg-id="QVC.us" tvg-name="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/med.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="WNETDT1.us" tvg-name="WNET-DT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32356_dark_360w_270h.png" group-title="",WNETDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ny&id=567&r=768x432
+#EXTINF:-1 tvg-chno="14" tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="",PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16325_dark_360w_270h.png",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="QVC.us" tvg-name="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/med.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="WPHLDT1.us" tvg-name="WPHL-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_dark_360w_270h.png" group-title="",WPHLDT
+https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=pi&id=355&r=768x432
+#EXTINF:-1 tvg-chno="18" tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10270_dark_360w_270h.png" group-title="",HSN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
