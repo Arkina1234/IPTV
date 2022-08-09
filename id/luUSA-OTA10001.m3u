@@ -111,13 +111,13 @@ https://lb.privatevps.org/play/hyGmToSmc-Nyl9MmOFtKvW1ILuvvE4uEYbpeUjUB3as/.ts
 https://v-ny.mybtv.net/live/630/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.10" tvg-id="WJLPDT10.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",WJLPDT10
 https://v-ny.mybtv.net/live/620/768x432.m3u8
-#EXTINF:-1 tvg-chno="33.11" tvg-id="" tvg-logo="",106.3FM - WKMK
+#EXTINF:-1 tvg-chno="33.11" tvg-id="" tvg-logo="",WKMK
 https://live.wostreaming.net/manifest/press-wkmkfmaac-hlsc1.m3u8?us_privacy=1---
-#EXTINF:-1 tvg-chno="33.12" tvg-id="" tvg-logo="",98.5FM - WBBO
+#EXTINF:-1 tvg-chno="33.12" tvg-id="" tvg-logo="",WBBO
 https://live.wostreaming.net/manifest/press-wbbofmaac-hlsc1.m3u8?us_privacy=1---
-#EXTINF:-1 tvg-chno="33.13" tvg-id="" tvg-logo="",107.1FM - WWZY
+#EXTINF:-1 tvg-chno="33.13" tvg-id="" tvg-logo="",WWZY
 https://live.wostreaming.net/manifest/press-wwzyfmaac-hlsc1.m3u8?us_privacy=1---
-#EXTINF:-1 tvg-chno="33.14" tvg-id="" tvg-logo="",1410AM - WHTG
+#EXTINF:-1 tvg-chno="33.14" tvg-id="" tvg-logo="",WHTG
 https://live.wostreaming.net/manifest/press-whtgamaac-hlsc1.m3u8?us_privacy=1---
 #EXTINF:-1 tvg-chno="39" tvg-id="KSKJCD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113143_dark_360w_270h.png",WNYN
 https://v-pi.mybtv.net/live/341/768x432.m3u8
@@ -157,13 +157,13 @@ https://cdnts.sinovision.net/livestream.m3u8
 http://live2.ntdimg.com/live330/playlist.m3u8
 #EXTINF:-1 tvg-chno="63.07" tvg-id="WMBCDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",WMBCDT7
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="63.08" tvg-id="" tvg-logo="",88.1FM - WDNJ
+#EXTINF:-1 tvg-chno="63.08" tvg-id="" tvg-logo="",WDNJ
 https://ic2.sslstream.com/wdnj-fm
-#EXTINF:-1 tvg-chno="63.09" tvg-id="" tvg-logo="",98.1FM - KCBN
-http://aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="63.11" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112131_dark_360w_270h.png",1030AM - WWGB
+#EXTINF:-1 tvg-chno="63.09" tvg-id="" tvg-logo="",KCBN
+https://streamer.radio.co/sc8fe32068/listen
+#EXTINF:-1 tvg-chno="63.11" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112131_dark_360w_270h.png",WWGB
 http://147.135.84.27:80/wwgb-am
-#EXTINF:-1 tvg-chno="63.12" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112132_dark_360w_270h.png",1380AM - WBTK
+#EXTINF:-1 tvg-chno="63.12" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112132_dark_360w_270h.png",WBTK
 http://147.135.84.27:80/wbtk-am
 #EXTINF:-1 tvg-chno="68" tvg-id="WFUTDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",WFUT
 https://arkina1234.github.io/hls/live/locals/wfut.m3u8
