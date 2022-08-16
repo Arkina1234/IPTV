@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy54xq4aw9gemn39p"
+#EXTM3U url-tvg="http://m3u4u.com/xml/w16vy54xq4aw9gemn39p.xml"
 #EXTINF:-1 tvg-chno="2" tvg-id="WCBS.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCBS
 https://arkina1234.github.io/hls/live/locals/wcbs.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="WPXN.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_white_360w_270h.png" group-title="",WPXN
@@ -67,15 +67,17 @@ https://v-ny.mybtv.net/live/602/768x432.m3u8
 https://v-ca.mybtv.net/live/729/768x432.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-id="WCBSDT2.us" tvg-name="WCBSDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109454_white_360w_270h.png" group-title="",WCBSDT2
 https://v-ny.mybtv.net/live/546/768x432.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="CUNY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10167_white_360w_270h.png",CUNY
+#EXTINF:-1 tvg-chno="77" tvg-id="(Dummy Programming)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10167_white_360w_270h.png",CUNY
 https://v-ny.mybtv.net/live/593/768x432.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id=".us" tvg-logo="",PA82NY
+#EXTINF:-1 tvg-chno="81" tvg-id="(Dummy Programming)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",NYCTVGov
+https://v-ny.mybtv.net/live/592/768x432.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="(Dummy Programming)" tvg-logo="",PA82NY
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6480540/events/9321159/player
-#EXTINF:-1 tvg-chno="83" tvg-id=".us" tvg-logo="",PA83NY
+#EXTINF:-1 tvg-chno="83" tvg-id="(Dummy Programming)" tvg-logo="",PA83NY
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478976/events/2616018/player
-#EXTINF:-1 tvg-chno="84" tvg-id=".us" tvg-logo="",PA84NY
+#EXTINF:-1 tvg-chno="84" tvg-id="(Dummy Programming)" tvg-logo="",PA84NY
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478935/events/9784595/player
-#EXTINF:-1 tvg-chno="85" tvg-id=".us" tvg-logo="",NYXT
+#EXTINF:-1 tvg-chno="85" tvg-id="(Dummy Programming)" tvg-logo="",NYXT
 https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="WPXNDT2.us" tvg-name="WPXNDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_white_360w_270h.png" group-title="",WPXNDT2
 https://v-ny.mybtv.net/live/581/768x432.m3u8
