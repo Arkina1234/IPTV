@@ -1,0 +1,81 @@
+#EXTM3U url-tvg="http://m3u4u.com/xml/w16vy54xq4aw9gemn39p.xml"
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBS.us" tvg-name="WCBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_white_360w_270h.png" group-title="",WCBS
+https://arkina1234.github.io/live/sd/wcbs.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="WPXN.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_white_360w_270h.png" group-title="",WPXN
+https://arkina1234.github.io/live/sd/wpxn.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBC.us" tvg-name="WNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_white_360w_270h.png" group-title="",WNBC
+https://arkina1234.github.io/live/sd/wnbc.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="WNYW.us" tvg-name="WNYW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_white_360w_270h.png" group-title="",WNYW
+https://arkina1234.github.io/live/sd/wnyw.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="WXTV(Spanish).us" tvg-name="WXTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_white_360w_270h.png" group-title="",WXTV
+https://arkina1234.github.io/live/sd/wxtv.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="WABC.us" tvg-name="WABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_white_360w_270h.png" group-title="",WABC
+https://arkina1234.github.io/live/sd/wabc.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="WWORTVChannel9(LocalNewYork).us" tvg-name="WWOR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51307_white_360w_270h.png" group-title="",WWOR
+https://arkina1234.github.io/live/sd/wwor.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="HSN.us" tvg-name="HSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62077_white_360w_270h.png" group-title="",HSN
+https://arkina1234.github.io/live/sd/hsn.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="WPIX.us" tvg-name="WPIX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11779_white_360w_270h.png" group-title="",WPIX
+https://arkina1234.github.io/live/sd/wpix.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="QVC.us" tvg-name="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_white_360w_270h.png" group-title="",QVC
+https://arkina1234.github.io/live/sd/qvc.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="WNET.us" tvg-name="WNET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_white_360w_270h.png" group-title="",WNET
+https://arkina1234.github.io/live/sd/wnet.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="WLNYSD.us" tvg-name="WLNY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75363_white_360w_270h.png" group-title="",WLNY
+https://arkina1234.github.io/live/sd/wlny.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="WNJN.us" tvg-name="WNJN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11723_white_360w_270h.png" group-title="",WNJN
+https://arkina1234.github.io/live/sd/wnjn.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="WRNN.us" tvg-name="WRNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11933_white_360w_270h.png" group-title="",WRNN
+https://arkina1234.github.io/live/sd/wrnn.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="WFUT(Spanish).us" tvg-name="WFUT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_white_360w_270h.png" group-title="",WFUT
+https://arkina1234.github.io/live/sd/wfut.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="WNJU(Spanish).us" tvg-name="WNJU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_white_360w_270h.png" group-title="",WNJU
+https://arkina1234.github.io/live/sd/wnju.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="WMBC.us" tvg-name="WMBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12477_white_360w_270h.png" group-title="",WMBC
+https://arkina1234.github.io/live/sd/wmbc.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="WLIW.us" tvg-name="WLIW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11039_white_360w_270h.png" group-title="",WLIW
+https://arkina1234.github.io/live/sd/wliw.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="WPIXDT2.us" tvg-name="WPIXDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70248_white_360w_270h.png" group-title="",WPIXDT2
+https://v-ca.mybtv.net/live/735/640x480.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="WPIXDT4.us" tvg-name="WPIXDT4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119814_white_360w_270h.png" group-title="",WPIXDT4
+https://v-ny.mybtv.net/live/565/640x480.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="JewelryTelevision.us" tvg-name="Jewelry Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_white_360w_270h.png" group-title="",Jewelry Television
+https://arkina1234.github.io/live/sd/jtv.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="WNYE.us" tvg-name="WNYE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11744_white_360w_270h.png" group-title="",WNYE
+https://arkina1234.github.io/live/sd/wnye.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="WPIXDT3.us" tvg-name="WPIXDT3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111043_white_360w_270h.png" group-title="",WPIXDT3
+https://v-ny.mybtv.net/live/1000/768x432.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="WNBCDT2.us" tvg-name="WNBCDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78851_white_360w_270h.png" group-title="",WNBCDT2
+https://v-ny.mybtv.net/live/549/768x432.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="WJLPDT.us" tvg-name="WJLP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_white_360w_270h.png" group-title="",WJLP
+https://arkina1234.github.io/live/sd/wjlp.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10270_white_360w_270h.png" group-title="",HSN 2
+hhttps://arkina1234.github.io/live/sd/hsn2.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="WNYWDT2.us" tvg-name="WNYWDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s81275_white_360w_270h.png" group-title="",WNYWDT2
+https://v-ny.mybtv.net/live/551/768x432.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="WNJUDT2(Spanish).us" tvg-name="WNJUDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74299_white_360w_270h.png" group-title="",WNJUDT2
+https://v-ny.mybtv.net/live/660/768x432.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="WFUTDT3.us" tvg-name="WFUTDT3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82563_white_360w_270h.png" group-title="",WFUTDT3
+https://v-px.mybtv.net/live/928/640x480.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="WJLPDT4.us" tvg-name="WJLPDT4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_white_360w_270h.png" group-title="",WJLPDT4
+https://v-ny.mybtv.net/live/627/768x432.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="WJLPDT3.us" tvg-name="WJLPDT3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89922_white_360w_270h.png" group-title="",WJLPDT3
+https://v-ny.mybtv.net/live/626/768x432.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="Laff.us" tvg-name="WPXNDT5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92091_white_360w_270h.png" group-title="",WPXNDT5
+https://v-ny.mybtv.net/live/602/768x432.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="WWORDT3.us" tvg-name="WWORDT3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s93430_white_360w_270h.png" group-title="",WWORDT3
+https://v-ca.mybtv.net/live/729/768x432.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="WCBSDT2.us" tvg-name="WCBSDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109454_white_360w_270h.png" group-title="",WCBSDT2
+https://v-ny.mybtv.net/live/546/768x432.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="(Dummy Programming)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10167_white_360w_270h.png",CUNY
+https://arkina1234.github.io/live/sd/wnyedt3.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="(Dummy Programming)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",NYCGov
+https://arkina1234.github.io/live/sd/wnyedt2.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="(Dummy Programming)" tvg-logo="",PA82NY
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6480540/events/9321159/player
+#EXTINF:-1 tvg-chno="83" tvg-id="(Dummy Programming)" tvg-logo="",PA83NY
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478976/events/2616018/player
+#EXTINF:-1 tvg-chno="84" tvg-id="(Dummy Programming)" tvg-logo="",PA84NY
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478935/events/9784595/player
+#EXTINF:-1 tvg-chno="85" tvg-id="(Dummy Programming)" tvg-logo="",NYXT
+https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
