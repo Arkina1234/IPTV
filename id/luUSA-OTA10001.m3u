@@ -99,14 +99,6 @@ https://lb.privatevps.org/play/hyGmToSmc-Nyl9MmOFtKvW1ILuvvE4uEYbpeUjUB3as/.ts
 https://v-ny.mybtv.net/live/630/768x432
 #EXTINF:-1 tvg-chno="33.10" tvg-id="WJLPDT10.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s00000_dark_360w_270h.png",WJLPD10
 https://v-ny.mybtv.net/live/620/768x432
-#EXTINF:-1 tvg-chno="33.11" tvg-id="" tvg-logo="" radio="true",Thunder
-https://live.wostreaming.net/manifest/press-wkmkfmaac-ibc1?us_privacy=1---
-#EXTINF:-1 tvg-chno="33.12" tvg-id="" tvg-logo="" radio="true",B985
-https://live.wostreaming.net/manifest/press-wbbofmaac-ibc1?us_privacy=1---
-#EXTINF:-1 tvg-chno="33.13" tvg-id="" tvg-logo="" radio="true",The Boss
-https://live.wostreaming.net/manifest/press-wwzyfmaac-ibc1?us_privacy=1---
-#EXTINF:-1 tvg-chno="33.14" tvg-id="" tvg-logo="" radio="true",1410 AM
-https://live.wostreaming.net/manifest/press-whtgamaac-ibc1?us_privacy=1---
 #EXTINF:-1 tvg-chno="39" tvg-id="KSKJCD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113143_dark_360w_270h.png",WNYN
 https://v-pi.mybtv.net/live/341/768x432
 #EXTINF:-1 tvg-chno="41.1" tvg-id="WXTVDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png",WXTV
@@ -153,10 +145,6 @@ https://cdnts.sinovision.net/livestream.m3u8
 http://live2.ntdimg.com/live330/playlist.m3u8
 #EXTINF:-1 tvg-chno="63.07" tvg-id="WMBCDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76786_dark_360w_270h.png",WMBCDT7
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="63.08" tvg-id="" tvg-logo="" radio="true",WDNJ
-https://ic2.sslstream.com/wdnj-fm
-#EXTINF:-1 tvg-chno="63.09" tvg-id="" tvg-logo="" radio="true",KCBN
-https://streamer.radio.co/sc8fe32068/listen
 #EXTINF:-1 tvg-chno="63.11" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112131_dark_360w_270h.png" radio="true",WWGB
 http://147.135.84.27:80/wwgb-am
 #EXTINF:-1 tvg-chno="63.12" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s112132_dark_360w_270h.png" radio="true",WBTK
