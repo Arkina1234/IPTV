@@ -68,67 +68,71 @@ https://v-ny.mybtv.net/live/592/768x432.m3u8
 #EXTINF:-1 tvg-chno="25.3" tvg-id="WNYEDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10167_dark_360w_270h.png",WNYEDT3
 https://v-ny.mybtv.net/live/593/768x432.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="WNYJDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16604_dark_360w_270h.png",WNYJ
-https://v-ny.mybtv.net/live/601/640x480
+https://v-ny.mybtv.net/live/601/640x480.m3u8
 #EXTINF:-1 tvg-chno="31.1" tvg-id="WPXNDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png",WPXN
 https://arkina1234.github.io/live/hd/wpxn.m3u8
 #EXTINF:-1 tvg-chno="31.2" tvg-id="WPXNDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png",WPXNDT2
-https://v-ny.mybtv.net/live/581/768x432
+https://v-ny.mybtv.net/live/581/768x432.m3u8
 #EXTINF:-1 tvg-chno="31.3" tvg-id="WPXNDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_dark_360w_270h.png",WPXNDT3
-https://v-ny.mybtv.net/live/610/768x432
+https://v-ny.mybtv.net/live/610/768x432.m3u8
+#EXTINF:-1 tvg-chno="31.4" tvg-id="WPXNDT4.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119565_dark_360w_270h.png",WPXNDT4
+https://v-ny.mybtv.net/live/611/640x480.m3u8
 #EXTINF:-1 tvg-chno="31.5" tvg-id="WPXNDT5.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92091_dark_360w_270h.png",WPXNDT5
-https://v-ny.mybtv.net/live/602/768x432
-#EXTINF:-1 tvg-chno="31.7" tvg-id="WINPDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_dark_360w_270h.png",WPXNDT7
-https://v-ny.mybtv.net/live/549/768x432
+https://v-ny.mybtv.net/live/602/768x432.m3u8
+#EXTINF:-1 tvg-chno="31.6" tvg-id="WPXNDT6.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119564_dark_360w_270h.png",WPXNDT6
+https://v-ny.mybtv.net/live/596/768x432.m3u8
+#EXTINF:-1 tvg-chno="31.7" tvg-id="WPXNDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s96827_dark_360w_270h.png",WPXNDT7
+https://v-ny.mybtv.net/live/549/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.1" tvg-id="WJLPDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png",WJLP
 https://arkina1234.github.io/live/hd/wjlp.m3u8
 #EXTINF:-1 tvg-chno="33.2" tvg-id="WJLPDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92091_dark_360w_270h.png",WJLPDT2
-https://v-ny.mybtv.net/live/625/768x432
+https://v-ny.mybtv.net/live/625/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.3" tvg-id="WJLPDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89922_dark_360w_270h.png",WJLPDT3
-https://v-ny.mybtv.net/live/626/768x432
+https://v-ny.mybtv.net/live/626/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.4" tvg-id="WJLPDT4.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89923_dark_360w_270h.png",WJLPDT4
-https://v-ny.mybtv.net/live/627/768x432
+https://v-ny.mybtv.net/live/627/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.5" tvg-id="WJLPDT5.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62660_dark_360w_270h.png",WJLPDT5
-https://v-ny.mybtv.net/live/628/640x480
+https://v-ny.mybtv.net/live/628/640x480.m3u8
 #EXTINF:-1 tvg-chno="33.6" tvg-id="WJLPDT6.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78584_dark_360w_270h.png",WJLPDT6
-https://v-ny.mybtv.net/live/629/768x432
+https://v-ny.mybtv.net/live/629/768x432.m3u8
 #EXTINF:-1 tvg-chno="33.7" tvg-id="WJLPDT7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s122968_dark_360w_270h.png",WJLPDT7
-https://v-ny.mybtv.net/live/634/640x480
+https://v-ny.mybtv.net/live/634/640x480.m3u8
 #EXTINF:-1 tvg-chno="33.8" tvg-id="WJLPDT8.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s119266_dark_360w_270h.png",WJLPDT8
 https://lb.privatevps.org/play/hyGmToSmc-Nyl9MmOFtKvW1ILuvvE4uEYbpeUjUB3as/.ts
 #EXTINF:-1 tvg-chno="39" tvg-id="KSKJCD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113143_dark_360w_270h.png",WNYN
-https://v-pi.mybtv.net/live/341/768x432
+https://v-pi.mybtv.net/live/341/768x432.m3u8
 #EXTINF:-1 tvg-chno="41.1" tvg-id="WXTVDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11118_dark_360w_270h.png",WXTV
 https://arkina1234.github.io/live/hd/wxtv.m3u8
 #EXTINF:-1 tvg-chno="41.2" tvg-id="WXTVDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png",WXTVDT2
-https://v-ny.mybtv.net/live/644/768x432
+https://v-ny.mybtv.net/live/644/768x432.m3u8
 #EXTINF:-1 tvg-chno="41.3" tvg-id="WXTVDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118781_dark_360w_270h.png",WXTVDT3
-https://v-ny.mybtv.net/live/999/768x432
+https://v-ny.mybtv.net/live/999/768x432.m3u8
 #EXTINF:-1 tvg-chno="42.1" tvg-id="WKOBLD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33652_dark_360w_270h.png",WKOB
 https://arkina1234.github.io/live/hd/wkob.m3u8
 #EXTINF:-1 tvg-chno="42.2" tvg-id="WKOBLD2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19026_dark_360w_270h.png",WKOBLD2
-https://v-ny.mybtv.net/live/646/640x480
+https://v-ny.mybtv.net/live/646/640x480.m3u8
 #EXTINF:-1 tvg-chno="42.7" tvg-id="WKOBLD5.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67676_dark_360w_270h.png",WKOBLD5
-https://v-ny.mybtv.net/live/649/640x480
+https://v-ny.mybtv.net/live/649/640x480.m3u8
 #EXTINF:-1 tvg-chno="42.6" tvg-id="WKOBLD5.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65064_dark_360w_270h.png",WKOBLD6
-https://v-ny.mybtv.net/live/650/640x480
+https://v-ny.mybtv.net/live/650/640x480.m3u8
 #EXTINF:-1 tvg-chno="42.7" tvg-id="WKOBLD7.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56032_dark_360w_270h.png",WKOBLD7
-https://v-ny.mybtv.net/live/651/640x480
+https://v-ny.mybtv.net/live/651/640x480.m3u8
 #EXTINF:-1 tvg-chno="42.8" tvg-id="WKOBLD8.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s120979_dark_360w_270h.png",WKOBLD8
-https://v-ny.mybtv.net/live/652/640x480
+https://v-ny.mybtv.net/live/652/640x480.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="WMBQCD1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82462_dark_360w_270h.png",WMBQ
-https://v-ny.mybtv.net/live/658/768x432
+https://v-ny.mybtv.net/live/658/768x432.m3u8
 #EXTINF:-1 tvg-chno="47.1" tvg-id="WNJUDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10239_dark_360w_270h.png",WNJU
 https://arkina1234.github.io/live/hd/wnju.m3u8
 #EXTINF:-1 tvg-chno="47.2" tvg-id="WNJUDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74299_dark_360w_270h.png",WNJUDT2
-https://v-ny.mybtv.net/live/660/768x432
+https://v-ny.mybtv.net/live/660/768x432.m3u8
 #EXTINF:-1 tvg-chno="48.1" tvg-id="WRNNDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11933_dark_360w_270h.png",WRNN
 https://arkina1234.github.io/live/hd/wrnn.m3u8
 #EXTINF:-1 tvg-chno="48.2" tvg-id="WRNNDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113430_dark_360w_270h.png",WRNNDT2
-https://v-ny.mybtv.net/live/662/768x432
+https://v-ny.mybtv.net/live/662/768x432.m3u8
 #EXTINF:-1 tvg-chno="48.3" tvg-id="WRNNDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s00000_dark_360w_270h.png",WRNNDT3
-https://v-ny.mybtv.net/live/663/768x432
+https://v-ny.mybtv.net/live/663/768x432.m3u8
 #EXTINF:-1 tvg-chno="48.4" tvg-id="KCALDT5.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11069_dark_360w_270h.png",WRNNDT4
-https://v-ny.mybtv.net/live/612/768x432
+https://v-ny.mybtv.net/live/612/768x432.m3u8
 #EXTINF:-1 tvg-chno="50.1" tvg-id="WNJNDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11723_dark_360w_270h.png",WNJN
 https://arkina1234.github.io/live/hd/wnjn.m3u8
 #EXTINF:-1 tvg-chno="50.2" tvg-id="WNJNDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png",WNJNDT2
@@ -154,7 +158,7 @@ http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="68.1" tvg-id="WFUTDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",WFUT
 https://arkina1234.github.io/live/hd/wfut.m3u8
 #EXTINF:-1 tvg-chno="68.2" tvg-id="WFUTDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91496_dark_360w_270h.png",WFUTDT2
-https://v-ny.mybtv.net/live/714/768x432
+https://v-ny.mybtv.net/live/714/768x432.m3u8
 #EXTINF:-1 tvg-chno="68.3" tvg-id="WFUTDT3.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82563_dark_360w_270h.png",WFUTDT3
-https://v-px.mybtv.net/live/928/640x480
+https://v-px.mybtv.net/live/928/640x480.m3u8
 
