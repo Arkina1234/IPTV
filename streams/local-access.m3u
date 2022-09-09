@@ -1,5 +1,4 @@
 #EXTM3U
-#Maryland
 #EXTINF:-1 group-title="Maryland",Annapolis - COA-TV
 http://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/annapolismd/G1374_004/playlist.m3u8
 #EXTINF:-1 group-title="Maryland",Baltimore - CharmTV
@@ -19,7 +18,6 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/rockvillemd/G0458_001/playlist.m3u8
 #EXTINF:-1 group-title="Maryland",Salisbury - PAC 14
 https://pac14.secure.footprint.net/egress/bhandler/pac14/streama/manifest.m3u8
 
-#New Jersey
 #EXTINF:-1 group-title="New Jersey",Bloomfield - Bloomfield ED
 https://wbmatv.secure.footprint.net/egress/bhandler/wmbatv/streamb/manifest.m3u8
 #EXTINF:-1 group-title="New Jersey",Bloomfield - WBMA-TV
@@ -51,7 +49,6 @@ https://vblive-c.viebit.com/2fdcab96-69ea-436e-b584-f3434f763c5d/playlist.m3u8
 #EXTINF:-1 group-title="New Jersey",Woodbridge - TV-35
 https://woodbridge-nj.secure.footprint.net/egress/bhandler/woodbridgenj/streama/manifest.m3u8
 
-#Washington DC
 #EXTINF:-1 group-title="Washington DC",DCTV - Flagship
 https://securestream3.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8?dt=1662224321825
 #EXTINF:-1 group-title="Washington DC",DCTV - Enrichment
