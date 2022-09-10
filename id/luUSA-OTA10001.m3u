@@ -138,7 +138,7 @@ https://v-ny.mybtv.net/live/612/768x432.m3u8
 #EXTINF:-1 tvg-chno="50.1" tvg-id="WNJNDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11723_dark_360w_270h.png",WNJNDT
 https://arkina1234.github.io/live/hd/wnjn.m3u8
 #EXTINF:-1 tvg-chno="50.2" tvg-id="WNJNDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59155_dark_360w_270h.png",WNJNDT2
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://arkina1234.github.io/live/hd/wnjndt2.m3u8
 #EXTINF:-1 tvg-chno="55.1" tvg-id="WLNYDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s31225_dark_360w_270h.png",WLNYDT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wlny.tv1055.riverhead.ny.us.m3u8
 #EXTINF:-1 tvg-chno="55.2" tvg-id="WLNYDT2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97051_dark_360w_270h.png",WLNYDT2
