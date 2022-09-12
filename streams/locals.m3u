@@ -53,7 +53,8 @@ http://video.oct.dc.gov/PEG/u/DCC.m3u8
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/13988426/events/4134572/player
 #EXTINF:-1 group-title="Government",Minneapolis MN - City Council TV
 https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
-#EXTINF:-1 group-title="Government",Pittsburgh PA - City Channel: https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/pittsburgh/G0794_001/playlist.m3u8
+#EXTINF:-1 group-title="Government",Pittsburgh PA - City Channel
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/pittsburgh/G0794_001/playlist.m3u8
 #EXTINF:-1 group-title="24/7 Weather",Cincinnati OH - WCPO Weather
 https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
 #EXTINF:-1 group-title="24/7 Weather",Twin Cities MN - TPT Now
