@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Main
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Community
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_BUSINESS.smil/Playlist.m3u8
+#EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Music
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Arts
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 group-title="PEG",New York NY - MNN Community
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6480540/events/9321159/player
+#EXTINF:-1 group-title="PEG",New York NY - MNN Lifestyle
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478976/events/2616018/player
+#EXTINF:-1 group-title="PEG",New York NY - MNN Spirit
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478935/events/9784595/player
+#EXTINF:-1 group-title="PEG",New York NY - MNN Culture
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6478935/events/9784595/player
+#EXTINF:-1 group-title="PEG",New York NY - BronxNet Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 group-title="PEG",New York NY - BronxNet Arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 group-title="PEG",New York NY - BronxNet Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 group-title="PEG",New York NY - BronxNet Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 group-title="PEG",New York NY - BronxNet Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+#EXTINF:-1 group-title="PEG",New York NY - BRIC TV
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCqvDXN3mmnRjdxhPoqgU0lA/live
+#EXTINF:-1 group-title="PEG",New York NY - NYXT
+https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+#EXTINF:-1 group-title="PEG",Philadelphia PA - PhillyCAM: https://phillycam.secure.footprint.net/egress/bhandler/phillycam/streama/manifest.m3u8
+#EXTINF:-1 group-title="PEG",Philadelphia PA - TUTV: https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/playlist.m3u8
+#EXTINF:-1 group-title="PEG",Pittsburgh PA - PCTV21: https://pittsburghcmttv.secure.footprint.net/egress/bhandler/pittsburghcmttv/streama/manifest.m3u8
+#EXTINF:-1 group-title="PEG",Arlington County VA - Arlington TV
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCFzRPlXF8egE1343mYQ9SZg/live
+#EXTINF:-1 group-title="PEG",Washington DC - DCTV Flagship
+https://securestream3.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8?dt=1662224321825
+#EXTINF:-1 group-title="PEG",Washington DC - DCTV Enrichment
+https://securestream3.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8?dt=1662224386487
+#EXTINF:-1 group-title="PEG",Washington DC - DCTV Focus
+https://securestream3.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8?dt=1662224415303
+#EXTINF:-1 group-title="PEG",Washington DC - OCTFME DCN
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="PEG",Washington DC - OCTFME DKN
+http://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1 group-title="PEG",Washington DC - OCTFME DCC
+http://video.oct.dc.gov/PEG/u/DCC.m3u8
+#EXTINF:-1 group-title="Government",Baltimore MD - CharmTV
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/13988426/events/4134572/player
+#EXTINF:-1 group-title="Government",Minneapolis MN - City Council TV
+https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
+#EXTINF:-1 group-title="Government",Pittsburgh PA - City Channel: https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/pittsburgh/G0794_001/playlist.m3u8
+#EXTINF:-1 group-title="24/7 Weather",Cincinnati OH - WCPO Weather https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
+#EXTINF:-1 group-title="24/7 Weather",Twin Cities MN - TPT Now https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
