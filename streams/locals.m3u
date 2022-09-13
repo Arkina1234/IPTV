@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="Local News",Baltimore MD - Fox 45/MyTV/The CW 54 Baltimore
+https://content.uplynk.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
+#EXTINF:-1 group-title="Local News",Baltimore MD - WBAL-TV 11
+https://lnc-wbal.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Baltimore MD - WMAR 2
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wmar2news.com%2F
+#EXTINF:-1 group-title="Local News",Pittsburgh PA - WPXI 11 Now
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="Local News",Pittsburgh PA - Pittsburgh's Fox 53/22 The Point
+https://content.uplynk.com/channel/dccd7c90f219403fb6e52328b1d51d5d.m3u8
+#EXTINF:-1 group-title="Local News",Washington DC - WJLA-TV 7 News
+https://content.uplynk.com/channel/85a11ce094f843779eb981c03e630dcb.m3u8
+#EXTINF:-1 group-title="Local News",Washington DC - WUSA 9 Plus
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 #EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Main
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Community
