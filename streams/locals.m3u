@@ -3,8 +3,11 @@
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Local News",Atlanta GA - WXIA-TV 11 Alive
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
-#EXTINF:-1 group-title="Local News",Atlanta GA - CBS 46 WGCL-TV
+#EXTINF:-1 group-title="Local News",Atlanta GA - CBS 46
 https://ad-playlistserver.aws.syncbak.com/cpl/20010010/dai2v5/1/7b2264657669636554797065223a2242726f77736572222c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8
+#EXTINF:-1 group-title="Local News",Detroit MI - Local 4+
+https://dai.google.com/linear/hls/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8
+#EXTINF:-1 group-title="Local News",Detroit MI - Channel 7
 #EXTINF:-1 group-title="Local News",Boston MA - WCVB Channel 5
 https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Boston MA - WHDH Channel 7
@@ -17,6 +20,14 @@ https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8?v=2&ad=
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Baltimore MD - Fox 45 Baltimore
 https://content.uplynk.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
+#EXTINF:-1 group-title="Local News",Cincinnati OH - WLWT 5
+https://lnc-wlwt.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Cincinnati OH - WCPO 9
+#EXTINF:-1 group-title="Local News",Cincinnati OH - Local 12/Star 64
+https://content.uplynk.com/.m3u8
+#EXTINF:-1 group-title="Local News",Cleveland OH - WKYC Studios
+https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
+#EXTINF:-1 group-title="Local News",Cleveland OH - News 5
 #EXTINF:-1 group-title="Local News",Pittsburgh PA - WPXI 11 Now
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Local News",Pittsburgh PA - Pittsburgh's Fox 53/22 The Point
@@ -25,8 +36,42 @@ https://content.uplynk.com/channel/dccd7c90f219403fb6e52328b1d51d5d.m3u8
 https://content.uplynk.com/channel/85a11ce094f843779eb981c03e630dcb.m3u8
 #EXTINF:-1 group-title="Local News",Washington DC - WUSA 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+#EXTINF:-1 group-title="Local News",Milwaukee WI - WISN 12
+https://lnc-wisn.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Milwaukee WI - CW 18/My 24
+https://content.uplynk.com/26736999daa34b039abd1f79af378c55.m3u8
+#EXTINF:-1 group-title="Local News",Milwaukee WI - CBS 58
+https://video.cbs58.com/live/wdjt/live1/live1.m3u8
 #EXTINF:-1 group-title="Religious",Massachusetts - CatholicTV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Key West FL - Mega TV
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Miami FL - América TeVé
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Pensacola FL - WBQP-CD 12 YTA
+http://arkina1234.gitlab.io/live/stream/live1.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Tallahassee FL - WFSU-TV 11.2 The Florida Channel
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Atlanta GA - WATC TV 57.1
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Atlanta GA - WATC TV 57.2
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Detroit MI - WHNE-LD3.9 NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Claremore OK - KRSU-TV
+https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",El Paso TX - KSCE 38.1 LIFE!
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",El Paso TX - KSCE 38.2 Vida
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",El Paso TX - KSCE 38.3 ETTV
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Houston TX - KVQT-LD21.9 BizTV
+http://arkina1234.gitlab.io/live/stream/live2.m3u8
+#EXTINF:-1 group-title="Local Over-the-air",Grundy VA - LFTV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="Local Over-the-air",Milwaukee WI - WVCY TV-30
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/30337923/events/9488449/player
 #EXTINF:-1 group-title="PEG",Boston MA - BNN News & Info
 https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="PEG",Boston MA - BNN Community
@@ -39,6 +84,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_BUSINESS.smil/Playlist.m3u
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Arts
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 group-title="PEG",Twin Cities MN - ParkTV
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/stlouispark/G1245_002/playlist.m3u8
 #EXTINF:-1 group-title="PEG",New York NY - MNN Community
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/6480540/events/9321159/player
 #EXTINF:-1 group-title="PEG",New York NY - MNN Lifestyle
@@ -89,9 +136,19 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/nvcc/mp4:nvcc/playlist.m3u8
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/13988426/events/4134572/player
 #EXTINF:-1 group-title="Government",Minneapolis MN - City Council TV
 https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
+#EXTINF:-1 group-title="Government",Cleveland OH - TV20
+https://ctyclevelandtv20.secure.footprint.net/egress/bhandler/ctyclevelandtv20/streama/manifest.m3u8
 #EXTINF:-1 group-title="Government",Pittsburgh PA - City Channel
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/pittsburgh/G0794_001/playlist.m3u8
+#EXTINF:-1 group-title="Government",Milwaukee WI - City Channel
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/milwaukee/G1066_002/playlist.m3u8
+#EXTINF:-1 group-title="Government",Milwaukee WI - City Channel 2
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/milwaukee/G1066_003/playlist.m3u8
 #EXTINF:-1 group-title="24/7 Weather",Cincinnati OH - WCPO Weather
 https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
 #EXTINF:-1 group-title="24/7 Weather",Twin Cities MN - TPT Now
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
+#EXTINF:-1 group-title="Live Events",Sinclair - National Live Event 2
+https://content.uplynk.com/1fa73dbde2a8480488982ff083bdc179.m3u8?tc=1&exp=1663433641&rn=231020&ct=a&cid=1fa73dbde2a8480488982ff083bdc179&sig=c6e5c3398316fb1f24fc355ae5beffa0f3e0d062b5d076b2f8b4345e814dbc5b
+Milwaukee WI - CBS 58 Live
+https://video.cbs58.com/live/wdjt/live2/live2.m3u8
