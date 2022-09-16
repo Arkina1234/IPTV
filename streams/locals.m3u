@@ -1,18 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="Local News",Baltimore MD - Fox 45/MyTV/The CW 54 Baltimore
-https://content.uplynk.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
-#EXTINF:-1 group-title="Local News",Baltimore MD - WBAL-TV 11
-https://lnc-wbal.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Atlanta GA - WSB-TV Channel 2
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 group-title="Local News",Atlanta GA - WXIA-TV 11 Alive
+https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
+#EXTINF:-1 group-title="Local News",Atlanta GA - CBS 46 WGCL-TV
+https://ad-playlistserver.aws.syncbak.com/cpl/20010010/dai2v5/1/7b2264657669636554797065223a2242726f77736572222c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8
+#EXTINF:-1 group-title="Local News",Boston MA - WCVB Channel 5
+https://lnc-wcvb.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Boston MA - WHDH Channel 7
+https://ad-playlistserver.aws.syncbak.com/cpl/20356403/dai2v5/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMDM1NjQwMyIsImNpZCI6MjA5MjcsInNpZCI6ODYxLCJtZDUiOiIwYjE4NDc5ZTdlMzZjNDY5Y2M4MTNlN2IxNDFmNmNiOSIsImlhdCI6MTY0ODc2MjAxNywiZXhwIjoxNjgwMjk4MDE3LCJpc3MiOiJTeW5jYmFrIChURykifQ.R58NQ3Y77C4VeHPgbu-ouIof40HddUYGR3Nh4NO8n_0&platform=web
+#EXTINF:-1 group-title="Local News",Boston MA - Boston 25 Now
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Local News",Baltimore MD - WMAR 2
 https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wmar2news.com%2F
+#EXTINF:-1 group-title="Local News",Baltimore MD - WBAL-TV 11
+https://lnc-wbal.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Baltimore MD - Fox 45 Baltimore
+https://content.uplynk.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
 #EXTINF:-1 group-title="Local News",Pittsburgh PA - WPXI 11 Now
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Local News",Pittsburgh PA - Pittsburgh's Fox 53/22 The Point
 https://content.uplynk.com/channel/dccd7c90f219403fb6e52328b1d51d5d.m3u8
 #EXTINF:-1 group-title="Local News",Washington DC - WJLA-TV 7 News
 https://content.uplynk.com/channel/85a11ce094f843779eb981c03e630dcb.m3u8
-#EXTINF:-1 group-title="Local News",Washington DC - WUSA 9 Plus
+#EXTINF:-1 group-title="Local News",Washington DC - WUSA 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+#EXTINF:-1 group-title="Religious",Massachusetts - CatholicTV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 group-title="PEG",Boston MA - BNN News & Info
+https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 group-title="PEG",Boston MA - BNN Community
+https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Main
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 group-title="PEG",Twin Cities MN - MCN6 Community
