@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Montgomery AL - APT Create 26.3
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
+#EXTINF:-1,Montgomery AL - APT World 26.4
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1,Key West FL - Mega TV
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1,Miami FL - América TeVé
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1,Tallahassee FL - WFSU 11.2 The Florida Channel
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,Atlanta GA - WATC TV 57.1
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1,Atlanta GA - WATC TV 57.2
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1,Louisville KY - KET
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1282966/playlist.m3u8
+#EXTINF:-1,Louisville KY - KET2 68
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1,Louisville KY - KET KY 68.2
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1,Louisville KY - KET World 68.3
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1,Claremore OK - KRSU-TV
+https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
+#EXTINF:-1,Allentown PA - PBS 39 Extra
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1,Allentown PA - PBS 39
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1,Allentown PA - Create 39.2
+https://forerunnerrtmp.livestreamingcdn.com/wltv3/wltv3/playlist.m3u8
+#EXTINF:-1,El Paso TX - KSCE 38.1 LIFE!
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1,El Paso TX - KSCE 38.2 Vida
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1,El Paso TX - KSCE 38.3 ETTV
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1,Grundy VA - LFTV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1,Milwaukee WI - WVCY TV-30
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/30337923/events/9488449/player
