@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="3" tvg-id="CKVRDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10135_dark_360w_270h.png",CKVRDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/ctv2.barrie.on.ckvr.ca.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="CBLTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10084_dark_360w_270h.png",CBLTDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/cbc.cblt.toronto.on.ca.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="CIIIDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s44792_dark_360w_270h.png",CIIIDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="CFTODT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s44784_dark_360w_270h.png",CFTODT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="CHCHDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10112_dark_360w_270h.png",CHCHDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/chch.hamilton.on.ca.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="CKCODT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10108_dark_360w_270h.png",CKCODT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/ctv.ckco.kitchener.on.ca.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="CITSDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60344_dark_360w_270h.png",CITSDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/yes.tv.ckcs.calgary.ab.ca.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="CICADT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10119_dark_360w_270h.png",CICADT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/tvo.tv.ontario.ca.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="CICODT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10119_dark_360w_270h.png",CICODT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/tvo.tv.ontario.ca.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="CBLFTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s45864_dark_360w_270h.png",CBLFTDT
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="CHCJDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10135_dark_360w_270h.png",CHCJDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/ctv2.barrie.on.ckvr.ca.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="CJMTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s31558_dark_360w_270h.png",CJMTDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/omni.2.ca.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="CFMTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10105_dark_360w_270h.png",CFMTDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/omni.1.ca.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="CITYDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34200_dark_360w_270h.png",CITYDT
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/city.toronto.on.ca.m3u8
