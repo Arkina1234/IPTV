@@ -5,9 +5,6 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
 #EXTINF:-1 group-title="Local News",Atlanta GA - CBS 46
 https://ad-playlistserver.aws.syncbak.com/cpl/20010010/dai2v5/1/7b2264657669636554797065223a2242726f77736572222c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8
-#EXTINF:-1 group-title="Local News",Detroit MI - Local 4+
-https://dai.google.com/linear/hls/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8
-#EXTINF:-1 group-title="Local News",Detroit MI - Channel 7
 #EXTINF:-1 group-title="Local News",Boston MA - WCVB Channel 5
 https://lnc-wcvb.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Boston MA - WHDH Channel 7
@@ -20,14 +17,22 @@ https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8?v=2&ad=
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Baltimore MD - Fox 45 Baltimore
 https://content.uplynk.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
+#EXTINF:-1 group-title="Local News",Detroit MI - Local 4+
+https://dai.google.com/linear/hls/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8
+#EXTINF:-1 group-title="Local News",Detroit MI - Channel 7
+https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wxyz.com%2F
 #EXTINF:-1 group-title="Local News",Cincinnati OH - WLWT 5
 https://lnc-wlwt.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Cincinnati OH - WCPO 9
+https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
 #EXTINF:-1 group-title="Local News",Cincinnati OH - Local 12/Star 64
-https://content.uplynk.com/.m3u8
+https://content.uplynk.com/channel/26736999daa34b039abd1f79af378c55.m3u8
 #EXTINF:-1 group-title="Local News",Cleveland OH - WKYC Studios
 https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
 #EXTINF:-1 group-title="Local News",Cleveland OH - News 5
+https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+#EXTINF:-1 group-title="Local News",Pittsburgh PA - WTAE Channel 4
+https://lnc-wtae.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Pittsburgh PA - WPXI 11 Now
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Local News",Pittsburgh PA - Pittsburgh's Fox 53/22 The Point
@@ -150,5 +155,15 @@ https://content.uplynk.com/channel/49ee40bd9d0b4f8fb60952f4f725e230.m3u8?v=2&ad=
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 #EXTINF:-1 group-title="Live Events",Sinclair - National Live Event 2
 https://content.uplynk.com/1fa73dbde2a8480488982ff083bdc179.m3u8?tc=1&exp=1663433641&rn=231020&ct=a&cid=1fa73dbde2a8480488982ff083bdc179&sig=c6e5c3398316fb1f24fc355ae5beffa0f3e0d062b5d076b2f8b4345e814dbc5b
-Milwaukee WI - CBS 58 Live
+#EXTINF:-1 group-title="Live Events",Baltimore MD - WMAR Live
+https://content.uplynk.com/channel/aba0442e0d394f5791801e080ff51849.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wmar2news.com%2F
+#EXTINF:-1 group-title="Live Events",Detroit MI - WXYZ Live
+https://content.uplynk.com/channel/8bb32e68b01c4846905e2a217c91d16f.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wxyz.com%2F
+#EXTINF:-1 group-title="Live Events",Cincinnati OH - WCPO Live 2
+https://content.uplynk.com/channel/ebe7697039a94f1a99452e43d9d23287.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
+#EXTINF:-1 group-title="Live Events",Cincinnati OH - WCPO Live 4
+https://content.uplynk.com/channel/91e1ef2427dd4cf18ac9cf8ec0978585.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
+#EXTINF:-1 group-title="Live Events",Cleveland OH - WEWS Live
+https://content.uplynk.com/channel/a82c09fc901345fa9434a5e3420b3a01.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+#EXTINF:-1 group-title="Live Events",Milwaukee WI - CBS 58 Live
 https://video.cbs58.com/live/wdjt/live2/live2.m3u8
