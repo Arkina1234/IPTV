@@ -3,6 +3,26 @@
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
 #EXTINF:-1,Montgomery AL - APT World 26.4
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1,San Francisco CA - KQSL-DT 8
+https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
+#EXTINF:-1,San Francisco CA - The Dove 28.1
+https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
+#EXTINF:-1,San Francisco CA - CMC-USA 28.12
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1,San Francisco CA - CMC 28.13
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1,Salisbury MD/Dagsboro DE - TV Delmarva 14.1
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1,Salisbury MD/Dagsboro DE - NEWSnet 14.2
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD/Dagsboro DE - Retro 14.3
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD/Dagsboro DE - Delmarva WX 14.4
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD/Dagsboro DE - ASTN 14.5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD/Dover DE - Delmarva Sports Network 16.2
+https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
 #EXTINF:-1,Key West FL - Mega TV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:-1,Miami FL - América TeVé
