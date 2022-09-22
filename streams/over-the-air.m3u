@@ -41,6 +41,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1,Louisville KY - KET World 68.3
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1,Detroit MI - WTVS MLC 56.5
+https://d2jalth387y2js.cloudfront.net/test.m3u8
+#EXTINF:-1,Columbus OH - WOSU 34.2
+https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 #EXTINF:-1,Claremore OK - KRSU-TV
 https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
 #EXTINF:-1,Allentown PA - PBS 39 Extra
@@ -57,5 +61,7 @@ https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 #EXTINF:-1,Grundy VA - LFTV
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1,Roanoke VA - ECHO 15.5
+https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCPq-p0HbZfG4ADIlvqGJIZA/live
 #EXTINF:-1,Milwaukee WI - WVCY TV-30
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/30337923/events/9488449/player
