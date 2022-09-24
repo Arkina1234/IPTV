@@ -43,11 +43,11 @@ https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1,Detroit MI - WTVS MLC 56.5
 https://d2jalth387y2js.cloudfront.net/test.m3u8
-Fargo ND - WDAY-TV 6.3 XTRA (2:05a-04a)
+#EXTINF:-1,Fargo ND - WDAY-TV 6.3 XTRA (2:05a-04a)
 https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8
-Valley City ND - KRDK-TV 6.1 (all-time programs)
+#EXTINF:-1,Valley City ND - KRDK-TV 6.1 (all-time programs)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-Valley City ND - KRDK-TV 6.2 BEK24/7
+#EXTINF:-1,Valley City ND - KRDK-TV 6.2 BEK24/7
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1,Columbus OH - WOSU 34.2
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
