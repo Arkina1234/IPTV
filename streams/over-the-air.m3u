@@ -1,73 +1,79 @@
 #EXTM3U
-#EXTINF:-1,Montgomery AL - WAIQ 26.3 APT Create 
+#EXTINF:-1,Montgomery AL - WAIQ-DT 26.3 CREATE 
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
-#EXTINF:-1,Montgomery AL - WAIQ 26.4 APT World
+#EXTINF:-1,Montgomery AL - WAIQ-DT 26.4 WORLD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:-1,San Francisco CA - KQSL-DT 8
+#EXTINF:-1,San Francisco CA - KQSL-DT 8.1
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
-#EXTINF:-1,San Francisco CA - KUKR-LD 3.1 The Dove
+#EXTINF:-1,San Francisco CA - KUKR-LD 27.1
 https://rrsatrtmp.tulix.tv/thedove/thedove.smil/playlist.m3u8
-#EXTINF:-1,San Francisco CA - KUKR-LD 3.2 CMC-USA
+#EXTINF:-1,San Francisco CA - KUKR-LD 27.2 CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1,San Francisco CA - KUKR-LD 3.3 CMC
+#EXTINF:-1,San Francisco CA - KUKR-LD 27.3 CMC-TV
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1,Salisbury MD/Dagsboro DE - TV Delmarva 14.1
-https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
-#EXTINF:-1,Salisbury MD/Dagsboro DE - NEWSnet 14.2
-https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1,Salisbury MD/Dagsboro DE - Retro 14.3
-https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
-#EXTINF:-1,Salisbury MD/Dagsboro DE - Delmarva WX 14.4
-https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
-#EXTINF:-1,Salisbury MD/Dagsboro DE - ASTN 14.5
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1,Salisbury MD/Dover DE - WBOC-TV 16.2 DSN
-https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
-#EXTINF:-1,Key West FL - WSBS-CD 19.1 Mega TV
+#EXTINF:-1,Key West FL - WSBS-CD 19.1 MEGATV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-#EXTINF:-1,Miami FL - WJAN-CD 33.1 América TeVé
+#EXTINF:-1,Miami FL - WJAN-CD 33.1 ATEVE
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1,Tallahassee FL - WFSU 11.2 The Florida Channel
+#EXTINF:-1,Tallahassee FL - WFSU-TV 11.2 WFSU-FL
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1,Atlanta GA - WATC TV 57.1
+#EXTINF:-1,Atlanta GA - WATC-DT 57.1
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1,Atlanta GA - WATC TV 57.2
+#EXTINF:-1,Atlanta GA - WATC-DT 57.2 WATCTOO
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
-#EXTINF:-1,Louisville KY - KET
+#EXTINF:-1,Wichita KS - KWCH-TV 12.2 KWCH-WX
+https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
+#EXTINF:-1,Louisville KY - WKPC-TV 15.1 KET
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1282966/playlist.m3u8
-#EXTINF:-1,Louisville KY - KET2 68
+#EXTINF:-1,Louisville KY - WKPC-TV 15.4 KETKIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Louisville KY - WKMJ-TV 68.1 KET2
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#EXTINF:-1,Louisville KY - KET KY 68.2
+#EXTINF:-1,Louisville KY - WKMJ-TV 68.2 KETKY
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
-#EXTINF:-1,Louisville KY - KET World 68.3
+#EXTINF:-1,Louisville KY - WKMJ-TV 68.3 KETWRLD
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1,Detroit MI - WTVS MLC 56.5
+#EXTINF:-1,Detroit MI - WTVS-DT 56.5 D-MLC
 https://d2jalth387y2js.cloudfront.net/test.m3u8
+#EXTINF:-1,Salisbury MD - W14DK-D 14.1 TV Delm
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1,Salisbury MD - W14DK-D 14.2 NEWSnet
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD - W14DK-D 14.3 Retro
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD - W14DK-D 14.4 WEATHER
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD - W14DK-D 14.5 ASTN
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1,Salisbury MD - WBOC-TV 16.2 DSN
+https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
+#EXTINF:-1,Minneapolis MN - KTCA-TV 2.5 TPTNOW
+https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
+#EXTINF:-1,Fargo ND - KRDK-TV 4.1 (all-time programs)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1,Fargo ND - KRDK-TV 4.2 BEK24/7
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1,Fargo ND - WDAY-TV 6.3 XTRA (2:05a-04a)
 https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8
-#EXTINF:-1,Valley City ND - KRDK-TV 6.1 (all-time programs)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1,Valley City ND - KRDK-TV 6.2 BEK24/7
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1,Columbus OH - WOSU 34.2
+#EXTINF:-1,Columbus OH - WOSU-TV 34.2 WOSU-D2
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
-#EXTINF:-1,Claremore OK - KRSU-TV
+#EXTINF:-1,Tulsa OK - KRSU-TV 35.1
 https://2-fss-2.streamhoster.com/pl_118/amlst:202742-1432010/playlist.m3u8
-#EXTINF:-1,Allentown PA - PBS 39 Extra
+#EXTINF:-1,Allentown PA - WPPT-DT 35.1 39EXTRA
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1,Allentown PA - PBS 39
+#EXTINF:-1,Allentown PA - WLVT-TV 39.1 
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1,Allentown PA - Create 39.2
+#EXTINF:-1,Allentown PA - WLVT-TV 39.2 CREATE
 https://forerunnerrtmp.livestreamingcdn.com/wltv3/wltv3/playlist.m3u8
-#EXTINF:-1,El Paso TX - KSCE 38.1 LIFE!
+#EXTINF:-1,El Paso TX - KSCE-DT 38.1 LIFE
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
-#EXTINF:-1,El Paso TX - KSCE 38.2 Vida
+#EXTINF:-1,El Paso TX - KSCE-DT 38.2 VIDA
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:-1,El Paso TX - KSCE 38.3 ETTV
+#EXTINF:-1,El Paso TX - KSCE-DT 38.3 ETTV
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
-#EXTINF:-1,Grundy VA - LFTV
+#EXTINF:-1,Johnson City TN - WLFG-DT 68.1 LFTV
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-#EXTINF:-1,Roanoke VA - ECHO 15.5
-https://live-us222.herokuapp.com/stream.m3u8?id=https://www.youtube.com/channel/UCPq-p0HbZfG4ADIlvqGJIZA/live
-#EXTINF:-1,Milwaukee WI - WVCY TV-30
+#EXTINF:-1,Green Bay WI - WBAY-TV 2.2 WBAY-WX
+https://d2jni005khp8n7.cloudfront.net/out/gray-wbaywx-rtmp-v3/live.m3u8
+#EXTINF:-1,Milwaukee WI - WVCY-TV 30
 https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/30337923/events/9488449/player
