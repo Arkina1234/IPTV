@@ -3,6 +3,14 @@
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
 #EXTINF:-1,Montgomery AL - WAIQ-DT 26.4 WORLD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1,Los Angeles CA - KTBN-TV 40.1 TBN
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+#EXTINF:-1,Los Angeles CA - KTBN-TV 40.2 inspire
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:-1,Los Angeles CA - KTBN-TV 40.3 SMILE
+https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
+#EXTINF:-1,Los Angeles CA - KTBN-TV 40.5 PosiTiV
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 #EXTINF:-1,San Francisco CA - KQSL-DT 8.1
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1,San Francisco CA - KUKR-LD 27.1
@@ -13,10 +21,20 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1,Key West FL - WSBS-CD 19.1 MEGATV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+#EXTINF:-1,Miami FL - WEYS-LD 31
+https://streannlivealmavision.cachefly.net/almavision1/almavision1/playlist.m3u8
 #EXTINF:-1,Miami FL - WJAN-CD 33.1 ATEVE
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1,Tallahassee FL - WFSU-TV 11.2 WFSU-FL
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,Tampa FL - WCLF-DT 22.1
+https://ctntv.getstreamhosting.com:1936/WCLF/WCLF/playlist.m3u8
+#EXTINF:-1,Tampa FL - WCLF-DT 22.2 CTNi
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8
+#EXTINF:-1,Tampa FL - WCLF-DT 22.3 CTN
+https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
+#EXTINF:-1,Tampa FL - WCLF-DT 22.4 Lifesty
+https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
 #EXTINF:-1,Atlanta GA - WATC-DT 57.1
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1,Atlanta GA - WATC-DT 57.2 WATCTOO
@@ -33,8 +51,18 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1,Louisville KY - WKMJ-TV 68.3 KETWRLD
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1,Detroit MI - WTVS-DT 56.5 D-MLC
-https://d2jalth387y2js.cloudfront.net/test.m3u8
+#EXTINF:-1,Paducah KY - W15BU-D 15.1 3ABN
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1,Paducah KY - W15BU-D 15.2 3ABN-PR
+https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
+#EXTINF:-1,Paducah KY - W15BU-D 15.3 3ABN-DD
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
+#EXTINF:-1,Paducah KY - W15BU-D 15.4 3ABN-ES
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+#EXTINF:-1,Paducah KY - W15BU-D 15.5 3ABN-KD
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1,Paducah KY - WTCT-DT 27.1
+https://live-us222.herokuapp.com/stream.m3u8?id=https://livestream.com/accounts/29565692/events/9276365/
 #EXTINF:-1,Salisbury MD - W14DK-D 14.1 TV Delm
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1,Salisbury MD - W14DK-D 14.2 NEWSnet
@@ -47,6 +75,12 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1,Salisbury MD - WBOC-TV 16.2 DSN
 https://live.field59.com/delmarvasports/delmarvasports1/playlist.m3u8
+#EXTINF:-1,Traverse City MI - WXII-LD 12.2 NEWSNET
+https://newsnetaa-newsnet-ono-hbpue.amagi.tv/playlist/newsnetAA-newsnet-ono/index.m3u8
+#EXTINF:-1,Traverse City MI - WMNN-LD 26.1
+https://michigannn.akamaized.net/hls/live/2031672/michigannn_OUT/master.m3u8
+#EXTINF:-1,Detroit MI - WTVS-DT 56.5 D-MLC
+https://d2jalth387y2js.cloudfront.net/test.m3u8
 #EXTINF:-1,Minneapolis MN - KTCA-TV 2.5 TPTNOW
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 #EXTINF:-1,Fargo ND - KRDK-TV 4.1 (all-time programs)
@@ -65,14 +99,24 @@ https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlis
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1,Allentown PA - WLVT-TV 39.2 CREATE
 https://forerunnerrtmp.livestreamingcdn.com/wltv3/wltv3/playlist.m3u8
+#EXTINF:-1,Pittsburgh PA - WPCB-TV 40.1
+https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/playlist.m3u8
+#EXTINF:-1,Pittsburgh PA - WPCB-TV 40.2 PFFC
+https://cdn-media9-truegod.r.worldssl.net/faithfamilylive/smil:faithfamily.smil/playlist.m3u8
+#EXTINF:-1,Chattanooga TN - WOOT-LD 6.1 HRTLND
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1,Chattanooga TN - WOOT-LD 6.2 RetroTV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1,Chattanooga TN - WOOT-LD 6.3 Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1,Johnson City TN - WLFG-DT 68.1 LFTV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1,El Paso TX - KSCE-DT 38.1 LIFE
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1,El Paso TX - KSCE-DT 38.2 VIDA
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1,El Paso TX - KSCE-DT 38.3 ETTV
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
-#EXTINF:-1,Johnson City TN - WLFG-DT 68.1 LFTV
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1,Green Bay WI - WBAY-TV 2.2 WBAY-WX
 https://d2jni005khp8n7.cloudfront.net/out/gray-wbaywx-rtmp-v3/live.m3u8
 #EXTINF:-1,Milwaukee WI - WVCY-TV 30
