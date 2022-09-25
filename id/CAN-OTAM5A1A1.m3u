@@ -23,7 +23,7 @@ https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
 https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/ctv2.barrie.on.ckvr.ca.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="CJMTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s31558_dark_360w_270h.png",CJMTDT
 https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/omni.2.ca.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="14926" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s44792_dark_360w_270h.png",CIIIDT
+#EXTINF:-1 tvg-chno="41" tvg-id="14926" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s44792_dark_360w_270h.png",CIIID41
 https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="CFMTDT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10105_dark_360w_270h.png",CFMTDT
 https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/omni.1.ca.m3u8
