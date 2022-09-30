@@ -103,6 +103,10 @@ https://forerunnerrtmp.livestreamingcdn.com/wltv3/wltv3/playlist.m3u8
 https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/playlist.m3u8
 #EXTINF:-1,Pittsburgh PA - WPCB-TV 40.2 PFFC
 https://cdn-media9-truegod.r.worldssl.net/faithfamilylive/smil:faithfamily.smil/playlist.m3u8
+#EXTINF:-1,San Juan PR - WKAQ-TV 2.1
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,San Juan PR - WKAQ-DT 2.2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1,Chattanooga TN - WOOT-LD 6.1 HRTLND
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1,Chattanooga TN - WOOT-LD 6.2 RetroTV
