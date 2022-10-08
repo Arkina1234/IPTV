@@ -1,0 +1,28 @@
+#EXTINF:-1,WUSA 9
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+#EXTINF:-1,WXIA 11 Alive
+https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
+#EXTINF:-1,KPNX 12News
+https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
+#EXTINF:-1,KUSA 9 News
+https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+#EXTINF:-1,KARE 11
+https://livevideo.tegnadigital.com/kare/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE/elvs/live.m3u8
+#EXTINF:-1,WSB-TV 2 Now
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1,WHIO-TV 7
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
+#EXTINF:-1,WEWS 5
+https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+#EXTINF:-1,WCPO 9
+https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
+#EXTINF:-1,WBAL-TV 11
+https://lnc-wbal.tubi.video/playlist.m3u8
+#EXTINF:-1,WISN 12
+https://lnc-wisn.tubi.video/playlist.m3u8
+#EXTINF:-1,WTAE Channel 4
+https://lnc-wtae.tubi.video/playlist.m3u8
+#EXTINF:-1,News 4 Jax+
+https://dai.google.com/linear/hls/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8
+#EXTINF:-1,Local 4+
+https://dai.google.com/linear/hls/event/HJqhvn64ToSiWaiY9azmPw//master.m3u8
