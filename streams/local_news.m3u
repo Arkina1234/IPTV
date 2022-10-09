@@ -26,3 +26,11 @@ https://lnc-wtae.tubi.video/playlist.m3u8
 https://dai.google.com/linear/hls/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8
 #EXTINF:-1,Local 4+
 https://dai.google.com/linear/hls/event/HJqhvn64ToSiWaiY9azmPw//master.m3u8
+#EXTINF:-1,NCN
+https://dai.google.com/linear/hls/event/2UOSjVRpRYSkdALmQYml0A/master.m3u8
+#EXTINF:-1,KUSI News
+https://dai.google.com/linear/hls/event/YQrqEzS-QkeI4UECvYoWDA/master.m3u8
+#EXTINF:-1,WDAY+
+https://player-api.new.livestream.com/accounts/27442514/events/8305246/live.m3u8
+#EXTINF:-1,Local News 8 NOW
+https://content.uplynk.com/channel/ceb7a9302967403e88224bccf1a2647d.m3u8?ad=kifidfp&ad.preroll=1
