@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,WUSA 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
 #EXTINF:-1,WXIA 11 Alive
@@ -8,6 +9,44 @@ https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
 #EXTINF:-1,KARE 11
 https://livevideo.tegnadigital.com/kare/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE/elvs/live.m3u8
+#EXTINF:-1,WTLV NBC 12
+https://livevideo.tegnadigital.com/wtlv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTLV/elvs/live.m3u8
+#EXTINF:-1,THV 11
+https://livevideo.tegnadigital.com/kthv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTHV/elvs/live.m3u8
+#EXTINF:-1,KSDK 5 On Your Side
+https://livevideo.tegnadigital.com/ksdk/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KSDK/elvs/live.m3u8
+#EXTINF:-1,WKYC 3 News
+https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
+#EXTINF:-1,WTSP 10 Tampa Bay
+https://livevideo.tegnadigital.com/wtsp/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP/elvs/live.m3u8
+#EXTINF:-1,WCSH 6
+https://livevideo.tegnadigital.com/wcsh/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCSH/elvs/live.m3u8
+#EXTINF:-1,WWL-TV Channel 4
+https://livevideo.tegnadigital.com/wwl/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WWL/elvs/live.m3u8
+#EXTINF:-1,WCNC Charlotte
+https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
+#EXTINF:-1,KVUE
+https://livevideo.tegnadigital.com/kvue/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KVUE/elvs/live.m3u8
+#EXTINF:-1,WFAA 8
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
+#EXTINF:-1,KHOU 11
+https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+#EXTINF:-1,KENS 5
+https://livevideo.tegnadigital.com/kens/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KENS/elvs/live.m3u8
+#EXTINF:-1,KING 5
+https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
+#EXTINF:-1,WHAS 11
+https://livevideo.tegnadigital.com/whas/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WHAS/elvs/live.m3u8
+#EXTINF:-1,KGW 8
+https://livevideo.tegnadigital.com/kgw/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KGW/elvs/live.m3u8
+#EXTINF:-1,CBS 8 San Diego
+https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
+#EXTINF:-1,Fox 61 Hartford
+https://livevideo.tegnadigital.com/wtic/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC/elvs/live.m3u8
+#EXTINF:-1,WTHR Channel 13
+https://livevideo.tegnadigital.com/wthr/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTHR/elvs/live.m3u8
+#EXTINF:-1,WBNS 10TV
+https://livevideo.tegnadigital.com/wbns/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WBNS/elvs/live.m3u8
 #EXTINF:-1,WSB-TV 2 Now
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
 #EXTINF:-1,WHIO-TV 7
@@ -16,6 +55,34 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
 https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
 #EXTINF:-1,WCPO 9
 https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
+#EXTINF:-1,WPTV NewsChannel 5
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wptv.com%2F
+#EXTINF:-1,KSHB 41
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.kshb.com%2F
+#EXTINF:-1,ABC15 Arizona
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.abc15.com%2F
+#EXTINF:-1,WFTS ABC Action News
+https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.abcactionnews.com%2F
+#EXTINF:-1,WXYZ Channel 7
+https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wxyz.com%2F
+#EXTINF:-1,WMAR 2
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wmar2news.com%2F
+#EXTINF:-1,ABC 10 San Diego
+https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.10news.com%2F
+#EXTINF:-1,ABC Denver 7
+https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.denver7.com%2F
+#EXTINF:-1,WRTV
+https://content.uplynk.com/channel/63cfc472081e49b184a02cb7da5895e6.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wrtv.com%2F%2F
+#EXTINF:-1,Idaho News 6
+https://content.uplynk.com/channel/f094c565340b4b03a5ac462e3cfb5475.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.kivitv.com%2F
+#EXTINF:-1,KMTV 3
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.3newsnow.com%2F
+#EXTINF:-1,KTNV Channel 13
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.ktnv.com%2F
+#EXTINF:-1,NewsChannel 5
+https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.newschannel5.com%2F
+#EXTINF:-1,TMJ4
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.tmj4.com%2F
 #EXTINF:-1,WBAL-TV 11
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1,WISN 12
