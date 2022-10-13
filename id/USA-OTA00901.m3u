@@ -1,43 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="2.1" tvg-id="WKAQDT.us" tvg-name="WKAQDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12468_dark_360w_270h.png",WKAQ-TV
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-chno="2.2" tvg-id="WKAQDT2.us" tvg-name="WKAQDT2" tvg-logo="",WKAQ .2
+#EXTINF:-1 tvg-chno="2.2" tvg-id="WKAQDT2.us" tvg-name="WKAQDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69285_dark_360w_270h.png",WKAQ .2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-chno="2.3" tvg-id="WKAQDT3.us" tvg-name="WKAQDT3" tvg-logo="",NBC PR
+#EXTINF:-1 tvg-chno="2.3" tvg-id="WKAQDT3.us" tvg-name="WKAQDT3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png",NBC PR
 https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
-#EXTINF:-1 tvg-chno="4.1" tvg-id="" tvg-name="" tvg-logo="",WAPA-TV
-#EXTINF:-1 tvg-chno="4.2" tvg-id="" tvg-name="" tvg-logo="",WAPA2HD
-#EXTINF:-1 tvg-chno="4.3" tvg-id="" tvg-name="" tvg-logo="",WAPA3
-#EXTINF:-1 tvg-chno="5.1" tvg-id="" tvg-name="" tvg-logo="",WORA-TV
-#EXTINF:-1 tvg-chno="5.2" tvg-id="" tvg-name="" tvg-logo="",UIA-TV
-#EXTINF:-1 tvg-chno="5.3" tvg-id="" tvg-name="" tvg-logo="",VIVE
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-chno="5.4" tvg-id="" tvg-name="" tvg-logo="",Tele5.4
-#EXTINF:-1 tvg-chno="6.1" tvg-id="" tvg-name="" tvg-logo="",WIPR-TV
+#EXTINF:-1 tvg-chno="4.1" tvg-id="WAPADT.us" tvg-name="WAPADT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63389_dark_360w_270h.png",WAPA-TV
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/wapa.pr.m3u8
+#EXTINF:-1 tvg-chno="4.2" tvg-id="WAPADT2.us" tvg-name="WAPADT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63739_dark_360w_270h.png",WAPA2HD
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/wapa.2.pr.m3u8
+#EXTINF:-1 tvg-chno="4.3" tvg-id="WAPADT3.us" tvg-name="WAPADT3" tvg-logo="",WAPA3
+https://arkina1234.github.io/live/pr/wapa3.m3u8
+#EXTINF:-1 tvg-chno="6.1" tvg-id="WIPRDT.us" tvg-name="WIPRDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63811_dark_360w_270h.png",WIPR-TV
 https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
-#EXTINF:-1 tvg-chno="8.8" tvg-id="" tvg-name="" tvg-logo="",WRUA
-https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="" tvg-name="" tvg-logo="",WLII-DT
+#EXTINF:-1 tvg-chno="11.1" tvg-id="WLIIDT.us" tvg-name="WLIIDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s43726_dark_360w_270h.png",WLII-DT
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 tvg-chno="11.2" tvg-id="" tvg-name="" tvg-logo="",ELII-DT
+#EXTINF:-1 tvg-chno="11.2" tvg-id="WLIIDT2.us" tvg-name="WLIIDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29058_dark_360w_270h.png",ELII-DT
 https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?t1=
-#EXTINF:-1 tvg-chno="13.1" tvg-id="" tvg-name="" tvg-logo="",WORO
+#EXTINF:-1 tvg-chno="13.1" tvg-id="WORODT.us" tvg-name="WORODT" tvg-logo="",WORO
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwMDM2ZDYxN2JkMDI3MjVlODUwMjA3YzVkMzc5MDg5YyIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjY1Njk2MTg0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Jw-e7366eZhHwVmS3PX7sI4OhprKGYiHAh7pzie_fiNn3sKTYGm3Iav1f7YRKQ5__Ck8gpeuxFoPXBgg4WuKJ_QZA9lgskzBH1cmw8qcE067DVjJUQDnb4S5GQ1dWGmfeuZ1ASA5i4H6WQH8dzIyzw5le81_aKXNqo5sMnong25hhyDto9qMYIAFa9GIl9_sz5PkPC181DzKVuFyVVft7EG0vG5tup82htJPG2coVzOEjV9pYwGIK1awpmwWRZazQIJxxqfh2F0CwaZHZF6R6W2EZwU6QS2zX_MEZKra6WwkLkQzgGFc15XP-N5mOmJhv-OklEbjAifTfR_YWe2sIg/manifest/video.m3u8
-#EXTINF:-1 tvg-chno="18.1" tvg-id="" tvg-name="" tvg-logo="",WTCV-TV
-#EXTINF:-1 tvg-chno="24.1" tvg-id="" tvg-name="" tvg-logo="",WJPX
+#EXTINF:-1 tvg-chno="18.1" tvg-id="WTCVDT.us" tvg-name="WTCVDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",WTCV-TV
+https://tv4.live/api/stream/crodscorner@gmail.com/788311/livetv.epg/mega.pr.m3u8
+#EXTINF:-1 tvg-chno="24.1" tvg-id="WJPXDT.us" tvg-name="WJPXDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s_dark_360w_270h.png",WJPX
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-#EXTINF:-1 tvg-chno="34.1" tvg-id="" tvg-name="" tvg-logo="",WELU-DT
+#EXTINF:-1 tvg-chno="34.1" tvg-id="WELUDT.us" tvg-name="WELUDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60790_dark_360w_270h.png",WELU-DT
 https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="36.1" tvg-id="" tvg-name="" tvg-logo="",WDWL-D1
+#EXTINF:-1 tvg-chno="36.1" tvg-id="WDWLDT.us" tvg-name="WDWLDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20286_dark_360w_270h.png",WDWL-D1
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/ngrp:enlacepr1_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="36.2" tvg-id="" tvg-name="" tvg-logo="",WDWL-D2
 https://api.new.livestream.com/accounts/27460990/events/8266929/live.m3u8
-#EXTINF:-1 tvg-chno="58.1" tvg-id="" tvg-name="" tvg-logo="",WUJA-D1
+#EXTINF:-1 tvg-chno="58.1" tvg-id="WUJADT.us" tvg-name="WUJADT" tvg-logo="",WUJA-D1
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 tvg-chno="58.2" tvg-id="" tvg-name="" tvg-logo="",WUJA-D2
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-#EXTINF:-1 tvg-chno="68.1" tvg-id="" tvg-name="" tvg-logo="",WVSN-HD
+#EXTINF:-1 tvg-chno="68.1" tvg-id="WVSNDT.us" tvg-name="WVSNDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63794_dark_360w_270h.png",WVSN-HD
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
-#EXTINF:-1 tvg-chno="68.2" tvg-id="" tvg-name="" tvg-logo="",WVSN-SD
+#EXTINF:-1 tvg-chno="68.2" tvg-id="WVSNDT2.us" tvg-name="WVSNDT2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63794_dark_360w_270h.png",WVSN-SD
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1992546977.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="",
