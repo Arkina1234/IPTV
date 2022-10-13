@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="2.1" tvg-id="WKAQDT.us" tvg-name="WKAQDT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12468_dark_360w_270h.png",WKAQ-DT
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-chno="2.2" tvg-id="WKAQDT2.us" tvg-name="WKAQDT2" tvg-logo="",WKAQ .2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-chno="2.2" tvg-id="" tvg-name="" tvg-logo="",
